@@ -1,4 +1,3 @@
-sblgnt
-======
+See license here:
 
-The Greek New Testament: SBL Edition
+http://sblgnt.com/license/
