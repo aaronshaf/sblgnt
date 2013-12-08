@@ -1,1584 +1,1604 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Luke 5:1">5:1</verse-number>
-  <w>Ἐγένετο</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ὄχλον</w>
-  <suffix> </suffix>
-  <w>ἐπικεῖσθαι</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀκούειν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>λόγον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἑστὼς</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>λίμνην</w>
-  <suffix> </suffix>
-  <w>Γεννησαρὲτ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 5:2">2</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶδεν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>πλοῖα</w>
-  <suffix>⸃  </suffix>
-  <w>ἑστῶτα</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>λίμνην</w>
-  <suffix>,  </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἁλιεῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἀποβάντες</w>
-  <suffix>⸃  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔπλυνον</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>δίκτυα</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:3">3</verse-number>
-  <w>ἐμβὰς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἓν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πλοίων</w>
-  <suffix>,  </suffix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>Σίμωνος</w>
-  <suffix>,  </suffix>
-  <w>ἠρώτησεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>ἐπαναγαγεῖν</w>
-  <suffix> </suffix>
-  <w>ὀλίγον</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>καθίσας</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πλοίου</w>
-  <suffix> </suffix>
-  <w>ἐδίδασκεν</w>
-  <suffix>⸃  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὄχλους</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:4">4</verse-number>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐπαύσατο</w>
-  <suffix> </suffix>
-  <w>λαλῶν</w>
-  <suffix>,  </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Σίμωνα</w>
-  <suffix>·  </suffix>
-  <w>Ἐπανάγαγε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>βάθος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>χαλάσατε</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>δίκτυα</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἄγραν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Σίμων</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Ἐπιστάτα</w>
-  <suffix>,  </suffix>
-  <w>δι’</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὅλης</w>
-  <suffix> </suffix>
-  <w>νυκτὸς</w>
-  <suffix> </suffix>
-  <w>κοπιάσαντες</w>
-  <suffix> </suffix>
-  <w>οὐδὲν</w>
-  <suffix> </suffix>
-  <w>ἐλάβομεν</w>
-  <suffix>,  </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ῥήματί</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>χαλάσω</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>δίκτυα</w>
-  <suffix>⸃.  </suffix>
-  <verse-number id="Luke 5:6">6</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>ποιήσαντες</w>
-  <suffix> </suffix>
-  <w>συνέκλεισαν</w>
-  <suffix> </suffix>
-  <w>πλῆθος</w>
-  <suffix> </suffix>
-  <w>ἰχθύων</w>
-  <suffix> </suffix>
-  <w>πολύ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>διερρήσσετο</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>δίκτυα</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:7">7</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατένευσαν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μετόχοις</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἑτέρῳ</w>
-  <suffix> </suffix>
-  <w>πλοίῳ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἐλθόντας</w>
-  <suffix> </suffix>
-  <w>συλλαβέσθαι</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦλθον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔπλησαν</w>
-  <suffix> </suffix>
-  <w>ἀμφότερα</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πλοῖα</w>
-  <suffix> </suffix>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <w>βυθίζεσθαι</w>
-  <suffix> </suffix>
-  <w>αὐτά</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:8">8</verse-number>
-  <w>ἰδὼν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Σίμων</w>
-  <suffix> </suffix>
-  <w>Πέτρος</w>
-  <suffix> </suffix>
-  <w>προσέπεσεν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>γόνασιν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>λέγων</w>
-  <suffix>·  </suffix>
-  <w>Ἔξελθε</w>
-  <suffix> </suffix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>ἐμοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἀνὴρ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλός</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix>,  </suffix>
-  <w>κύριε</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 5:9">9</verse-number>
-  <w>θάμβος</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>περιέσχεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πάντας</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>σὺν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἄγρᾳ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἰχθύων</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>συνέλαβον</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 5:10">10</verse-number>
-  <w>ὁμοίως</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰάκωβον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix> </suffix>
-  <w>υἱοὺς</w>
-  <suffix> </suffix>
-  <w>Ζεβεδαίου</w>
-  <suffix>,  </suffix>
-  <w>οἳ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>κοινωνοὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Σίμωνι</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Σίμωνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <w>φοβοῦ</w>
-  <suffix>·  </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπους</w>
-  <suffix> </suffix>
-  <w>ἔσῃ</w>
-  <suffix> </suffix>
-  <w>ζωγρῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:11">11</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>καταγαγόντες</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πλοῖα</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γῆν</w>
-  <suffix> </suffix>
-  <w>ἀφέντες</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ἠκολούθησαν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:12">12</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>εἶναι</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μιᾷ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πόλεων</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>ἀνὴρ</w>
-  <suffix> </suffix>
-  <w>πλήρης</w>
-  <suffix> </suffix>
-  <w>λέπρας</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἰδὼν</w>
-  <suffix>⸃  </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦν</w>
-  <suffix> </suffix>
-  <w>πεσὼν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πρόσωπον</w>
-  <suffix> </suffix>
-  <w>ἐδεήθη</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>λέγων</w>
-  <suffix>·  </suffix>
-  <w>Κύριε</w>
-  <suffix>,  </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>θέλῃς</w>
-  <suffix> </suffix>
-  <w>δύνασαί</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>καθαρίσαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:13">13</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκτείνας</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>χεῖρα</w>
-  <suffix> </suffix>
-  <w>ἥψατο</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἰπών</w>
-  <suffix>·  </suffix>
-  <w>Θέλω</w>
-  <suffix>,  </suffix>
-  <w>καθαρίσθητι</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εὐθέως</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>λέπρα</w>
-  <suffix> </suffix>
-  <w>ἀπῆλθεν</w>
-  <suffix> </suffix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:14">14</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>παρήγγειλεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>μηδενὶ</w>
-  <suffix> </suffix>
-  <w>εἰπεῖν</w>
-  <suffix>,  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ἀπελθὼν</w>
-  <suffix> </suffix>
-  <w>δεῖξον</w>
-  <suffix> </suffix>
-  <w>σεαυτὸν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἱερεῖ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσένεγκε</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>καθαρισμοῦ</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>προσέταξεν</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>μαρτύριον</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:15">15</verse-number>
-  <w>διήρχετο</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μᾶλλον</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λόγος</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>συνήρχοντο</w>
-  <suffix> </suffix>
-  <w>ὄχλοι</w>
-  <suffix> </suffix>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>ἀκούειν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεραπεύεσθαι</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀσθενειῶν</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 5:16">16</verse-number>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ὑποχωρῶν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἐρήμοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσευχόμενος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:17">17</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μιᾷ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἡμερῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>διδάσκων</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>καθήμενοι</w>
-  <suffix> </suffix>
-  <w>Φαρισαῖοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>νομοδιδάσκαλοι</w>
-  <suffix> </suffix>
-  <w>οἳ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>ἐληλυθότες</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>κώμης</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Γαλιλαίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰουδαίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰερουσαλήμ</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δύναμις</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἰᾶσθαι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:18">18</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>ἄνδρες</w>
-  <suffix> </suffix>
-  <w>φέροντες</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>κλίνης</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπον</w>
-  <suffix> </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>παραλελυμένος</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐζήτουν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>εἰσενεγκεῖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεῖναι</w>
-  <suffix> </suffix>
-  <w>ἐνώπιον</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:19">19</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>εὑρόντες</w>
-  <suffix> </suffix>
-  <w>ποίας</w>
-  <suffix> </suffix>
-  <w>εἰσενέγκωσιν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ὄχλον</w>
-  <suffix> </suffix>
-  <w>ἀναβάντες</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>δῶμα</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>κεράμων</w>
-  <suffix> </suffix>
-  <w>καθῆκαν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>σὺν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κλινιδίῳ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μέσον</w>
-  <suffix> </suffix>
-  <w>ἔμπροσθεν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:20">20</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἰδὼν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Ἄνθρωπε</w>
-  <suffix>,  </suffix>
-  <w>ἀφέωνταί</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίαι</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:21">21</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤρξαντο</w>
-  <suffix> </suffix>
-  <w>διαλογίζεσθαι</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γραμματεῖς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>Φαρισαῖοι</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Τίς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>λαλεῖ</w>
-  <suffix> </suffix>
-  <w>βλασφημίας</w>
-  <suffix>;  </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>δύναται</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἁμαρτίας</w>
-  <suffix> </suffix>
-  <w>ἀφεῖναι</w>
-  <suffix>⸃  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>μόνος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεός</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 5:22">22</verse-number>
-  <w>ἐπιγνοὺς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>διαλογισμοὺς</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>·  </suffix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>διαλογίζεσθε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>καρδίαις</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 5:23">23</verse-number>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>εὐκοπώτερον</w>
-  <suffix>,  </suffix>
-  <w>εἰπεῖν</w>
-  <suffix>·  </suffix>
-  <w>Ἀφέωνταί</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίαι</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>,  </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>εἰπεῖν</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἔγειρε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>περιπάτει</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 5:24">24</verse-number>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἰδῆτε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix> </suffix>
-  <w>ἐξουσίαν</w>
-  <suffix> </suffix>
-  <w>ἔχει</w>
-  <suffix>⸃  </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>ἀφιέναι</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίας</w>
-  <suffix>—  </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>παραλελυμένῳ</w>
-  <suffix>·  </suffix>
-  <w>Σοὶ</w>
-  <suffix> </suffix>
-  <w>λέγω</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔγειρε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἄρας</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>κλινίδιόν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>πορεύου</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οἶκόν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:25">25</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παραχρῆμα</w>
-  <suffix> </suffix>
-  <w>ἀναστὰς</w>
-  <suffix> </suffix>
-  <w>ἐνώπιον</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>,  </suffix>
-  <w>ἄρας</w>
-  <suffix> </suffix>
-  <w>ἐφ’</w>
-  <suffix> </suffix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>κατέκειτο</w>
-  <suffix>,  </suffix>
-  <w>ἀπῆλθεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οἶκον</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>δοξάζων</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>θεόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:26">26</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔκστασις</w>
-  <suffix> </suffix>
-  <w>ἔλαβεν</w>
-  <suffix> </suffix>
-  <w>ἅπαντας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐδόξαζον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>θεόν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπλήσθησαν</w>
-  <suffix> </suffix>
-  <w>φόβου</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Εἴδομεν</w>
-  <suffix> </suffix>
-  <w>παράδοξα</w>
-  <suffix> </suffix>
-  <w>σήμερον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:27">27</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>ἐξῆλθεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐθεάσατο</w>
-  <suffix> </suffix>
-  <w>τελώνην</w>
-  <suffix> </suffix>
-  <w>ὀνόματι</w>
-  <suffix> </suffix>
-  <w>Λευὶν</w>
-  <suffix> </suffix>
-  <w>καθήμενον</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τελώνιον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ἀκολούθει</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:28">28</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>καταλιπὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ἀναστὰς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἠκολούθει</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:29">29</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>δοχὴν</w>
-  <suffix> </suffix>
-  <w>μεγάλην</w>
-  <suffix> </suffix>
-  <w>Λευὶς</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>οἰκίᾳ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ὄχλος</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>πολὺς</w>
-  <suffix> </suffix>
-  <w>τελωνῶν</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἄλλων</w>
-  <suffix> </suffix>
-  <w>οἳ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>κατακείμενοι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:30">30</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐγόγγυζον</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Φαρισαῖοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γραμματεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>⸃  </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>μαθητὰς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Διὰ</w>
-  <suffix> </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>τελωνῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλῶν</w>
-  <suffix> </suffix>
-  <w>ἐσθίετε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πίνετε</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 5:31">31</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>·  </suffix>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>χρείαν</w>
-  <suffix> </suffix>
-  <w>ἔχουσιν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ὑγιαίνοντες</w>
-  <suffix> </suffix>
-  <w>ἰατροῦ</w>
-  <suffix> </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>κακῶς</w>
-  <suffix> </suffix>
-  <w>ἔχοντες</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 5:32">32</verse-number>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐλήλυθα</w>
-  <suffix> </suffix>
-  <w>καλέσαι</w>
-  <suffix> </suffix>
-  <w>δικαίους</w>
-  <suffix> </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλοὺς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>μετάνοιαν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:33">33</verse-number>
-  <w>Οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννου</w>
-  <suffix> </suffix>
-  <w>νηστεύουσιν</w>
-  <suffix> </suffix>
-  <w>πυκνὰ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δεήσεις</w>
-  <suffix> </suffix>
-  <w>ποιοῦνται</w>
-  <suffix>,  </suffix>
-  <w>ὁμοίως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>Φαρισαίων</w>
-  <suffix>,  </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>σοὶ</w>
-  <suffix> </suffix>
-  <w>ἐσθίουσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πίνουσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:34">34</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>·  </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <w>δύνασθε</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>υἱοὺς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νυμφῶνος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>νυμφίος</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ποιῆσαι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>νηστεῦσαι</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 5:35">35</verse-number>
-  <w>ἐλεύσονται</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἡμέραι</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>ἀπαρθῇ</w>
-  <suffix> </suffix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>νυμφίος</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>νηστεύσουσιν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἐκείναις</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἡμέραις</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:36">36</verse-number>
-  <w>ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παραβολὴν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Οὐδεὶς</w>
-  <suffix> </suffix>
-  <w>ἐπίβλημα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>ἱματίου</w>
-  <suffix> </suffix>
-  <w>καινοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>σχίσας</w>
-  <suffix> </suffix>
-  <w>ἐπιβάλλει</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>ἱμάτιον</w>
-  <suffix> </suffix>
-  <w>παλαιόν</w>
-  <suffix>·  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μήγε</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>καινὸν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>σχίσει</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>παλαιῷ</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>συμφωνήσει</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἐπίβλημα</w>
-  <suffix>⸃  </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>καινοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:37">37</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐδεὶς</w>
-  <suffix> </suffix>
-  <w>βάλλει</w>
-  <suffix> </suffix>
-  <w>οἶνον</w>
-  <suffix> </suffix>
-  <w>νέον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἀσκοὺς</w>
-  <suffix> </suffix>
-  <w>παλαιούς</w>
-  <suffix>·  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μήγε</w>
-  <suffix>,  </suffix>
-  <w>ῥήξει</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οἶνος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>νέος</w>
-  <suffix>⸃  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀσκούς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>ἐκχυθήσεται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἀσκοὶ</w>
-  <suffix> </suffix>
-  <w>ἀπολοῦνται</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 5:38">38</verse-number>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>οἶνον</w>
-  <suffix> </suffix>
-  <w>νέον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἀσκοὺς</w>
-  <suffix> </suffix>
-  <w>καινοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βλητέον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 5:39">39</verse-number>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐδεὶς</w>
-  <suffix> </suffix>
-  <w>πιὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>παλαιὸν</w>
-  <suffix> </suffix>
-  <w>θέλει</w>
-  <suffix> </suffix>
-  <w>νέον</w>
-  <suffix>·  </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>γάρ</w>
-  <suffix>·  </suffix>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>παλαιὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>χρηστός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Luke 5:1">5:1</verse-number>
+    <w>Ἐγένετο</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ὄχλον</w>
+    <suffix> </suffix>
+    <w>ἐπικεῖσθαι</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀκούειν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>λόγον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἑστὼς</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>λίμνην</w>
+    <suffix> </suffix>
+    <w>Γεννησαρὲτ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 5:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶδεν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>πλοῖα</w>
+    <suffix>⸃  </suffix>
+    <w>ἑστῶτα</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>λίμνην</w>
+    <suffix>,  </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἁλιεῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἀποβάντες</w>
+    <suffix>⸃  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔπλυνον</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>δίκτυα</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:3">3</verse-number>
+    <w>ἐμβὰς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἓν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πλοίων</w>
+    <suffix>,  </suffix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>Σίμωνος</w>
+    <suffix>,  </suffix>
+    <w>ἠρώτησεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>ἐπαναγαγεῖν</w>
+    <suffix> </suffix>
+    <w>ὀλίγον</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>καθίσας</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πλοίου</w>
+    <suffix> </suffix>
+    <w>ἐδίδασκεν</w>
+    <suffix>⸃  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὄχλους</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:4">4</verse-number>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐπαύσατο</w>
+    <suffix> </suffix>
+    <w>λαλῶν</w>
+    <suffix>,  </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Σίμωνα</w>
+    <suffix>·  </suffix>
+    <w>Ἐπανάγαγε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>βάθος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>χαλάσατε</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>δίκτυα</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἄγραν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Σίμων</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Ἐπιστάτα</w>
+    <suffix>,  </suffix>
+    <w>δι’</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὅλης</w>
+    <suffix> </suffix>
+    <w>νυκτὸς</w>
+    <suffix> </suffix>
+    <w>κοπιάσαντες</w>
+    <suffix> </suffix>
+    <w>οὐδὲν</w>
+    <suffix> </suffix>
+    <w>ἐλάβομεν</w>
+    <suffix>,  </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ῥήματί</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>χαλάσω</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>δίκτυα</w>
+    <suffix>⸃.  </suffix>
+    <verse-number id="Luke 5:6">6</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>ποιήσαντες</w>
+    <suffix> </suffix>
+    <w>συνέκλεισαν</w>
+    <suffix> </suffix>
+    <w>πλῆθος</w>
+    <suffix> </suffix>
+    <w>ἰχθύων</w>
+    <suffix> </suffix>
+    <w>πολύ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>διερρήσσετο</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>δίκτυα</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατένευσαν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μετόχοις</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἑτέρῳ</w>
+    <suffix> </suffix>
+    <w>πλοίῳ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἐλθόντας</w>
+    <suffix> </suffix>
+    <w>συλλαβέσθαι</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦλθον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔπλησαν</w>
+    <suffix> </suffix>
+    <w>ἀμφότερα</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πλοῖα</w>
+    <suffix> </suffix>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <w>βυθίζεσθαι</w>
+    <suffix> </suffix>
+    <w>αὐτά</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:8">8</verse-number>
+    <w>ἰδὼν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Σίμων</w>
+    <suffix> </suffix>
+    <w>Πέτρος</w>
+    <suffix> </suffix>
+    <w>προσέπεσεν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>γόνασιν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>λέγων</w>
+    <suffix>·  </suffix>
+    <w>Ἔξελθε</w>
+    <suffix> </suffix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>ἐμοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἀνὴρ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλός</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix>,  </suffix>
+    <w>κύριε</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 5:9">9</verse-number>
+    <w>θάμβος</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>περιέσχεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πάντας</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>σὺν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἄγρᾳ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἰχθύων</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>συνέλαβον</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 5:10">10</verse-number>
+    <w>ὁμοίως</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰάκωβον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix> </suffix>
+    <w>υἱοὺς</w>
+    <suffix> </suffix>
+    <w>Ζεβεδαίου</w>
+    <suffix>,  </suffix>
+    <w>οἳ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>κοινωνοὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Σίμωνι</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Σίμωνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <w>φοβοῦ</w>
+    <suffix>·  </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπους</w>
+    <suffix> </suffix>
+    <w>ἔσῃ</w>
+    <suffix> </suffix>
+    <w>ζωγρῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:11">11</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>καταγαγόντες</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πλοῖα</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γῆν</w>
+    <suffix> </suffix>
+    <w>ἀφέντες</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ἠκολούθησαν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 5:12">12</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>εἶναι</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μιᾷ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πόλεων</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>ἀνὴρ</w>
+    <suffix> </suffix>
+    <w>πλήρης</w>
+    <suffix> </suffix>
+    <w>λέπρας</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἰδὼν</w>
+    <suffix>⸃  </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦν</w>
+    <suffix> </suffix>
+    <w>πεσὼν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πρόσωπον</w>
+    <suffix> </suffix>
+    <w>ἐδεήθη</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>λέγων</w>
+    <suffix>·  </suffix>
+    <w>Κύριε</w>
+    <suffix>,  </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>θέλῃς</w>
+    <suffix> </suffix>
+    <w>δύνασαί</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>καθαρίσαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:13">13</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκτείνας</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>χεῖρα</w>
+    <suffix> </suffix>
+    <w>ἥψατο</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἰπών</w>
+    <suffix>·  </suffix>
+    <w>Θέλω</w>
+    <suffix>,  </suffix>
+    <w>καθαρίσθητι</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εὐθέως</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>λέπρα</w>
+    <suffix> </suffix>
+    <w>ἀπῆλθεν</w>
+    <suffix> </suffix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:14">14</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>παρήγγειλεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>μηδενὶ</w>
+    <suffix> </suffix>
+    <w>εἰπεῖν</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ἀπελθὼν</w>
+    <suffix> </suffix>
+    <w>δεῖξον</w>
+    <suffix> </suffix>
+    <w>σεαυτὸν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἱερεῖ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσένεγκε</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>καθαρισμοῦ</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>προσέταξεν</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>μαρτύριον</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:15">15</verse-number>
+    <w>διήρχετο</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μᾶλλον</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λόγος</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>συνήρχοντο</w>
+    <suffix> </suffix>
+    <w>ὄχλοι</w>
+    <suffix> </suffix>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>ἀκούειν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεραπεύεσθαι</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀσθενειῶν</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 5:16">16</verse-number>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ὑποχωρῶν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἐρήμοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσευχόμενος</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 5:17">17</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μιᾷ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἡμερῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>διδάσκων</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>καθήμενοι</w>
+    <suffix> </suffix>
+    <w>Φαρισαῖοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>νομοδιδάσκαλοι</w>
+    <suffix> </suffix>
+    <w>οἳ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>ἐληλυθότες</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>κώμης</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Γαλιλαίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰουδαίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰερουσαλήμ</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δύναμις</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἰᾶσθαι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:18">18</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>ἄνδρες</w>
+    <suffix> </suffix>
+    <w>φέροντες</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>κλίνης</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπον</w>
+    <suffix> </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>παραλελυμένος</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐζήτουν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>εἰσενεγκεῖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεῖναι</w>
+    <suffix> </suffix>
+    <w>ἐνώπιον</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:19">19</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>εὑρόντες</w>
+    <suffix> </suffix>
+    <w>ποίας</w>
+    <suffix> </suffix>
+    <w>εἰσενέγκωσιν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ὄχλον</w>
+    <suffix> </suffix>
+    <w>ἀναβάντες</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>δῶμα</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>κεράμων</w>
+    <suffix> </suffix>
+    <w>καθῆκαν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>σὺν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κλινιδίῳ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μέσον</w>
+    <suffix> </suffix>
+    <w>ἔμπροσθεν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:20">20</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἰδὼν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Ἄνθρωπε</w>
+    <suffix>,  </suffix>
+    <w>ἀφέωνταί</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίαι</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:21">21</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤρξαντο</w>
+    <suffix> </suffix>
+    <w>διαλογίζεσθαι</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γραμματεῖς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>Φαρισαῖοι</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Τίς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>λαλεῖ</w>
+    <suffix> </suffix>
+    <w>βλασφημίας</w>
+    <suffix>;  </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>δύναται</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἁμαρτίας</w>
+    <suffix> </suffix>
+    <w>ἀφεῖναι</w>
+    <suffix>⸃  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>μόνος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεός</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 5:22">22</verse-number>
+    <w>ἐπιγνοὺς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>διαλογισμοὺς</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>·  </suffix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>διαλογίζεσθε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>καρδίαις</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 5:23">23</verse-number>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>εὐκοπώτερον</w>
+    <suffix>,  </suffix>
+    <w>εἰπεῖν</w>
+    <suffix>·  </suffix>
+    <w>Ἀφέωνταί</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίαι</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>,  </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>εἰπεῖν</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἔγειρε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>περιπάτει</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 5:24">24</verse-number>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἰδῆτε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix> </suffix>
+    <w>ἐξουσίαν</w>
+    <suffix> </suffix>
+    <w>ἔχει</w>
+    <suffix>⸃  </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>ἀφιέναι</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίας</w>
+    <suffix>—  </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>παραλελυμένῳ</w>
+    <suffix>·  </suffix>
+    <w>Σοὶ</w>
+    <suffix> </suffix>
+    <w>λέγω</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔγειρε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἄρας</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>κλινίδιόν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>πορεύου</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οἶκόν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:25">25</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παραχρῆμα</w>
+    <suffix> </suffix>
+    <w>ἀναστὰς</w>
+    <suffix> </suffix>
+    <w>ἐνώπιον</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>,  </suffix>
+    <w>ἄρας</w>
+    <suffix> </suffix>
+    <w>ἐφ’</w>
+    <suffix> </suffix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>κατέκειτο</w>
+    <suffix>,  </suffix>
+    <w>ἀπῆλθεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οἶκον</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>δοξάζων</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>θεόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:26">26</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔκστασις</w>
+    <suffix> </suffix>
+    <w>ἔλαβεν</w>
+    <suffix> </suffix>
+    <w>ἅπαντας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐδόξαζον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>θεόν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπλήσθησαν</w>
+    <suffix> </suffix>
+    <w>φόβου</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Εἴδομεν</w>
+    <suffix> </suffix>
+    <w>παράδοξα</w>
+    <suffix> </suffix>
+    <w>σήμερον</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 5:27">27</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>ἐξῆλθεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐθεάσατο</w>
+    <suffix> </suffix>
+    <w>τελώνην</w>
+    <suffix> </suffix>
+    <w>ὀνόματι</w>
+    <suffix> </suffix>
+    <w>Λευὶν</w>
+    <suffix> </suffix>
+    <w>καθήμενον</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τελώνιον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ἀκολούθει</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:28">28</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>καταλιπὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ἀναστὰς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἠκολούθει</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 5:29">29</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>δοχὴν</w>
+    <suffix> </suffix>
+    <w>μεγάλην</w>
+    <suffix> </suffix>
+    <w>Λευὶς</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>οἰκίᾳ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ὄχλος</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>πολὺς</w>
+    <suffix> </suffix>
+    <w>τελωνῶν</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἄλλων</w>
+    <suffix> </suffix>
+    <w>οἳ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>κατακείμενοι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:30">30</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐγόγγυζον</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Φαρισαῖοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γραμματεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>⸃  </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>μαθητὰς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Διὰ</w>
+    <suffix> </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>τελωνῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλῶν</w>
+    <suffix> </suffix>
+    <w>ἐσθίετε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πίνετε</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 5:31">31</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>·  </suffix>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>χρείαν</w>
+    <suffix> </suffix>
+    <w>ἔχουσιν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ὑγιαίνοντες</w>
+    <suffix> </suffix>
+    <w>ἰατροῦ</w>
+    <suffix> </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>κακῶς</w>
+    <suffix> </suffix>
+    <w>ἔχοντες</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 5:32">32</verse-number>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐλήλυθα</w>
+    <suffix> </suffix>
+    <w>καλέσαι</w>
+    <suffix> </suffix>
+    <w>δικαίους</w>
+    <suffix> </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλοὺς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>μετάνοιαν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 5:33">33</verse-number>
+    <w>Οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννου</w>
+    <suffix> </suffix>
+    <w>νηστεύουσιν</w>
+    <suffix> </suffix>
+    <w>πυκνὰ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δεήσεις</w>
+    <suffix> </suffix>
+    <w>ποιοῦνται</w>
+    <suffix>,  </suffix>
+    <w>ὁμοίως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>Φαρισαίων</w>
+    <suffix>,  </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>σοὶ</w>
+    <suffix> </suffix>
+    <w>ἐσθίουσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πίνουσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:34">34</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>·  </suffix>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <w>δύνασθε</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>υἱοὺς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νυμφῶνος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>νυμφίος</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ποιῆσαι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>νηστεῦσαι</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 5:35">35</verse-number>
+    <w>ἐλεύσονται</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἡμέραι</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>ἀπαρθῇ</w>
+    <suffix> </suffix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>νυμφίος</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>νηστεύσουσιν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἐκείναις</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἡμέραις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:36">36</verse-number>
+    <w>ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παραβολὴν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Οὐδεὶς</w>
+    <suffix> </suffix>
+    <w>ἐπίβλημα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>ἱματίου</w>
+    <suffix> </suffix>
+    <w>καινοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>σχίσας</w>
+    <suffix> </suffix>
+    <w>ἐπιβάλλει</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>ἱμάτιον</w>
+    <suffix> </suffix>
+    <w>παλαιόν</w>
+    <suffix>·  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μήγε</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>καινὸν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>σχίσει</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>παλαιῷ</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>συμφωνήσει</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἐπίβλημα</w>
+    <suffix>⸃  </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>καινοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:37">37</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐδεὶς</w>
+    <suffix> </suffix>
+    <w>βάλλει</w>
+    <suffix> </suffix>
+    <w>οἶνον</w>
+    <suffix> </suffix>
+    <w>νέον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἀσκοὺς</w>
+    <suffix> </suffix>
+    <w>παλαιούς</w>
+    <suffix>·  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μήγε</w>
+    <suffix>,  </suffix>
+    <w>ῥήξει</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οἶνος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>νέος</w>
+    <suffix>⸃  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀσκούς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>ἐκχυθήσεται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἀσκοὶ</w>
+    <suffix> </suffix>
+    <w>ἀπολοῦνται</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 5:38">38</verse-number>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>οἶνον</w>
+    <suffix> </suffix>
+    <w>νέον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἀσκοὺς</w>
+    <suffix> </suffix>
+    <w>καινοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βλητέον</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 5:39">39</verse-number>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐδεὶς</w>
+    <suffix> </suffix>
+    <w>πιὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>παλαιὸν</w>
+    <suffix> </suffix>
+    <w>θέλει</w>
+    <suffix> </suffix>
+    <w>νέον</w>
+    <suffix>·  </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>γάρ</w>
+    <suffix>·  </suffix>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>παλαιὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>χρηστός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

@@ -1,472 +1,486 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="1 Corinthians 5:1">5:1</verse-number>
-  <w>Ὅλως</w>
-  <suffix> </suffix>
-  <w>ἀκούεται</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>πορνεία</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοιαύτη</w>
-  <suffix> </suffix>
-  <w>πορνεία</w>
-  <suffix> </suffix>
-  <w>ἥτις</w>
-  <suffix> </suffix>
-  <w>οὐδὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔθνεσιν</w>
-  <suffix>,  </suffix>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <w>γυναῖκά</w>
-  <suffix> </suffix>
-  <w>τινα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πατρὸς</w>
-  <suffix> </suffix>
-  <w>ἔχειν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 5:2">2</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>πεφυσιωμένοι</w>
-  <suffix> </suffix>
-  <w>ἐστέ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐχὶ</w>
-  <suffix> </suffix>
-  <w>μᾶλλον</w>
-  <suffix> </suffix>
-  <w>ἐπενθήσατε</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀρθῇ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>μέσου</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἔργον</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ποιήσας</w>
-  <suffix>;  </suffix>
-  <verse-number id="1 Corinthians 5:3">3</verse-number>
-  <w>Ἐγὼ</w>
-  <suffix> </suffix>
-  <w>μὲν</w>
-  <suffix> </suffix>
-  <w>γάρ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀπὼν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>σώματι</w>
-  <suffix> </suffix>
-  <w>παρὼν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πνεύματι</w>
-  <suffix>,  </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>κέκρικα</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>παρὼν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>κατεργασάμενον</w>
-  <suffix> </suffix>
-  <verse-number id="1 Corinthians 5:4">4</verse-number>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ὀνόματι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἰησοῦ</w>
-  <suffix>,  </suffix>
-  <w>συναχθέντων</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἐμοῦ</w>
-  <suffix> </suffix>
-  <w>πνεύματος</w>
-  <suffix> </suffix>
-  <w>σὺν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>δυνάμει</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸁</prefix>
-  <w>Ἰησοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 5:5">5</verse-number>
-  <w>παραδοῦναι</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>τοιοῦτον</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Σατανᾷ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ὄλεθρον</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>σαρκός</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πνεῦμα</w>
-  <suffix> </suffix>
-  <w>σωθῇ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κυρίου</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 5:6">6</verse-number>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>καλὸν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>καύχημα</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>.  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδατε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>μικρὰ</w>
-  <suffix> </suffix>
-  <w>ζύμη</w>
-  <suffix> </suffix>
-  <w>ὅλον</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>φύραμα</w>
-  <suffix> </suffix>
-  <w>ζυμοῖ</w>
-  <suffix>;  </suffix>
-  <verse-number id="1 Corinthians 5:7">7</verse-number>
-  <w>ἐκκαθάρατε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>παλαιὰν</w>
-  <suffix> </suffix>
-  <w>ζύμην</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἦτε</w>
-  <suffix> </suffix>
-  <w>νέον</w>
-  <suffix> </suffix>
-  <w>φύραμα</w>
-  <suffix>,  </suffix>
-  <w>καθώς</w>
-  <suffix> </suffix>
-  <w>ἐστε</w>
-  <suffix> </suffix>
-  <w>ἄζυμοι</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πάσχα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἐτύθη</w>
-  <suffix> </suffix>
-  <w>Χριστός</w>
-  <suffix>·  </suffix>
-  <verse-number id="1 Corinthians 5:8">8</verse-number>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <w>ἑορτάζωμεν</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ζύμῃ</w>
-  <suffix> </suffix>
-  <w>παλαιᾷ</w>
-  <suffix> </suffix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ζύμῃ</w>
-  <suffix> </suffix>
-  <w>κακίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πονηρίας</w>
-  <suffix>,  </suffix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἀζύμοις</w>
-  <suffix> </suffix>
-  <w>εἰλικρινείας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀληθείας</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 5:9">9</verse-number>
-  <w>Ἔγραψα</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐπιστολῇ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>συναναμίγνυσθαι</w>
-  <suffix> </suffix>
-  <w>πόρνοις</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 5:10">10</verse-number>
-  <prefix> ⸀</prefix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>πάντως</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>πόρνοις</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κόσμου</w>
-  <suffix> </suffix>
-  <w>τούτου</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>πλεονέκταις</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἅρπαξιν</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>εἰδωλολάτραις</w>
-  <suffix>,  </suffix>
-  <w>ἐπεὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὠφείλετε</w>
-  <suffix> </suffix>
-  <w>ἄρα</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κόσμου</w>
-  <suffix> </suffix>
-  <w>ἐξελθεῖν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 5:11">11</verse-number>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔγραψα</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>συναναμίγνυσθαι</w>
-  <suffix> </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἀδελφὸς</w>
-  <suffix> </suffix>
-  <w>ὀνομαζόμενος</w>
-  <suffix> </suffix>
-  <w>ᾖ</w>
-  <suffix> </suffix>
-  <w>πόρνος</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>πλεονέκτης</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>εἰδωλολάτρης</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>λοίδορος</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>μέθυσος</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>ἅρπαξ</w>
-  <suffix>,  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τοιούτῳ</w>
-  <suffix> </suffix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>συνεσθίειν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 5:12">12</verse-number>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>γάρ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix> </suffix>
-  <w>κρίνειν</w>
-  <suffix>;  </suffix>
-  <w>οὐχὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἔσω</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>κρίνετε</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 5:13">13</verse-number>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κρίνει</w>
-  <suffix>;  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐξάρατε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πονηρὸν</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="1 Corinthians 5:1">5:1</verse-number>
+    <w>Ὅλως</w>
+    <suffix> </suffix>
+    <w>ἀκούεται</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>πορνεία</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοιαύτη</w>
+    <suffix> </suffix>
+    <w>πορνεία</w>
+    <suffix> </suffix>
+    <w>ἥτις</w>
+    <suffix> </suffix>
+    <w>οὐδὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔθνεσιν</w>
+    <suffix>,  </suffix>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <w>γυναῖκά</w>
+    <suffix> </suffix>
+    <w>τινα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πατρὸς</w>
+    <suffix> </suffix>
+    <w>ἔχειν</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 5:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>πεφυσιωμένοι</w>
+    <suffix> </suffix>
+    <w>ἐστέ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐχὶ</w>
+    <suffix> </suffix>
+    <w>μᾶλλον</w>
+    <suffix> </suffix>
+    <w>ἐπενθήσατε</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀρθῇ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>μέσου</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἔργον</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ποιήσας</w>
+    <suffix>;  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 5:3">3</verse-number>
+    <w>Ἐγὼ</w>
+    <suffix> </suffix>
+    <w>μὲν</w>
+    <suffix> </suffix>
+    <w>γάρ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπὼν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>σώματι</w>
+    <suffix> </suffix>
+    <w>παρὼν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πνεύματι</w>
+    <suffix>,  </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>κέκρικα</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>παρὼν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>κατεργασάμενον</w>
+    <suffix> </suffix>
+    <verse-number id="1 Corinthians 5:4">4</verse-number>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ὀνόματι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <w>συναχθέντων</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἐμοῦ</w>
+    <suffix> </suffix>
+    <w>πνεύματος</w>
+    <suffix> </suffix>
+    <w>σὺν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>δυνάμει</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸁</prefix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 5:5">5</verse-number>
+    <w>παραδοῦναι</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>τοιοῦτον</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Σατανᾷ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ὄλεθρον</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>σαρκός</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πνεῦμα</w>
+    <suffix> </suffix>
+    <w>σωθῇ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κυρίου</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 5:6">6</verse-number>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>καλὸν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>καύχημα</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>.  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδατε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>μικρὰ</w>
+    <suffix> </suffix>
+    <w>ζύμη</w>
+    <suffix> </suffix>
+    <w>ὅλον</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>φύραμα</w>
+    <suffix> </suffix>
+    <w>ζυμοῖ</w>
+    <suffix>;  </suffix>
+    <verse-number id="1 Corinthians 5:7">7</verse-number>
+    <w>ἐκκαθάρατε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>παλαιὰν</w>
+    <suffix> </suffix>
+    <w>ζύμην</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἦτε</w>
+    <suffix> </suffix>
+    <w>νέον</w>
+    <suffix> </suffix>
+    <w>φύραμα</w>
+    <suffix>,  </suffix>
+    <w>καθώς</w>
+    <suffix> </suffix>
+    <w>ἐστε</w>
+    <suffix> </suffix>
+    <w>ἄζυμοι</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πάσχα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἐτύθη</w>
+    <suffix> </suffix>
+    <w>Χριστός</w>
+    <suffix>·  </suffix>
+    <verse-number id="1 Corinthians 5:8">8</verse-number>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <w>ἑορτάζωμεν</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ζύμῃ</w>
+    <suffix> </suffix>
+    <w>παλαιᾷ</w>
+    <suffix> </suffix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ζύμῃ</w>
+    <suffix> </suffix>
+    <w>κακίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πονηρίας</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἀζύμοις</w>
+    <suffix> </suffix>
+    <w>εἰλικρινείας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀληθείας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 5:9">9</verse-number>
+    <w>Ἔγραψα</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐπιστολῇ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>συναναμίγνυσθαι</w>
+    <suffix> </suffix>
+    <w>πόρνοις</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 5:10">10</verse-number>
+    <prefix> ⸀</prefix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>πάντως</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>πόρνοις</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κόσμου</w>
+    <suffix> </suffix>
+    <w>τούτου</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>πλεονέκταις</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἅρπαξιν</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>εἰδωλολάτραις</w>
+    <suffix>,  </suffix>
+    <w>ἐπεὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὠφείλετε</w>
+    <suffix> </suffix>
+    <w>ἄρα</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κόσμου</w>
+    <suffix> </suffix>
+    <w>ἐξελθεῖν</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 5:11">11</verse-number>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔγραψα</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>συναναμίγνυσθαι</w>
+    <suffix> </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἀδελφὸς</w>
+    <suffix> </suffix>
+    <w>ὀνομαζόμενος</w>
+    <suffix> </suffix>
+    <w>ᾖ</w>
+    <suffix> </suffix>
+    <w>πόρνος</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>πλεονέκτης</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>εἰδωλολάτρης</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>λοίδορος</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>μέθυσος</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>ἅρπαξ</w>
+    <suffix>,  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τοιούτῳ</w>
+    <suffix> </suffix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>συνεσθίειν</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 5:12">12</verse-number>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>γάρ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix> </suffix>
+    <w>κρίνειν</w>
+    <suffix>;  </suffix>
+    <w>οὐχὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἔσω</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>κρίνετε</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 5:13">13</verse-number>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κρίνει</w>
+    <suffix>;  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐξάρατε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πονηρὸν</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

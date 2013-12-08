@@ -1,1287 +1,1307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="John 20:1">20:1</verse-number>
-  <w>Τῇ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μιᾷ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>σαββάτων</w>
-  <suffix> </suffix>
-  <w>Μαρία</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>Μαγδαληνὴ</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>πρωῒ</w>
-  <suffix> </suffix>
-  <w>σκοτίας</w>
-  <suffix> </suffix>
-  <w>ἔτι</w>
-  <suffix> </suffix>
-  <w>οὔσης</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βλέπει</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>λίθον</w>
-  <suffix> </suffix>
-  <w>ἠρμένον</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>μνημείου</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:2">2</verse-number>
-  <w>τρέχει</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>Σίμωνα</w>
-  <suffix> </suffix>
-  <w>Πέτρον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἄλλον</w>
-  <suffix> </suffix>
-  <w>μαθητὴν</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>ἐφίλει</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ἦραν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριον</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>μνημείου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ποῦ</w>
-  <suffix> </suffix>
-  <w>ἔθηκαν</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:3">3</verse-number>
-  <w>ἐξῆλθεν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Πέτρος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄλλος</w>
-  <suffix> </suffix>
-  <w>μαθητής</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤρχοντο</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:4">4</verse-number>
-  <w>ἔτρεχον</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ὁμοῦ</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄλλος</w>
-  <suffix> </suffix>
-  <w>μαθητὴς</w>
-  <suffix> </suffix>
-  <w>προέδραμεν</w>
-  <suffix> </suffix>
-  <w>τάχιον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Πέτρου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>πρῶτος</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>,  </suffix>
-  <verse-number id="John 20:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παρακύψας</w>
-  <suffix> </suffix>
-  <w>βλέπει</w>
-  <suffix> </suffix>
-  <w>κείμενα</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὀθόνια</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μέντοι</w>
-  <suffix> </suffix>
-  <w>εἰσῆλθεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:6">6</verse-number>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Σίμων</w>
-  <suffix> </suffix>
-  <w>Πέτρος</w>
-  <suffix> </suffix>
-  <w>ἀκολουθῶν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰσῆλθεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θεωρεῖ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὀθόνια</w>
-  <suffix> </suffix>
-  <w>κείμενα</w>
-  <suffix>,  </suffix>
-  <verse-number id="John 20:7">7</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σουδάριον</w>
-  <suffix>,  </suffix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>κεφαλῆς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ὀθονίων</w>
-  <suffix> </suffix>
-  <w>κείμενον</w>
-  <suffix> </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>χωρὶς</w>
-  <suffix> </suffix>
-  <w>ἐντετυλιγμένον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἕνα</w>
-  <suffix> </suffix>
-  <w>τόπον</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 20:8">8</verse-number>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>εἰσῆλθεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄλλος</w>
-  <suffix> </suffix>
-  <w>μαθητὴς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἐλθὼν</w>
-  <suffix> </suffix>
-  <w>πρῶτος</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶδεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπίστευσεν</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 20:9">9</verse-number>
-  <w>οὐδέπω</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ᾔδεισαν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γραφὴν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>δεῖ</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>νεκρῶν</w>
-  <suffix> </suffix>
-  <w>ἀναστῆναι</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:10">10</verse-number>
-  <w>ἀπῆλθον</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὑτοὺς</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταί</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:11">11</verse-number>
-  <w>Μαρία</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἱστήκει</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>μνημείῳ</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix> </suffix>
-  <w>κλαίουσα</w>
-  <suffix>⸃.  </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ἔκλαιεν</w>
-  <suffix> </suffix>
-  <w>παρέκυψεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μνημεῖον</w>
-  <suffix>,  </suffix>
-  <verse-number id="John 20:12">12</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θεωρεῖ</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἀγγέλους</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>λευκοῖς</w>
-  <suffix> </suffix>
-  <w>καθεζομένους</w>
-  <suffix>,  </suffix>
-  <w>ἕνα</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>κεφαλῇ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἕνα</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ποσίν</w>
-  <suffix>,  </suffix>
-  <w>ὅπου</w>
-  <suffix> </suffix>
-  <w>ἔκειτο</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σῶμα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:13">13</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγουσιν</w>
-  <suffix> </suffix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνοι</w>
-  <suffix>·  </suffix>
-  <w>Γύναι</w>
-  <suffix>,  </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>κλαίεις</w>
-  <suffix>;  </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἦραν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἶδα</w>
-  <suffix> </suffix>
-  <w>ποῦ</w>
-  <suffix> </suffix>
-  <w>ἔθηκαν</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:14">14</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>εἰποῦσα</w>
-  <suffix> </suffix>
-  <w>ἐστράφη</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὀπίσω</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θεωρεῖ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦν</w>
-  <suffix> </suffix>
-  <w>ἑστῶτα</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ᾔδει</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:15">15</verse-number>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Γύναι</w>
-  <suffix>,  </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>κλαίεις</w>
-  <suffix>;  </suffix>
-  <w>τίνα</w>
-  <suffix> </suffix>
-  <w>ζητεῖς</w>
-  <suffix>;  </suffix>
-  <w>ἐκείνη</w>
-  <suffix> </suffix>
-  <w>δοκοῦσα</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κηπουρός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Κύριε</w>
-  <suffix>,  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>σὺ</w>
-  <suffix> </suffix>
-  <w>ἐβάστασας</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>εἰπέ</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>ποῦ</w>
-  <suffix> </suffix>
-  <w>ἔθηκας</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>κἀγὼ</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἀρῶ</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:16">16</verse-number>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Μαριάμ</w>
-  <suffix>.  </suffix>
-  <w>στραφεῖσα</w>
-  <suffix> </suffix>
-  <w>ἐκείνη</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἑβραϊστί</w>
-  <suffix>·  </suffix>
-  <w>Ραββουνι</w>
-  <suffix> </suffix>
-  <prefix> (</prefix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>λέγεται</w>
-  <suffix> </suffix>
-  <w>Διδάσκαλε</w>
-  <suffix>).  </suffix>
-  <verse-number id="John 20:17">17</verse-number>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Μή</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ἅπτου</w>
-  <suffix>,  </suffix>
-  <w>οὔπω</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἀναβέβηκα</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πατέρα</w>
-  <suffix>·  </suffix>
-  <w>πορεύου</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀδελφούς</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰπὲ</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ἀναβαίνω</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πατέρα</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πατέρα</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θεόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θεὸν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:18">18</verse-number>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Μαριὰμ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>Μαγδαληνὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀγγέλλουσα</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>μαθηταῖς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἑώρακα</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτῇ</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:19">19</verse-number>
-  <w>Οὔσης</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ὀψίας</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>ἐκείνῃ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μιᾷ</w>
-  <suffix> </suffix>
-  <w>σαββάτων</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>θυρῶν</w>
-  <suffix> </suffix>
-  <w>κεκλεισμένων</w>
-  <suffix> </suffix>
-  <w>ὅπου</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φόβον</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>Ἰουδαίων</w>
-  <suffix>,  </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔστη</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μέσον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Εἰρήνη</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:20">20</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>εἰπὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔδειξεν</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>χεῖρας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πλευρὰν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῖς</w>
-  <suffix>.  </suffix>
-  <w>ἐχάρησαν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>ἰδόντες</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριον</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:21">21</verse-number>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>⸃  </suffix>
-  <w>πάλιν</w>
-  <suffix>·  </suffix>
-  <w>Εἰρήνη</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>·  </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>ἀπέσταλκέν</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>πατήρ</w>
-  <suffix>,  </suffix>
-  <w>κἀγὼ</w>
-  <suffix> </suffix>
-  <w>πέμπω</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:22">22</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>εἰπὼν</w>
-  <suffix> </suffix>
-  <w>ἐνεφύσησεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Λάβετε</w>
-  <suffix> </suffix>
-  <w>πνεῦμα</w>
-  <suffix> </suffix>
-  <w>ἅγιον</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 20:23">23</verse-number>
-  <w>ἄν</w>
-  <suffix> </suffix>
-  <w>τινων</w>
-  <suffix> </suffix>
-  <w>ἀφῆτε</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίας</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀφέωνται</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>ἄν</w>
-  <suffix> </suffix>
-  <w>τινων</w>
-  <suffix> </suffix>
-  <w>κρατῆτε</w>
-  <suffix> </suffix>
-  <w>κεκράτηνται</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:24">24</verse-number>
-  <w>Θωμᾶς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>δώδεκα</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λεγόμενος</w>
-  <suffix> </suffix>
-  <w>Δίδυμος</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:25">25</verse-number>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <w>μαθηταί</w>
-  <suffix>·  </suffix>
-  <w>Ἑωράκαμεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριον</w>
-  <suffix>.  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ἐὰν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἴδω</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>χερσὶν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>τύπον</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἥλων</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βάλω</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>δάκτυλόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>τύπον</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἥλων</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βάλω</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>χεῖρα</w>
-  <suffix>⸃  </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πλευρὰν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>πιστεύσω</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:26">26</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>μεθ’</w>
-  <suffix> </suffix>
-  <w>ἡμέρας</w>
-  <suffix> </suffix>
-  <w>ὀκτὼ</w>
-  <suffix> </suffix>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>ἔσω</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Θωμᾶς</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>θυρῶν</w>
-  <suffix> </suffix>
-  <w>κεκλεισμένων</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔστη</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μέσον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Εἰρήνη</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:27">27</verse-number>
-  <w>εἶτα</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Θωμᾷ</w>
-  <suffix>·  </suffix>
-  <w>Φέρε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>δάκτυλόν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>ὧδε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἴδε</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>χεῖράς</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φέρε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>χεῖρά</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βάλε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πλευράν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>γίνου</w>
-  <suffix> </suffix>
-  <w>ἄπιστος</w>
-  <suffix> </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>πιστός</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:28">28</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>Θωμᾶς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>κύριός</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεός</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:29">29</verse-number>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Ὅτι</w>
-  <suffix> </suffix>
-  <w>ἑώρακάς</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>πεπίστευκας</w>
-  <suffix>;  </suffix>
-  <w>μακάριοι</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἰδόντες</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πιστεύσαντες</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 20:30">30</verse-number>
-  <w>Πολλὰ</w>
-  <suffix> </suffix>
-  <w>μὲν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἄλλα</w>
-  <suffix> </suffix>
-  <w>σημεῖα</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ἐνώπιον</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μαθητῶν</w>
-  <suffix>,  </suffix>
-  <w>ἃ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔστιν</w>
-  <suffix> </suffix>
-  <w>γεγραμμένα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>βιβλίῳ</w>
-  <suffix> </suffix>
-  <w>τούτῳ</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 20:31">31</verse-number>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>γέγραπται</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πιστεύητε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>χριστὸς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>πιστεύοντες</w>
-  <suffix> </suffix>
-  <w>ζωὴν</w>
-  <suffix> </suffix>
-  <w>ἔχητε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ὀνόματι</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="John 20:1">20:1</verse-number>
+    <w>Τῇ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μιᾷ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>σαββάτων</w>
+    <suffix> </suffix>
+    <w>Μαρία</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>Μαγδαληνὴ</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>πρωῒ</w>
+    <suffix> </suffix>
+    <w>σκοτίας</w>
+    <suffix> </suffix>
+    <w>ἔτι</w>
+    <suffix> </suffix>
+    <w>οὔσης</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βλέπει</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>λίθον</w>
+    <suffix> </suffix>
+    <w>ἠρμένον</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>μνημείου</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:2">2</verse-number>
+    <w>τρέχει</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>Σίμωνα</w>
+    <suffix> </suffix>
+    <w>Πέτρον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἄλλον</w>
+    <suffix> </suffix>
+    <w>μαθητὴν</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>ἐφίλει</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ἦραν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριον</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>μνημείου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ποῦ</w>
+    <suffix> </suffix>
+    <w>ἔθηκαν</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:3">3</verse-number>
+    <w>ἐξῆλθεν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Πέτρος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄλλος</w>
+    <suffix> </suffix>
+    <w>μαθητής</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤρχοντο</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:4">4</verse-number>
+    <w>ἔτρεχον</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ὁμοῦ</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄλλος</w>
+    <suffix> </suffix>
+    <w>μαθητὴς</w>
+    <suffix> </suffix>
+    <w>προέδραμεν</w>
+    <suffix> </suffix>
+    <w>τάχιον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Πέτρου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>πρῶτος</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>,  </suffix>
+    <verse-number id="John 20:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παρακύψας</w>
+    <suffix> </suffix>
+    <w>βλέπει</w>
+    <suffix> </suffix>
+    <w>κείμενα</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὀθόνια</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μέντοι</w>
+    <suffix> </suffix>
+    <w>εἰσῆλθεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:6">6</verse-number>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Σίμων</w>
+    <suffix> </suffix>
+    <w>Πέτρος</w>
+    <suffix> </suffix>
+    <w>ἀκολουθῶν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰσῆλθεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θεωρεῖ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὀθόνια</w>
+    <suffix> </suffix>
+    <w>κείμενα</w>
+    <suffix>,  </suffix>
+    <verse-number id="John 20:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σουδάριον</w>
+    <suffix>,  </suffix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>κεφαλῆς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ὀθονίων</w>
+    <suffix> </suffix>
+    <w>κείμενον</w>
+    <suffix> </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>χωρὶς</w>
+    <suffix> </suffix>
+    <w>ἐντετυλιγμένον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἕνα</w>
+    <suffix> </suffix>
+    <w>τόπον</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 20:8">8</verse-number>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>εἰσῆλθεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄλλος</w>
+    <suffix> </suffix>
+    <w>μαθητὴς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἐλθὼν</w>
+    <suffix> </suffix>
+    <w>πρῶτος</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶδεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπίστευσεν</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 20:9">9</verse-number>
+    <w>οὐδέπω</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ᾔδεισαν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γραφὴν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>δεῖ</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>νεκρῶν</w>
+    <suffix> </suffix>
+    <w>ἀναστῆναι</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:10">10</verse-number>
+    <w>ἀπῆλθον</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὑτοὺς</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταί</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 20:11">11</verse-number>
+    <w>Μαρία</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἱστήκει</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>μνημείῳ</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix> </suffix>
+    <w>κλαίουσα</w>
+    <suffix>⸃.  </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ἔκλαιεν</w>
+    <suffix> </suffix>
+    <w>παρέκυψεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μνημεῖον</w>
+    <suffix>,  </suffix>
+    <verse-number id="John 20:12">12</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θεωρεῖ</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἀγγέλους</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>λευκοῖς</w>
+    <suffix> </suffix>
+    <w>καθεζομένους</w>
+    <suffix>,  </suffix>
+    <w>ἕνα</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>κεφαλῇ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἕνα</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ποσίν</w>
+    <suffix>,  </suffix>
+    <w>ὅπου</w>
+    <suffix> </suffix>
+    <w>ἔκειτο</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σῶμα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:13">13</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγουσιν</w>
+    <suffix> </suffix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνοι</w>
+    <suffix>·  </suffix>
+    <w>Γύναι</w>
+    <suffix>,  </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>κλαίεις</w>
+    <suffix>;  </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἦραν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἶδα</w>
+    <suffix> </suffix>
+    <w>ποῦ</w>
+    <suffix> </suffix>
+    <w>ἔθηκαν</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:14">14</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>εἰποῦσα</w>
+    <suffix> </suffix>
+    <w>ἐστράφη</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὀπίσω</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θεωρεῖ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦν</w>
+    <suffix> </suffix>
+    <w>ἑστῶτα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ᾔδει</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:15">15</verse-number>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Γύναι</w>
+    <suffix>,  </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>κλαίεις</w>
+    <suffix>;  </suffix>
+    <w>τίνα</w>
+    <suffix> </suffix>
+    <w>ζητεῖς</w>
+    <suffix>;  </suffix>
+    <w>ἐκείνη</w>
+    <suffix> </suffix>
+    <w>δοκοῦσα</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κηπουρός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Κύριε</w>
+    <suffix>,  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>σὺ</w>
+    <suffix> </suffix>
+    <w>ἐβάστασας</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>εἰπέ</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>ποῦ</w>
+    <suffix> </suffix>
+    <w>ἔθηκας</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>κἀγὼ</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἀρῶ</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:16">16</verse-number>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Μαριάμ</w>
+    <suffix>.  </suffix>
+    <w>στραφεῖσα</w>
+    <suffix> </suffix>
+    <w>ἐκείνη</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἑβραϊστί</w>
+    <suffix>·  </suffix>
+    <w>Ραββουνι</w>
+    <suffix> </suffix>
+    <prefix> (</prefix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>λέγεται</w>
+    <suffix> </suffix>
+    <w>Διδάσκαλε</w>
+    <suffix>).  </suffix>
+    <verse-number id="John 20:17">17</verse-number>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Μή</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ἅπτου</w>
+    <suffix>,  </suffix>
+    <w>οὔπω</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἀναβέβηκα</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πατέρα</w>
+    <suffix>·  </suffix>
+    <w>πορεύου</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀδελφούς</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰπὲ</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ἀναβαίνω</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πατέρα</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πατέρα</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θεόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θεὸν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:18">18</verse-number>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Μαριὰμ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>Μαγδαληνὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀγγέλλουσα</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>μαθηταῖς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἑώρακα</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτῇ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 20:19">19</verse-number>
+    <w>Οὔσης</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ὀψίας</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>ἐκείνῃ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μιᾷ</w>
+    <suffix> </suffix>
+    <w>σαββάτων</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>θυρῶν</w>
+    <suffix> </suffix>
+    <w>κεκλεισμένων</w>
+    <suffix> </suffix>
+    <w>ὅπου</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φόβον</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>Ἰουδαίων</w>
+    <suffix>,  </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔστη</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μέσον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Εἰρήνη</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:20">20</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>εἰπὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔδειξεν</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>χεῖρας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πλευρὰν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῖς</w>
+    <suffix>.  </suffix>
+    <w>ἐχάρησαν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>ἰδόντες</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριον</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:21">21</verse-number>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>⸃  </suffix>
+    <w>πάλιν</w>
+    <suffix>·  </suffix>
+    <w>Εἰρήνη</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>·  </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>ἀπέσταλκέν</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>πατήρ</w>
+    <suffix>,  </suffix>
+    <w>κἀγὼ</w>
+    <suffix> </suffix>
+    <w>πέμπω</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:22">22</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>εἰπὼν</w>
+    <suffix> </suffix>
+    <w>ἐνεφύσησεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Λάβετε</w>
+    <suffix> </suffix>
+    <w>πνεῦμα</w>
+    <suffix> </suffix>
+    <w>ἅγιον</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 20:23">23</verse-number>
+    <w>ἄν</w>
+    <suffix> </suffix>
+    <w>τινων</w>
+    <suffix> </suffix>
+    <w>ἀφῆτε</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίας</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀφέωνται</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>ἄν</w>
+    <suffix> </suffix>
+    <w>τινων</w>
+    <suffix> </suffix>
+    <w>κρατῆτε</w>
+    <suffix> </suffix>
+    <w>κεκράτηνται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 20:24">24</verse-number>
+    <w>Θωμᾶς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>δώδεκα</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λεγόμενος</w>
+    <suffix> </suffix>
+    <w>Δίδυμος</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:25">25</verse-number>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <w>μαθηταί</w>
+    <suffix>·  </suffix>
+    <w>Ἑωράκαμεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριον</w>
+    <suffix>.  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ἐὰν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἴδω</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>χερσὶν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>τύπον</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἥλων</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βάλω</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>δάκτυλόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>τύπον</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἥλων</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βάλω</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>χεῖρα</w>
+    <suffix>⸃  </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πλευρὰν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>πιστεύσω</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 20:26">26</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>μεθ’</w>
+    <suffix> </suffix>
+    <w>ἡμέρας</w>
+    <suffix> </suffix>
+    <w>ὀκτὼ</w>
+    <suffix> </suffix>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>ἔσω</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Θωμᾶς</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>θυρῶν</w>
+    <suffix> </suffix>
+    <w>κεκλεισμένων</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔστη</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μέσον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Εἰρήνη</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:27">27</verse-number>
+    <w>εἶτα</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Θωμᾷ</w>
+    <suffix>·  </suffix>
+    <w>Φέρε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>δάκτυλόν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>ὧδε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἴδε</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>χεῖράς</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φέρε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>χεῖρά</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βάλε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πλευράν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>γίνου</w>
+    <suffix> </suffix>
+    <w>ἄπιστος</w>
+    <suffix> </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>πιστός</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:28">28</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>Θωμᾶς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>κύριός</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεός</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 20:29">29</verse-number>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Ὅτι</w>
+    <suffix> </suffix>
+    <w>ἑώρακάς</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>πεπίστευκας</w>
+    <suffix>;  </suffix>
+    <w>μακάριοι</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἰδόντες</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πιστεύσαντες</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 20:30">30</verse-number>
+    <w>Πολλὰ</w>
+    <suffix> </suffix>
+    <w>μὲν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἄλλα</w>
+    <suffix> </suffix>
+    <w>σημεῖα</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ἐνώπιον</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μαθητῶν</w>
+    <suffix>,  </suffix>
+    <w>ἃ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔστιν</w>
+    <suffix> </suffix>
+    <w>γεγραμμένα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>βιβλίῳ</w>
+    <suffix> </suffix>
+    <w>τούτῳ</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 20:31">31</verse-number>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>γέγραπται</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πιστεύητε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>χριστὸς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>πιστεύοντες</w>
+    <suffix> </suffix>
+    <w>ζωὴν</w>
+    <suffix> </suffix>
+    <w>ἔχητε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ὀνόματι</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

@@ -1,1463 +1,1480 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="John 9:1">9:1</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>παράγων</w>
-  <suffix> </suffix>
-  <w>εἶδεν</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπον</w>
-  <suffix> </suffix>
-  <w>τυφλὸν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>γενετῆς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:2">2</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἠρώτησαν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Ῥαββί</w>
-  <suffix>,  </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>ἥμαρτεν</w>
-  <suffix>,  </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix> </suffix>
-  <w>γεννηθῇ</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:3">3</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Οὔτε</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ἥμαρτεν</w>
-  <suffix> </suffix>
-  <w>οὔτε</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>φανερωθῇ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:4">4</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἡμᾶς</w>
-  <suffix> </suffix>
-  <w>δεῖ</w>
-  <suffix> </suffix>
-  <w>ἐργάζεσθαι</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πέμψαντός</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἡμέρα</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>·  </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>νὺξ</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>οὐδεὶς</w>
-  <suffix> </suffix>
-  <w>δύναται</w>
-  <suffix> </suffix>
-  <w>ἐργάζεσθαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:5">5</verse-number>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κόσμῳ</w>
-  <suffix> </suffix>
-  <w>ὦ</w>
-  <suffix>,  </suffix>
-  <w>φῶς</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κόσμου</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:6">6</verse-number>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>εἰπὼν</w>
-  <suffix> </suffix>
-  <w>ἔπτυσεν</w>
-  <suffix> </suffix>
-  <w>χαμαὶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>πηλὸν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πτύσματος</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐπέχρισεν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πηλὸν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὀφθαλμούς</w>
-  <suffix>,  </suffix>
-  <verse-number id="John 9:7">7</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ὕπαγε</w>
-  <suffix> </suffix>
-  <w>νίψαι</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κολυμβήθραν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σιλωάμ</w>
-  <suffix> </suffix>
-  <prefix> (</prefix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>ἑρμηνεύεται</w>
-  <suffix> </suffix>
-  <w>Ἀπεσταλμένος</w>
-  <suffix>).  </suffix>
-  <w>ἀπῆλθεν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐνίψατο</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>βλέπων</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:8">8</verse-number>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>γείτονες</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>θεωροῦντες</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πρότερον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>προσαίτης</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἔλεγον</w>
-  <suffix>·  </suffix>
-  <w>Οὐχ</w>
-  <suffix> </suffix>
-  <w>οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>καθήμενος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσαιτῶν</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:9">9</verse-number>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>·  </suffix>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἔλεγον</w>
-  <suffix>·  </suffix>
-  <w>Οὐχί</w>
-  <suffix>,  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix>⸃  </suffix>
-  <w>ὅμοιος</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
-  <w>ἐκεῖνος</w>
-  <suffix> </suffix>
-  <w>ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἐγώ</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:10">10</verse-number>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Πῶς</w>
-  <suffix> </suffix>
-  <w>ἠνεῴχθησάν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμοί</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:11">11</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐκεῖνος</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix>⸃  </suffix>
-  <w>λεγόμενος</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>πηλὸν</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπέχρισέν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμοὺς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπέν</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ὕπαγε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Σιλωὰμ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>νίψαι</w>
-  <suffix>·  </suffix>
-  <w>ἀπελθὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>νιψάμενος</w>
-  <suffix> </suffix>
-  <w>ἀνέβλεψα</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:12">12</verse-number>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ποῦ</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνος</w>
-  <suffix>;  </suffix>
-  <w>λέγει</w>
-  <suffix>·  </suffix>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>οἶδα</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:13">13</verse-number>
-  <w>Ἄγουσιν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>Φαρισαίους</w>
-  <suffix> </suffix>
-  <w>τόν</w>
-  <suffix> </suffix>
-  <w>ποτε</w>
-  <suffix> </suffix>
-  <w>τυφλόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:14">14</verse-number>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>σάββατον</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ᾗ</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix>⸃  </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πηλὸν</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέῳξεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμούς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:15">15</verse-number>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ἠρώτων</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>Φαρισαῖοι</w>
-  <suffix> </suffix>
-  <w>πῶς</w>
-  <suffix> </suffix>
-  <w>ἀνέβλεψεν</w>
-  <suffix>.  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Πηλὸν</w>
-  <suffix> </suffix>
-  <w>ἐπέθηκέν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμούς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐνιψάμην</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βλέπω</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:16">16</verse-number>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>Φαρισαίων</w>
-  <suffix> </suffix>
-  <w>τινές</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔστιν</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix>⸃,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σάββατον</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>τηρεῖ</w>
-  <suffix>.  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <w>ἔλεγον</w>
-  <suffix>·  </suffix>
-  <w>Πῶς</w>
-  <suffix> </suffix>
-  <w>δύναται</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλὸς</w>
-  <suffix> </suffix>
-  <w>τοιαῦτα</w>
-  <suffix> </suffix>
-  <w>σημεῖα</w>
-  <suffix> </suffix>
-  <w>ποιεῖν</w>
-  <suffix>;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σχίσμα</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:17">17</verse-number>
-  <w>λέγουσιν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τυφλῷ</w>
-  <suffix> </suffix>
-  <w>πάλιν</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>σὺ</w>
-  <suffix>⸃  </suffix>
-  <w>λέγεις</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἠνέῳξέν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμούς</w>
-  <suffix>;  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Προφήτης</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:18">18</verse-number>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐπίστευσαν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>Ἰουδαῖοι</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέβλεψεν</w>
-  <suffix>,  </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ὅτου</w>
-  <suffix> </suffix>
-  <w>ἐφώνησαν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀναβλέψαντος</w>
-  <suffix>⸃  </suffix>
-  <verse-number id="John 9:19">19</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἠρώτησαν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>,  </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>λέγετε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix> </suffix>
-  <w>ἐγεννήθη</w>
-  <suffix>;  </suffix>
-  <w>πῶς</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>βλέπει</w>
-  <suffix> </suffix>
-  <w>ἄρτι</w>
-  <suffix>⸃;  </suffix>
-  <verse-number id="John 9:20">20</verse-number>
-  <w>ἀπεκρίθησαν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix>·  </suffix>
-  <w>Οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix> </suffix>
-  <w>ἐγεννήθη</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 9:21">21</verse-number>
-  <w>πῶς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>βλέπει</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix>,  </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>ἤνοιξεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμοὺς</w>
-  <suffix> </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐρωτήσατε</w>
-  <suffix>,  </suffix>
-  <w>ἡλικίαν</w>
-  <suffix> </suffix>
-  <w>ἔχει</w>
-  <suffix>⸃,  </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῦ</w>
-  <suffix> </suffix>
-  <w>λαλήσει</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:22">22</verse-number>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐφοβοῦντο</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>Ἰουδαίους</w>
-  <suffix>,  </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>συνετέθειντο</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>Ἰουδαῖοι</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ὁμολογήσῃ</w>
-  <suffix> </suffix>
-  <w>χριστόν</w>
-  <suffix>,  </suffix>
-  <w>ἀποσυνάγωγος</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:23">23</verse-number>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γονεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἡλικίαν</w>
-  <suffix> </suffix>
-  <w>ἔχει</w>
-  <suffix>,  </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐπερωτήσατε</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:24">24</verse-number>
-  <w>Ἐφώνησαν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπον</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>δευτέρου</w>
-  <suffix>⸃  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Δὸς</w>
-  <suffix> </suffix>
-  <w>δόξαν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>θεῷ</w>
-  <suffix>·  </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix>⸃  </suffix>
-  <w>ἁμαρτωλός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:25">25</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐκεῖνος</w>
-  <suffix>·  </suffix>
-  <w>Εἰ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἶδα</w>
-  <suffix>·  </suffix>
-  <w>ἓν</w>
-  <suffix> </suffix>
-  <w>οἶδα</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>τυφλὸς</w>
-  <suffix> </suffix>
-  <w>ὢν</w>
-  <suffix> </suffix>
-  <w>ἄρτι</w>
-  <suffix> </suffix>
-  <w>βλέπω</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:26">26</verse-number>
-  <w>εἶπον</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>⸃·  </suffix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>ἐποίησέν</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix>;  </suffix>
-  <w>πῶς</w>
-  <suffix> </suffix>
-  <w>ἤνοιξέν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμούς</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:27">27</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Εἶπον</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠκούσατε</w>
-  <suffix>·  </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <w>θέλετε</w>
-  <suffix> </suffix>
-  <w>ἀκούειν</w>
-  <suffix>;  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>θέλετε</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>γενέσθαι</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:28">28</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἐλοιδόρησαν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπον</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>μαθητὴς</w>
-  <suffix> </suffix>
-  <w>εἶ</w>
-  <suffix>⸃  </suffix>
-  <w>ἐκείνου</w>
-  <suffix>,  </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μωϋσέως</w>
-  <suffix> </suffix>
-  <w>ἐσμὲν</w>
-  <suffix> </suffix>
-  <w>μαθηταί</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 9:29">29</verse-number>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Μωϋσεῖ</w>
-  <suffix> </suffix>
-  <w>λελάληκεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεός</w>
-  <suffix>,  </suffix>
-  <w>τοῦτον</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>πόθεν</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:30">30</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τούτῳ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix>⸃  </suffix>
-  <w>θαυμαστόν</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδατε</w>
-  <suffix> </suffix>
-  <w>πόθεν</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤνοιξέν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμούς</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:31">31</verse-number>
-  <prefix> ⸀</prefix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἁμαρτωλῶν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix>⸃  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἀκούει</w>
-  <suffix>,  </suffix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>θεοσεβὴς</w>
-  <suffix> </suffix>
-  <w>ᾖ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>θέλημα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ποιῇ</w>
-  <suffix> </suffix>
-  <w>τούτου</w>
-  <suffix> </suffix>
-  <w>ἀκούει</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:32">32</verse-number>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>αἰῶνος</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠκούσθη</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἠνέῳξέν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ὀφθαλμοὺς</w>
-  <suffix> </suffix>
-  <w>τυφλοῦ</w>
-  <suffix> </suffix>
-  <w>γεγεννημένου</w>
-  <suffix>·  </suffix>
-  <verse-number id="John 9:33">33</verse-number>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠδύνατο</w>
-  <suffix> </suffix>
-  <w>ποιεῖν</w>
-  <suffix> </suffix>
-  <w>οὐδέν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:34">34</verse-number>
-  <w>ἀπεκρίθησαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ἐν</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίαις</w>
-  <suffix> </suffix>
-  <w>σὺ</w>
-  <suffix> </suffix>
-  <w>ἐγεννήθης</w>
-  <suffix> </suffix>
-  <w>ὅλος</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σὺ</w>
-  <suffix> </suffix>
-  <w>διδάσκεις</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix>;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξέβαλον</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:35">35</verse-number>
-  <prefix> ⸀</prefix>
-  <w>Ἤκουσεν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐξέβαλον</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εὑρὼν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>πιστεύεις</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>υἱὸν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀνθρώπου</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:36">36</verse-number>
-  <w>ἀπεκρίθη</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>,  </suffix>
-  <w>κύριε</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>πιστεύσω</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:37">37</verse-number>
-  <prefix> ⸀</prefix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἑώρακας</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λαλῶν</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>σοῦ</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:38">38</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔφη</w>
-  <suffix>·  </suffix>
-  <w>Πιστεύω</w>
-  <suffix>,  </suffix>
-  <w>κύριε</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσεκύνησεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:39">39</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Εἰς</w>
-  <suffix> </suffix>
-  <w>κρίμα</w>
-  <suffix> </suffix>
-  <w>ἐγὼ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κόσμον</w>
-  <suffix> </suffix>
-  <w>τοῦτον</w>
-  <suffix> </suffix>
-  <w>ἦλθον</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>βλέποντες</w>
-  <suffix> </suffix>
-  <w>βλέπωσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>βλέποντες</w>
-  <suffix> </suffix>
-  <w>τυφλοὶ</w>
-  <suffix> </suffix>
-  <w>γένωνται</w>
-  <suffix>.  </suffix>
-  <verse-number id="John 9:40">40</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἤκουσαν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>Φαρισαίων</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὄντες</w>
-  <suffix>⸃,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπον</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>τυφλοί</w>
-  <suffix> </suffix>
-  <w>ἐσμεν</w>
-  <suffix>;  </suffix>
-  <verse-number id="John 9:41">41</verse-number>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>·  </suffix>
-  <w>Εἰ</w>
-  <suffix> </suffix>
-  <w>τυφλοὶ</w>
-  <suffix> </suffix>
-  <w>ἦτε</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>εἴχετε</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίαν</w>
-  <suffix>·  </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>λέγετε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Βλέπομεν</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτία</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>μένει</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="John 9:1">9:1</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>παράγων</w>
+    <suffix> </suffix>
+    <w>εἶδεν</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπον</w>
+    <suffix> </suffix>
+    <w>τυφλὸν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>γενετῆς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἠρώτησαν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Ῥαββί</w>
+    <suffix>,  </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>ἥμαρτεν</w>
+    <suffix>,  </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix> </suffix>
+    <w>γεννηθῇ</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:3">3</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Οὔτε</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ἥμαρτεν</w>
+    <suffix> </suffix>
+    <w>οὔτε</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>φανερωθῇ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:4">4</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἡμᾶς</w>
+    <suffix> </suffix>
+    <w>δεῖ</w>
+    <suffix> </suffix>
+    <w>ἐργάζεσθαι</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πέμψαντός</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἡμέρα</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>·  </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>νὺξ</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>οὐδεὶς</w>
+    <suffix> </suffix>
+    <w>δύναται</w>
+    <suffix> </suffix>
+    <w>ἐργάζεσθαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:5">5</verse-number>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κόσμῳ</w>
+    <suffix> </suffix>
+    <w>ὦ</w>
+    <suffix>,  </suffix>
+    <w>φῶς</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κόσμου</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:6">6</verse-number>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>εἰπὼν</w>
+    <suffix> </suffix>
+    <w>ἔπτυσεν</w>
+    <suffix> </suffix>
+    <w>χαμαὶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>πηλὸν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πτύσματος</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπέχρισεν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πηλὸν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὀφθαλμούς</w>
+    <suffix>,  </suffix>
+    <verse-number id="John 9:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ὕπαγε</w>
+    <suffix> </suffix>
+    <w>νίψαι</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κολυμβήθραν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σιλωάμ</w>
+    <suffix> </suffix>
+    <prefix> (</prefix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>ἑρμηνεύεται</w>
+    <suffix> </suffix>
+    <w>Ἀπεσταλμένος</w>
+    <suffix>).  </suffix>
+    <w>ἀπῆλθεν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐνίψατο</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>βλέπων</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:8">8</verse-number>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>γείτονες</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>θεωροῦντες</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πρότερον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>προσαίτης</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἔλεγον</w>
+    <suffix>·  </suffix>
+    <w>Οὐχ</w>
+    <suffix> </suffix>
+    <w>οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>καθήμενος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσαιτῶν</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:9">9</verse-number>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>·  </suffix>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἔλεγον</w>
+    <suffix>·  </suffix>
+    <w>Οὐχί</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix>⸃  </suffix>
+    <w>ὅμοιος</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix> </suffix>
+    <w>ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἐγώ</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:10">10</verse-number>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Πῶς</w>
+    <suffix> </suffix>
+    <w>ἠνεῴχθησάν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμοί</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:11">11</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐκεῖνος</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix>⸃  </suffix>
+    <w>λεγόμενος</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>πηλὸν</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπέχρισέν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμοὺς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπέν</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ὕπαγε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Σιλωὰμ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>νίψαι</w>
+    <suffix>·  </suffix>
+    <w>ἀπελθὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>νιψάμενος</w>
+    <suffix> </suffix>
+    <w>ἀνέβλεψα</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:12">12</verse-number>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ποῦ</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix>;  </suffix>
+    <w>λέγει</w>
+    <suffix>·  </suffix>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>οἶδα</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 9:13">13</verse-number>
+    <w>Ἄγουσιν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>Φαρισαίους</w>
+    <suffix> </suffix>
+    <w>τόν</w>
+    <suffix> </suffix>
+    <w>ποτε</w>
+    <suffix> </suffix>
+    <w>τυφλόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:14">14</verse-number>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>σάββατον</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ᾗ</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix>⸃  </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πηλὸν</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέῳξεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμούς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:15">15</verse-number>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ἠρώτων</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>Φαρισαῖοι</w>
+    <suffix> </suffix>
+    <w>πῶς</w>
+    <suffix> </suffix>
+    <w>ἀνέβλεψεν</w>
+    <suffix>.  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Πηλὸν</w>
+    <suffix> </suffix>
+    <w>ἐπέθηκέν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμούς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐνιψάμην</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βλέπω</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:16">16</verse-number>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>Φαρισαίων</w>
+    <suffix> </suffix>
+    <w>τινές</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔστιν</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix>⸃,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σάββατον</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>τηρεῖ</w>
+    <suffix>.  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <w>ἔλεγον</w>
+    <suffix>·  </suffix>
+    <w>Πῶς</w>
+    <suffix> </suffix>
+    <w>δύναται</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλὸς</w>
+    <suffix> </suffix>
+    <w>τοιαῦτα</w>
+    <suffix> </suffix>
+    <w>σημεῖα</w>
+    <suffix> </suffix>
+    <w>ποιεῖν</w>
+    <suffix>;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σχίσμα</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:17">17</verse-number>
+    <w>λέγουσιν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τυφλῷ</w>
+    <suffix> </suffix>
+    <w>πάλιν</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>σὺ</w>
+    <suffix>⸃  </suffix>
+    <w>λέγεις</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἠνέῳξέν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμούς</w>
+    <suffix>;  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Προφήτης</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 9:18">18</verse-number>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐπίστευσαν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>Ἰουδαῖοι</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέβλεψεν</w>
+    <suffix>,  </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ὅτου</w>
+    <suffix> </suffix>
+    <w>ἐφώνησαν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀναβλέψαντος</w>
+    <suffix>⸃  </suffix>
+    <verse-number id="John 9:19">19</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἠρώτησαν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>λέγετε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix> </suffix>
+    <w>ἐγεννήθη</w>
+    <suffix>;  </suffix>
+    <w>πῶς</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>βλέπει</w>
+    <suffix> </suffix>
+    <w>ἄρτι</w>
+    <suffix>⸃;  </suffix>
+    <verse-number id="John 9:20">20</verse-number>
+    <w>ἀπεκρίθησαν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix>·  </suffix>
+    <w>Οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix> </suffix>
+    <w>ἐγεννήθη</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 9:21">21</verse-number>
+    <w>πῶς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>βλέπει</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix>,  </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>ἤνοιξεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμοὺς</w>
+    <suffix> </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐρωτήσατε</w>
+    <suffix>,  </suffix>
+    <w>ἡλικίαν</w>
+    <suffix> </suffix>
+    <w>ἔχει</w>
+    <suffix>⸃,  </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῦ</w>
+    <suffix> </suffix>
+    <w>λαλήσει</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:22">22</verse-number>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐφοβοῦντο</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>Ἰουδαίους</w>
+    <suffix>,  </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>συνετέθειντο</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>Ἰουδαῖοι</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ὁμολογήσῃ</w>
+    <suffix> </suffix>
+    <w>χριστόν</w>
+    <suffix>,  </suffix>
+    <w>ἀποσυνάγωγος</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:23">23</verse-number>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γονεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἡλικίαν</w>
+    <suffix> </suffix>
+    <w>ἔχει</w>
+    <suffix>,  </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπερωτήσατε</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 9:24">24</verse-number>
+    <w>Ἐφώνησαν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπον</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>δευτέρου</w>
+    <suffix>⸃  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Δὸς</w>
+    <suffix> </suffix>
+    <w>δόξαν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>θεῷ</w>
+    <suffix>·  </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix>⸃  </suffix>
+    <w>ἁμαρτωλός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:25">25</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐκεῖνος</w>
+    <suffix>·  </suffix>
+    <w>Εἰ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἶδα</w>
+    <suffix>·  </suffix>
+    <w>ἓν</w>
+    <suffix> </suffix>
+    <w>οἶδα</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>τυφλὸς</w>
+    <suffix> </suffix>
+    <w>ὢν</w>
+    <suffix> </suffix>
+    <w>ἄρτι</w>
+    <suffix> </suffix>
+    <w>βλέπω</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:26">26</verse-number>
+    <w>εἶπον</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>⸃·  </suffix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>ἐποίησέν</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix>;  </suffix>
+    <w>πῶς</w>
+    <suffix> </suffix>
+    <w>ἤνοιξέν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμούς</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:27">27</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Εἶπον</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠκούσατε</w>
+    <suffix>·  </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <w>θέλετε</w>
+    <suffix> </suffix>
+    <w>ἀκούειν</w>
+    <suffix>;  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>θέλετε</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>γενέσθαι</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:28">28</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἐλοιδόρησαν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπον</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>μαθητὴς</w>
+    <suffix> </suffix>
+    <w>εἶ</w>
+    <suffix>⸃  </suffix>
+    <w>ἐκείνου</w>
+    <suffix>,  </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μωϋσέως</w>
+    <suffix> </suffix>
+    <w>ἐσμὲν</w>
+    <suffix> </suffix>
+    <w>μαθηταί</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 9:29">29</verse-number>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Μωϋσεῖ</w>
+    <suffix> </suffix>
+    <w>λελάληκεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεός</w>
+    <suffix>,  </suffix>
+    <w>τοῦτον</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>πόθεν</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:30">30</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τούτῳ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix>⸃  </suffix>
+    <w>θαυμαστόν</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδατε</w>
+    <suffix> </suffix>
+    <w>πόθεν</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤνοιξέν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμούς</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:31">31</verse-number>
+    <prefix> ⸀</prefix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἁμαρτωλῶν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix>⸃  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἀκούει</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>θεοσεβὴς</w>
+    <suffix> </suffix>
+    <w>ᾖ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>θέλημα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ποιῇ</w>
+    <suffix> </suffix>
+    <w>τούτου</w>
+    <suffix> </suffix>
+    <w>ἀκούει</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:32">32</verse-number>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>αἰῶνος</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠκούσθη</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἠνέῳξέν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ὀφθαλμοὺς</w>
+    <suffix> </suffix>
+    <w>τυφλοῦ</w>
+    <suffix> </suffix>
+    <w>γεγεννημένου</w>
+    <suffix>·  </suffix>
+    <verse-number id="John 9:33">33</verse-number>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠδύνατο</w>
+    <suffix> </suffix>
+    <w>ποιεῖν</w>
+    <suffix> </suffix>
+    <w>οὐδέν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:34">34</verse-number>
+    <w>ἀπεκρίθησαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ἐν</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίαις</w>
+    <suffix> </suffix>
+    <w>σὺ</w>
+    <suffix> </suffix>
+    <w>ἐγεννήθης</w>
+    <suffix> </suffix>
+    <w>ὅλος</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σὺ</w>
+    <suffix> </suffix>
+    <w>διδάσκεις</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix>;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξέβαλον</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="John 9:35">35</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Ἤκουσεν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐξέβαλον</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εὑρὼν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>πιστεύεις</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>υἱὸν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀνθρώπου</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:36">36</verse-number>
+    <w>ἀπεκρίθη</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>,  </suffix>
+    <w>κύριε</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>πιστεύσω</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:37">37</verse-number>
+    <prefix> ⸀</prefix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἑώρακας</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λαλῶν</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>σοῦ</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:38">38</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔφη</w>
+    <suffix>·  </suffix>
+    <w>Πιστεύω</w>
+    <suffix>,  </suffix>
+    <w>κύριε</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσεκύνησεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:39">39</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Εἰς</w>
+    <suffix> </suffix>
+    <w>κρίμα</w>
+    <suffix> </suffix>
+    <w>ἐγὼ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κόσμον</w>
+    <suffix> </suffix>
+    <w>τοῦτον</w>
+    <suffix> </suffix>
+    <w>ἦλθον</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>βλέποντες</w>
+    <suffix> </suffix>
+    <w>βλέπωσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>βλέποντες</w>
+    <suffix> </suffix>
+    <w>τυφλοὶ</w>
+    <suffix> </suffix>
+    <w>γένωνται</w>
+    <suffix>.  </suffix>
+    <verse-number id="John 9:40">40</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἤκουσαν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>Φαρισαίων</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὄντες</w>
+    <suffix>⸃,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπον</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>τυφλοί</w>
+    <suffix> </suffix>
+    <w>ἐσμεν</w>
+    <suffix>;  </suffix>
+    <verse-number id="John 9:41">41</verse-number>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>·  </suffix>
+    <w>Εἰ</w>
+    <suffix> </suffix>
+    <w>τυφλοὶ</w>
+    <suffix> </suffix>
+    <w>ἦτε</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>εἴχετε</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίαν</w>
+    <suffix>·  </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>λέγετε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Βλέπομεν</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτία</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>μένει</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

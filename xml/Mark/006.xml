@@ -1,2107 +1,2133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Mark 6:1">6:1</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξῆλθεν</w>
-  <suffix> </suffix>
-  <w>ἐκεῖθεν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πατρίδα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀκολουθοῦσιν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:2">2</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γενομένου</w>
-  <suffix> </suffix>
-  <w>σαββάτου</w>
-  <suffix> </suffix>
-  <w>ἤρξατο</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>διδάσκειν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>συναγωγῇ</w>
-  <suffix>⸃·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>ἀκούοντες</w>
-  <suffix> </suffix>
-  <w>ἐξεπλήσσοντο</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Πόθεν</w>
-  <suffix> </suffix>
-  <w>τούτῳ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>σοφία</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δοθεῖσα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τούτῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>δυνάμεις</w>
-  <suffix> </suffix>
-  <w>τοιαῦται</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>χειρῶν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γινόμεναι</w>
-  <suffix>;  </suffix>
-  <verse-number id="Mark 6:3">3</verse-number>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>τέκτων</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Μαρίας</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀδελφὸς</w>
-  <suffix>⸃  </suffix>
-  <w>Ἰακώβου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἰωσῆτος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰούδα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Σίμωνος</w>
-  <suffix>;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>εἰσὶν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἀδελφαὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὧδε</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix>;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐσκανδαλίζοντο</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:4">4</verse-number>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔλεγεν</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔστιν</w>
-  <suffix> </suffix>
-  <w>προφήτης</w>
-  <suffix> </suffix>
-  <w>ἄτιμος</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>πατρίδι</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>συγγενεῦσιν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>οἰκίᾳ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐδύνατο</w>
-  <suffix> </suffix>
-  <w>ἐκεῖ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ποιῆσαι</w>
-  <suffix> </suffix>
-  <w>οὐδεμίαν</w>
-  <suffix> </suffix>
-  <w>δύναμιν</w>
-  <suffix>⸃,  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ὀλίγοις</w>
-  <suffix> </suffix>
-  <w>ἀρρώστοις</w>
-  <suffix> </suffix>
-  <w>ἐπιθεὶς</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>χεῖρας</w>
-  <suffix> </suffix>
-  <w>ἐθεράπευσεν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:6">6</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐθαύμαζεν</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἀπιστίαν</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>περιῆγεν</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>κώμας</w>
-  <suffix> </suffix>
-  <w>κύκλῳ</w>
-  <suffix> </suffix>
-  <w>διδάσκων</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:7">7</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσκαλεῖται</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δώδεκα</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤρξατο</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>ἀποστέλλειν</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐδίδου</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ἐξουσίαν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πνευμάτων</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀκαθάρτων</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:8">8</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παρήγγειλεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>μηδὲν</w>
-  <suffix> </suffix>
-  <w>αἴρωσιν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ὁδὸν</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ῥάβδον</w>
-  <suffix> </suffix>
-  <w>μόνον</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἄρτον</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>πήραν</w>
-  <suffix>⸃,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ζώνην</w>
-  <suffix> </suffix>
-  <w>χαλκόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:9">9</verse-number>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ὑποδεδεμένους</w>
-  <suffix> </suffix>
-  <w>σανδάλια</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐνδύσησθε</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>χιτῶνας</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:10">10</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ὅπου</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>εἰσέλθητε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>οἰκίαν</w>
-  <suffix>,  </suffix>
-  <w>ἐκεῖ</w>
-  <suffix> </suffix>
-  <w>μένετε</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>ἐξέλθητε</w>
-  <suffix> </suffix>
-  <w>ἐκεῖθεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:11">11</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>τόπος</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>δέξηται</w>
-  <suffix>⸃  </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>ἀκούσωσιν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>,  </suffix>
-  <w>ἐκπορευόμενοι</w>
-  <suffix> </suffix>
-  <w>ἐκεῖθεν</w>
-  <suffix> </suffix>
-  <w>ἐκτινάξατε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>χοῦν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ὑποκάτω</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ποδῶν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>μαρτύριον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῖς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:12">12</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξελθόντες</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐκήρυξαν</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μετανοῶσιν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:13">13</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δαιμόνια</w>
-  <suffix> </suffix>
-  <w>πολλὰ</w>
-  <suffix> </suffix>
-  <w>ἐξέβαλλον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤλειφον</w>
-  <suffix> </suffix>
-  <w>ἐλαίῳ</w>
-  <suffix> </suffix>
-  <w>πολλοὺς</w>
-  <suffix> </suffix>
-  <w>ἀρρώστους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐθεράπευον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:14">14</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἤκουσεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βασιλεὺς</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix>,  </suffix>
-  <w>φανερὸν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὄνομα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἰωάννης</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βαπτίζων</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐγήγερται</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>νεκρῶν</w>
-  <suffix>⸃,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>ἐνεργοῦσιν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>δυνάμεις</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:15">15</verse-number>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἠλίας</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>·  </suffix>
-  <w>ἄλλοι</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>προφήτης</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>προφητῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:16">16</verse-number>
-  <w>ἀκούσας</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔλεγεν</w>
-  <suffix>·  </suffix>
-  <w>Ὃν</w>
-  <suffix> </suffix>
-  <w>ἐγὼ</w>
-  <suffix> </suffix>
-  <w>ἀπεκεφάλισα</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix>,  </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἠγέρθη</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:17">17</verse-number>
-  <w>Αὐτὸς</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix> </suffix>
-  <w>ἀποστείλας</w>
-  <suffix> </suffix>
-  <w>ἐκράτησεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔδησεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>φυλακῇ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>Ἡρῳδιάδα</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γυναῖκα</w>
-  <suffix> </suffix>
-  <w>Φιλίππου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀδελφοῦ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>αὐτὴν</w>
-  <suffix> </suffix>
-  <w>ἐγάμησεν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:18">18</verse-number>
-  <w>ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννης</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδῃ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔξεστίν</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>ἔχειν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γυναῖκα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀδελφοῦ</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:19">19</verse-number>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἡρῳδιὰς</w>
-  <suffix> </suffix>
-  <w>ἐνεῖχεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤθελεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἀποκτεῖναι</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠδύνατο</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:20">20</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix> </suffix>
-  <w>ἐφοβεῖτο</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix>,  </suffix>
-  <w>εἰδὼς</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἄνδρα</w>
-  <suffix> </suffix>
-  <w>δίκαιον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἅγιον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>συνετήρει</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀκούσας</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>πολλὰ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἠπόρει</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡδέως</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἤκουεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:21">21</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>γενομένης</w>
-  <suffix> </suffix>
-  <w>ἡμέρας</w>
-  <suffix> </suffix>
-  <w>εὐκαίρου</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>γενεσίοις</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>δεῖπνον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>μεγιστᾶσιν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>χιλιάρχοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>πρώτοις</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Γαλιλαίας</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:22">22</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰσελθούσης</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θυγατρὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>αὐτῆς</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix>⸃  </suffix>
-  <w>Ἡρῳδιάδος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὀρχησαμένης</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀρεσάσης</w>
-  <suffix>⸃  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδῃ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>συνανακειμένοις</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βασιλεὺς</w>
-  <suffix>⸃  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κορασίῳ</w>
-  <suffix>·  </suffix>
-  <w>Αἴτησόν</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>θέλῃς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δώσω</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:23">23</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὤμοσεν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτῇ</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>Ὅ</w>
-  <suffix> </suffix>
-  <w>τι</w>
-  <suffix>⸃  </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>αἰτήσῃς</w>
-  <suffix> </suffix>
-  <w>δώσω</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἡμίσους</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>βασιλείας</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:24">24</verse-number>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξελθοῦσα</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>μητρὶ</w>
-  <suffix> </suffix>
-  <w>αὐτῆς</w>
-  <suffix>·  </suffix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αἰτήσωμαι</w>
-  <suffix>;  </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Τὴν</w>
-  <suffix> </suffix>
-  <w>κεφαλὴν</w>
-  <suffix> </suffix>
-  <w>Ἰωάννου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βαπτίζοντος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:25">25</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰσελθοῦσα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εὐθὺς</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>σπουδῆς</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>βασιλέα</w>
-  <suffix> </suffix>
-  <w>ᾐτήσατο</w>
-  <suffix> </suffix>
-  <w>λέγουσα</w>
-  <suffix>·  </suffix>
-  <w>Θέλω</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐξαυτῆς</w>
-  <suffix> </suffix>
-  <w>δῷς</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix>⸃  </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πίνακι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κεφαλὴν</w>
-  <suffix> </suffix>
-  <w>Ἰωάννου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>βαπτιστοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:26">26</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>περίλυπος</w>
-  <suffix> </suffix>
-  <w>γενόμενος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βασιλεὺς</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὅρκους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀνακειμένους</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠθέλησεν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀθετῆσαι</w>
-  <suffix> </suffix>
-  <w>αὐτήν</w>
-  <suffix>⸃·  </suffix>
-  <verse-number id="Mark 6:27">27</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εὐθὺς</w>
-  <suffix> </suffix>
-  <w>ἀποστείλας</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βασιλεὺς</w>
-  <suffix> </suffix>
-  <w>σπεκουλάτορα</w>
-  <suffix> </suffix>
-  <w>ἐπέταξεν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐνέγκαι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κεφαλὴν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπελθὼν</w>
-  <suffix> </suffix>
-  <w>ἀπεκεφάλισεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>φυλακῇ</w>
-  <suffix> </suffix>
-  <verse-number id="Mark 6:28">28</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤνεγκεν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κεφαλὴν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πίνακι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτὴν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κορασίῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>κοράσιον</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτὴν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>μητρὶ</w>
-  <suffix> </suffix>
-  <w>αὐτῆς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:29">29</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀκούσαντες</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἦλθον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦραν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πτῶμα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔθηκαν</w>
-  <suffix> </suffix>
-  <w>αὐτὸ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μνημείῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:30">30</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>συνάγονται</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἀπόστολοι</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπήγγειλαν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ὅσα</w>
-  <suffix> </suffix>
-  <w>ἐποίησαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅσα</w>
-  <suffix> </suffix>
-  <w>ἐδίδαξαν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:31">31</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Δεῦτε</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοὶ</w>
-  <suffix> </suffix>
-  <w>κατ’</w>
-  <suffix> </suffix>
-  <w>ἰδίαν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἔρημον</w>
-  <suffix> </suffix>
-  <w>τόπον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀναπαύσασθε</w>
-  <suffix> </suffix>
-  <w>ὀλίγον</w>
-  <suffix>.  </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἐρχόμενοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ὑπάγοντες</w>
-  <suffix> </suffix>
-  <w>πολλοί</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐδὲ</w>
-  <suffix> </suffix>
-  <w>φαγεῖν</w>
-  <suffix> </suffix>
-  <w>εὐκαίρουν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:32">32</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπῆλθον</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πλοίῳ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἔρημον</w>
-  <suffix> </suffix>
-  <w>τόπον</w>
-  <suffix>⸃  </suffix>
-  <w>κατ’</w>
-  <suffix> </suffix>
-  <w>ἰδίαν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:33">33</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶδον</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>ὑπάγοντας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐπέγνωσαν</w>
-  <suffix> </suffix>
-  <w>πολλοί</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πεζῇ</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>πασῶν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πόλεων</w>
-  <suffix> </suffix>
-  <w>συνέδραμον</w>
-  <suffix> </suffix>
-  <w>ἐκεῖ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προῆλθον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτούς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:34">34</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξελθὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἶδεν</w>
-  <suffix> </suffix>
-  <w>πολὺν</w>
-  <suffix> </suffix>
-  <w>ὄχλον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐσπλαγχνίσθη</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>πρόβατα</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχοντα</w>
-  <suffix> </suffix>
-  <w>ποιμένα</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤρξατο</w>
-  <suffix> </suffix>
-  <w>διδάσκειν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>πολλά</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:35">35</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>ὥρας</w>
-  <suffix> </suffix>
-  <w>πολλῆς</w>
-  <suffix> </suffix>
-  <w>γενομένης</w>
-  <suffix> </suffix>
-  <w>προσελθόντες</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔλεγον</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Ἔρημός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>τόπος</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>ὥρα</w>
-  <suffix> </suffix>
-  <w>πολλή</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:36">36</verse-number>
-  <w>ἀπόλυσον</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἀπελθόντες</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>κύκλῳ</w>
-  <suffix> </suffix>
-  <w>ἀγροὺς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κώμας</w>
-  <suffix> </suffix>
-  <w>ἀγοράσωσιν</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>φάγωσιν</w>
-  <suffix>⸃.  </suffix>
-  <verse-number id="Mark 6:37">37</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Δότε</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>φαγεῖν</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγουσιν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>·  </suffix>
-  <w>Ἀπελθόντες</w>
-  <suffix> </suffix>
-  <w>ἀγοράσωμεν</w>
-  <suffix> </suffix>
-  <w>δηναρίων</w>
-  <suffix> </suffix>
-  <w>διακοσίων</w>
-  <suffix> </suffix>
-  <w>ἄρτους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δώσομεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>φαγεῖν</w>
-  <suffix>;  </suffix>
-  <verse-number id="Mark 6:38">38</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Πόσους</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἔχετε</w>
-  <suffix> </suffix>
-  <w>ἄρτους</w>
-  <suffix>⸃;  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὑπάγετε</w>
-  <suffix> </suffix>
-  <w>ἴδετε</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γνόντες</w>
-  <suffix> </suffix>
-  <w>λέγουσιν</w>
-  <suffix>·  </suffix>
-  <w>Πέντε</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἰχθύας</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:39">39</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπέταξεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀνακλῖναι</w>
-  <suffix> </suffix>
-  <w>πάντας</w>
-  <suffix> </suffix>
-  <w>συμπόσια</w>
-  <suffix> </suffix>
-  <w>συμπόσια</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>χλωρῷ</w>
-  <suffix> </suffix>
-  <w>χόρτῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:40">40</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέπεσαν</w>
-  <suffix> </suffix>
-  <w>πρασιαὶ</w>
-  <suffix> </suffix>
-  <w>πρασιαὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>ἑκατὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸁</prefix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>πεντήκοντα</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:41">41</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λαβὼν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>πέντε</w>
-  <suffix> </suffix>
-  <w>ἄρτους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἰχθύας</w>
-  <suffix> </suffix>
-  <w>ἀναβλέψας</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὐρανὸν</w>
-  <suffix> </suffix>
-  <w>εὐλόγησεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέκλασεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἄρτους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐδίδου</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>μαθηταῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>παρατιθῶσιν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἰχθύας</w>
-  <suffix> </suffix>
-  <w>ἐμέρισεν</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:42">42</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔφαγον</w>
-  <suffix> </suffix>
-  <w>πάντες</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐχορτάσθησαν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Mark 6:43">43</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦραν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>κλάσματα</w>
-  <suffix> </suffix>
-  <w>δώδεκα</w>
-  <suffix> </suffix>
-  <w>κοφίνων</w>
-  <suffix> </suffix>
-  <w>πληρώματα</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἰχθύων</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:44">44</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>φαγόντες</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἄρτους</w>
-  <suffix>⸃  </suffix>
-  <w>πεντακισχίλιοι</w>
-  <suffix> </suffix>
-  <w>ἄνδρες</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:45">45</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εὐθὺς</w>
-  <suffix> </suffix>
-  <w>ἠνάγκασεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>μαθητὰς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐμβῆναι</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πλοῖον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προάγειν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πέραν</w>
-  <suffix>⸃  </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>Βηθσαϊδάν</w>
-  <suffix>,  </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀπολύει</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ὄχλον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:46">46</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποταξάμενος</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ἀπῆλθεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὄρος</w>
-  <suffix> </suffix>
-  <w>προσεύξασθαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:47">47</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ὀψίας</w>
-  <suffix> </suffix>
-  <w>γενομένης</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πλοῖον</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μέσῳ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>μόνος</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:48">48</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἰδὼν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>βασανιζομένους</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἐλαύνειν</w>
-  <suffix>,  </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνεμος</w>
-  <suffix> </suffix>
-  <w>ἐναντίος</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῖς</w>
-  <suffix>,  </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τετάρτην</w>
-  <suffix> </suffix>
-  <w>φυλακὴν</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>νυκτὸς</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>περιπατῶν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤθελεν</w>
-  <suffix> </suffix>
-  <w>παρελθεῖν</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:49">49</verse-number>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἰδόντες</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix> </suffix>
-  <w>περιπατοῦντα</w>
-  <suffix>⸃  </suffix>
-  <w>ἔδοξαν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>φάντασμά</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέκραξαν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:50">50</verse-number>
-  <w>πάντες</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>εἶδον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐταράχθησαν</w>
-  <suffix>.  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εὐθὺς</w>
-  <suffix>⸃  </suffix>
-  <w>ἐλάλησεν</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Θαρσεῖτε</w>
-  <suffix>,  </suffix>
-  <w>ἐγώ</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>φοβεῖσθε</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:51">51</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέβη</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πλοῖον</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκόπασεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄνεμος</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λίαν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>περισσοῦ</w>
-  <suffix>⸃  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐξίσταντο</w>
-  <suffix>,  </suffix>
-  <verse-number id="Mark 6:52">52</verse-number>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>συνῆκαν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἄρτοις</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>καρδία</w>
-  <suffix> </suffix>
-  <w>πεπωρωμένη</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:53">53</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>διαπεράσαντες</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γῆν</w>
-  <suffix> </suffix>
-  <w>ἦλθον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix>⸃  </suffix>
-  <w>Γεννησαρὲτ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσωρμίσθησαν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:54">54</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξελθόντων</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πλοίου</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εὐθὺς</w>
-  <suffix> </suffix>
-  <w>ἐπιγνόντες</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <verse-number id="Mark 6:55">55</verse-number>
-  <prefix> ⸂</prefix>
-  <w>περιέδραμον</w>
-  <suffix> </suffix>
-  <w>ὅλην</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>χώραν</w>
-  <suffix> </suffix>
-  <w>ἐκείνην</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix>⸃  </suffix>
-  <w>ἤρξαντο</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>κραβάττοις</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>κακῶς</w>
-  <suffix> </suffix>
-  <w>ἔχοντας</w>
-  <suffix> </suffix>
-  <w>περιφέρειν</w>
-  <suffix> </suffix>
-  <w>ὅπου</w>
-  <suffix> </suffix>
-  <w>ἤκουον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Mark 6:56">56</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅπου</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>εἰσεπορεύετο</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>κώμας</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>πόλεις</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix>⸃  </suffix>
-  <w>ἀγροὺς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἀγοραῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐτίθεσαν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀσθενοῦντας</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παρεκάλουν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>κἂν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κρασπέδου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἱματίου</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἅψωνται</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅσοι</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἥψαντο</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐσῴζοντο</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Mark 6:1">6:1</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξῆλθεν</w>
+    <suffix> </suffix>
+    <w>ἐκεῖθεν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πατρίδα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀκολουθοῦσιν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γενομένου</w>
+    <suffix> </suffix>
+    <w>σαββάτου</w>
+    <suffix> </suffix>
+    <w>ἤρξατο</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>διδάσκειν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>συναγωγῇ</w>
+    <suffix>⸃·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>ἀκούοντες</w>
+    <suffix> </suffix>
+    <w>ἐξεπλήσσοντο</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Πόθεν</w>
+    <suffix> </suffix>
+    <w>τούτῳ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>σοφία</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δοθεῖσα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τούτῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>δυνάμεις</w>
+    <suffix> </suffix>
+    <w>τοιαῦται</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>χειρῶν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γινόμεναι</w>
+    <suffix>;  </suffix>
+    <verse-number id="Mark 6:3">3</verse-number>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>τέκτων</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Μαρίας</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀδελφὸς</w>
+    <suffix>⸃  </suffix>
+    <w>Ἰακώβου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἰωσῆτος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰούδα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Σίμωνος</w>
+    <suffix>;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>εἰσὶν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἀδελφαὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὧδε</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix>;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐσκανδαλίζοντο</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:4">4</verse-number>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔλεγεν</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔστιν</w>
+    <suffix> </suffix>
+    <w>προφήτης</w>
+    <suffix> </suffix>
+    <w>ἄτιμος</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>πατρίδι</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>συγγενεῦσιν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>οἰκίᾳ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐδύνατο</w>
+    <suffix> </suffix>
+    <w>ἐκεῖ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ποιῆσαι</w>
+    <suffix> </suffix>
+    <w>οὐδεμίαν</w>
+    <suffix> </suffix>
+    <w>δύναμιν</w>
+    <suffix>⸃,  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ὀλίγοις</w>
+    <suffix> </suffix>
+    <w>ἀρρώστοις</w>
+    <suffix> </suffix>
+    <w>ἐπιθεὶς</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>χεῖρας</w>
+    <suffix> </suffix>
+    <w>ἐθεράπευσεν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:6">6</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐθαύμαζεν</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἀπιστίαν</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>περιῆγεν</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>κώμας</w>
+    <suffix> </suffix>
+    <w>κύκλῳ</w>
+    <suffix> </suffix>
+    <w>διδάσκων</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσκαλεῖται</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δώδεκα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤρξατο</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>ἀποστέλλειν</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐδίδου</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ἐξουσίαν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πνευμάτων</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀκαθάρτων</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:8">8</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παρήγγειλεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>μηδὲν</w>
+    <suffix> </suffix>
+    <w>αἴρωσιν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ὁδὸν</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ῥάβδον</w>
+    <suffix> </suffix>
+    <w>μόνον</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἄρτον</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>πήραν</w>
+    <suffix>⸃,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ζώνην</w>
+    <suffix> </suffix>
+    <w>χαλκόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:9">9</verse-number>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ὑποδεδεμένους</w>
+    <suffix> </suffix>
+    <w>σανδάλια</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐνδύσησθε</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>χιτῶνας</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:10">10</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ὅπου</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>εἰσέλθητε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>οἰκίαν</w>
+    <suffix>,  </suffix>
+    <w>ἐκεῖ</w>
+    <suffix> </suffix>
+    <w>μένετε</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>ἐξέλθητε</w>
+    <suffix> </suffix>
+    <w>ἐκεῖθεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:11">11</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>τόπος</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>δέξηται</w>
+    <suffix>⸃  </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>ἀκούσωσιν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>,  </suffix>
+    <w>ἐκπορευόμενοι</w>
+    <suffix> </suffix>
+    <w>ἐκεῖθεν</w>
+    <suffix> </suffix>
+    <w>ἐκτινάξατε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>χοῦν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ὑποκάτω</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ποδῶν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>μαρτύριον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῖς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:12">12</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξελθόντες</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐκήρυξαν</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μετανοῶσιν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:13">13</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δαιμόνια</w>
+    <suffix> </suffix>
+    <w>πολλὰ</w>
+    <suffix> </suffix>
+    <w>ἐξέβαλλον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤλειφον</w>
+    <suffix> </suffix>
+    <w>ἐλαίῳ</w>
+    <suffix> </suffix>
+    <w>πολλοὺς</w>
+    <suffix> </suffix>
+    <w>ἀρρώστους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐθεράπευον</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:14">14</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἤκουσεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βασιλεὺς</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix>,  </suffix>
+    <w>φανερὸν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὄνομα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἰωάννης</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βαπτίζων</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐγήγερται</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>νεκρῶν</w>
+    <suffix>⸃,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>ἐνεργοῦσιν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>δυνάμεις</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:15">15</verse-number>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἠλίας</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>·  </suffix>
+    <w>ἄλλοι</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>προφήτης</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>προφητῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:16">16</verse-number>
+    <w>ἀκούσας</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔλεγεν</w>
+    <suffix>·  </suffix>
+    <w>Ὃν</w>
+    <suffix> </suffix>
+    <w>ἐγὼ</w>
+    <suffix> </suffix>
+    <w>ἀπεκεφάλισα</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix>,  </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἠγέρθη</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:17">17</verse-number>
+    <w>Αὐτὸς</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix> </suffix>
+    <w>ἀποστείλας</w>
+    <suffix> </suffix>
+    <w>ἐκράτησεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔδησεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>φυλακῇ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>Ἡρῳδιάδα</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γυναῖκα</w>
+    <suffix> </suffix>
+    <w>Φιλίππου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀδελφοῦ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>αὐτὴν</w>
+    <suffix> </suffix>
+    <w>ἐγάμησεν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:18">18</verse-number>
+    <w>ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννης</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδῃ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔξεστίν</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>ἔχειν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γυναῖκα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀδελφοῦ</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:19">19</verse-number>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἡρῳδιὰς</w>
+    <suffix> </suffix>
+    <w>ἐνεῖχεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤθελεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἀποκτεῖναι</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠδύνατο</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:20">20</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix> </suffix>
+    <w>ἐφοβεῖτο</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix>,  </suffix>
+    <w>εἰδὼς</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἄνδρα</w>
+    <suffix> </suffix>
+    <w>δίκαιον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἅγιον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>συνετήρει</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀκούσας</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>πολλὰ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἠπόρει</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡδέως</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἤκουεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:21">21</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>γενομένης</w>
+    <suffix> </suffix>
+    <w>ἡμέρας</w>
+    <suffix> </suffix>
+    <w>εὐκαίρου</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>γενεσίοις</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>δεῖπνον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>μεγιστᾶσιν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>χιλιάρχοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>πρώτοις</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Γαλιλαίας</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:22">22</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰσελθούσης</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θυγατρὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>αὐτῆς</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix>⸃  </suffix>
+    <w>Ἡρῳδιάδος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὀρχησαμένης</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀρεσάσης</w>
+    <suffix>⸃  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδῃ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>συνανακειμένοις</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βασιλεὺς</w>
+    <suffix>⸃  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κορασίῳ</w>
+    <suffix>·  </suffix>
+    <w>Αἴτησόν</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>θέλῃς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δώσω</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:23">23</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὤμοσεν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῇ</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ὅ</w>
+    <suffix> </suffix>
+    <w>τι</w>
+    <suffix>⸃  </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>αἰτήσῃς</w>
+    <suffix> </suffix>
+    <w>δώσω</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἡμίσους</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>βασιλείας</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:24">24</verse-number>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξελθοῦσα</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>μητρὶ</w>
+    <suffix> </suffix>
+    <w>αὐτῆς</w>
+    <suffix>·  </suffix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αἰτήσωμαι</w>
+    <suffix>;  </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Τὴν</w>
+    <suffix> </suffix>
+    <w>κεφαλὴν</w>
+    <suffix> </suffix>
+    <w>Ἰωάννου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βαπτίζοντος</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:25">25</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰσελθοῦσα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὐθὺς</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>σπουδῆς</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>βασιλέα</w>
+    <suffix> </suffix>
+    <w>ᾐτήσατο</w>
+    <suffix> </suffix>
+    <w>λέγουσα</w>
+    <suffix>·  </suffix>
+    <w>Θέλω</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐξαυτῆς</w>
+    <suffix> </suffix>
+    <w>δῷς</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix>⸃  </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πίνακι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κεφαλὴν</w>
+    <suffix> </suffix>
+    <w>Ἰωάννου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>βαπτιστοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:26">26</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>περίλυπος</w>
+    <suffix> </suffix>
+    <w>γενόμενος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βασιλεὺς</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὅρκους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀνακειμένους</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠθέλησεν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀθετῆσαι</w>
+    <suffix> </suffix>
+    <w>αὐτήν</w>
+    <suffix>⸃·  </suffix>
+    <verse-number id="Mark 6:27">27</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὐθὺς</w>
+    <suffix> </suffix>
+    <w>ἀποστείλας</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βασιλεὺς</w>
+    <suffix> </suffix>
+    <w>σπεκουλάτορα</w>
+    <suffix> </suffix>
+    <w>ἐπέταξεν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐνέγκαι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κεφαλὴν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπελθὼν</w>
+    <suffix> </suffix>
+    <w>ἀπεκεφάλισεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>φυλακῇ</w>
+    <suffix> </suffix>
+    <verse-number id="Mark 6:28">28</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤνεγκεν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κεφαλὴν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πίνακι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτὴν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κορασίῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>κοράσιον</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτὴν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>μητρὶ</w>
+    <suffix> </suffix>
+    <w>αὐτῆς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:29">29</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀκούσαντες</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἦλθον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦραν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πτῶμα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔθηκαν</w>
+    <suffix> </suffix>
+    <w>αὐτὸ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μνημείῳ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:30">30</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>συνάγονται</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἀπόστολοι</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπήγγειλαν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ὅσα</w>
+    <suffix> </suffix>
+    <w>ἐποίησαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅσα</w>
+    <suffix> </suffix>
+    <w>ἐδίδαξαν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:31">31</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Δεῦτε</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοὶ</w>
+    <suffix> </suffix>
+    <w>κατ’</w>
+    <suffix> </suffix>
+    <w>ἰδίαν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἔρημον</w>
+    <suffix> </suffix>
+    <w>τόπον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀναπαύσασθε</w>
+    <suffix> </suffix>
+    <w>ὀλίγον</w>
+    <suffix>.  </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἐρχόμενοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ὑπάγοντες</w>
+    <suffix> </suffix>
+    <w>πολλοί</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐδὲ</w>
+    <suffix> </suffix>
+    <w>φαγεῖν</w>
+    <suffix> </suffix>
+    <w>εὐκαίρουν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:32">32</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπῆλθον</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πλοίῳ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἔρημον</w>
+    <suffix> </suffix>
+    <w>τόπον</w>
+    <suffix>⸃  </suffix>
+    <w>κατ’</w>
+    <suffix> </suffix>
+    <w>ἰδίαν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:33">33</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶδον</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>ὑπάγοντας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπέγνωσαν</w>
+    <suffix> </suffix>
+    <w>πολλοί</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πεζῇ</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>πασῶν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πόλεων</w>
+    <suffix> </suffix>
+    <w>συνέδραμον</w>
+    <suffix> </suffix>
+    <w>ἐκεῖ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προῆλθον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτούς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:34">34</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξελθὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἶδεν</w>
+    <suffix> </suffix>
+    <w>πολὺν</w>
+    <suffix> </suffix>
+    <w>ὄχλον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐσπλαγχνίσθη</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>πρόβατα</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχοντα</w>
+    <suffix> </suffix>
+    <w>ποιμένα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤρξατο</w>
+    <suffix> </suffix>
+    <w>διδάσκειν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>πολλά</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:35">35</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>ὥρας</w>
+    <suffix> </suffix>
+    <w>πολλῆς</w>
+    <suffix> </suffix>
+    <w>γενομένης</w>
+    <suffix> </suffix>
+    <w>προσελθόντες</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔλεγον</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Ἔρημός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>τόπος</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>ὥρα</w>
+    <suffix> </suffix>
+    <w>πολλή</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:36">36</verse-number>
+    <w>ἀπόλυσον</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἀπελθόντες</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>κύκλῳ</w>
+    <suffix> </suffix>
+    <w>ἀγροὺς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κώμας</w>
+    <suffix> </suffix>
+    <w>ἀγοράσωσιν</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>φάγωσιν</w>
+    <suffix>⸃.  </suffix>
+    <verse-number id="Mark 6:37">37</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Δότε</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>φαγεῖν</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγουσιν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>·  </suffix>
+    <w>Ἀπελθόντες</w>
+    <suffix> </suffix>
+    <w>ἀγοράσωμεν</w>
+    <suffix> </suffix>
+    <w>δηναρίων</w>
+    <suffix> </suffix>
+    <w>διακοσίων</w>
+    <suffix> </suffix>
+    <w>ἄρτους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δώσομεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>φαγεῖν</w>
+    <suffix>;  </suffix>
+    <verse-number id="Mark 6:38">38</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Πόσους</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἔχετε</w>
+    <suffix> </suffix>
+    <w>ἄρτους</w>
+    <suffix>⸃;  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑπάγετε</w>
+    <suffix> </suffix>
+    <w>ἴδετε</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γνόντες</w>
+    <suffix> </suffix>
+    <w>λέγουσιν</w>
+    <suffix>·  </suffix>
+    <w>Πέντε</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἰχθύας</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:39">39</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπέταξεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀνακλῖναι</w>
+    <suffix> </suffix>
+    <w>πάντας</w>
+    <suffix> </suffix>
+    <w>συμπόσια</w>
+    <suffix> </suffix>
+    <w>συμπόσια</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>χλωρῷ</w>
+    <suffix> </suffix>
+    <w>χόρτῳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:40">40</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέπεσαν</w>
+    <suffix> </suffix>
+    <w>πρασιαὶ</w>
+    <suffix> </suffix>
+    <w>πρασιαὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>ἑκατὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸁</prefix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>πεντήκοντα</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:41">41</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λαβὼν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>πέντε</w>
+    <suffix> </suffix>
+    <w>ἄρτους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἰχθύας</w>
+    <suffix> </suffix>
+    <w>ἀναβλέψας</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὐρανὸν</w>
+    <suffix> </suffix>
+    <w>εὐλόγησεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέκλασεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἄρτους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐδίδου</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>μαθηταῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>παρατιθῶσιν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἰχθύας</w>
+    <suffix> </suffix>
+    <w>ἐμέρισεν</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:42">42</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔφαγον</w>
+    <suffix> </suffix>
+    <w>πάντες</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐχορτάσθησαν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Mark 6:43">43</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦραν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>κλάσματα</w>
+    <suffix> </suffix>
+    <w>δώδεκα</w>
+    <suffix> </suffix>
+    <w>κοφίνων</w>
+    <suffix> </suffix>
+    <w>πληρώματα</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἰχθύων</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:44">44</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>φαγόντες</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἄρτους</w>
+    <suffix>⸃  </suffix>
+    <w>πεντακισχίλιοι</w>
+    <suffix> </suffix>
+    <w>ἄνδρες</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:45">45</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὐθὺς</w>
+    <suffix> </suffix>
+    <w>ἠνάγκασεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>μαθητὰς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐμβῆναι</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πλοῖον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προάγειν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πέραν</w>
+    <suffix>⸃  </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>Βηθσαϊδάν</w>
+    <suffix>,  </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπολύει</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ὄχλον</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:46">46</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποταξάμενος</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ἀπῆλθεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὄρος</w>
+    <suffix> </suffix>
+    <w>προσεύξασθαι</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:47">47</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ὀψίας</w>
+    <suffix> </suffix>
+    <w>γενομένης</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πλοῖον</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μέσῳ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>μόνος</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:48">48</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἰδὼν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>βασανιζομένους</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἐλαύνειν</w>
+    <suffix>,  </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνεμος</w>
+    <suffix> </suffix>
+    <w>ἐναντίος</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῖς</w>
+    <suffix>,  </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τετάρτην</w>
+    <suffix> </suffix>
+    <w>φυλακὴν</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>νυκτὸς</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>περιπατῶν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤθελεν</w>
+    <suffix> </suffix>
+    <w>παρελθεῖν</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:49">49</verse-number>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἰδόντες</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix> </suffix>
+    <w>περιπατοῦντα</w>
+    <suffix>⸃  </suffix>
+    <w>ἔδοξαν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>φάντασμά</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέκραξαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:50">50</verse-number>
+    <w>πάντες</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>εἶδον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐταράχθησαν</w>
+    <suffix>.  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εὐθὺς</w>
+    <suffix>⸃  </suffix>
+    <w>ἐλάλησεν</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Θαρσεῖτε</w>
+    <suffix>,  </suffix>
+    <w>ἐγώ</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>φοβεῖσθε</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:51">51</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέβη</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πλοῖον</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκόπασεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄνεμος</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λίαν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>περισσοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐξίσταντο</w>
+    <suffix>,  </suffix>
+    <verse-number id="Mark 6:52">52</verse-number>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>συνῆκαν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἄρτοις</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>καρδία</w>
+    <suffix> </suffix>
+    <w>πεπωρωμένη</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Mark 6:53">53</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>διαπεράσαντες</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γῆν</w>
+    <suffix> </suffix>
+    <w>ἦλθον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix>⸃  </suffix>
+    <w>Γεννησαρὲτ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσωρμίσθησαν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:54">54</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξελθόντων</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πλοίου</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὐθὺς</w>
+    <suffix> </suffix>
+    <w>ἐπιγνόντες</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <verse-number id="Mark 6:55">55</verse-number>
+    <prefix> ⸂</prefix>
+    <w>περιέδραμον</w>
+    <suffix> </suffix>
+    <w>ὅλην</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>χώραν</w>
+    <suffix> </suffix>
+    <w>ἐκείνην</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix>⸃  </suffix>
+    <w>ἤρξαντο</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>κραβάττοις</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>κακῶς</w>
+    <suffix> </suffix>
+    <w>ἔχοντας</w>
+    <suffix> </suffix>
+    <w>περιφέρειν</w>
+    <suffix> </suffix>
+    <w>ὅπου</w>
+    <suffix> </suffix>
+    <w>ἤκουον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Mark 6:56">56</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅπου</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>εἰσεπορεύετο</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>κώμας</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>πόλεις</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix>⸃  </suffix>
+    <w>ἀγροὺς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἀγοραῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐτίθεσαν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀσθενοῦντας</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παρεκάλουν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>κἂν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κρασπέδου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἱματίου</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἅψωνται</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅσοι</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἥψαντο</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐσῴζοντο</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

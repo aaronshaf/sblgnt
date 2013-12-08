@@ -1,608 +1,619 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Revelation 10:1">10:1</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>εἶδον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἄλλον</w>
-  <suffix> </suffix>
-  <w>ἄγγελον</w>
-  <suffix> </suffix>
-  <w>ἰσχυρὸν</w>
-  <suffix> </suffix>
-  <w>καταβαίνοντα</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix>,  </suffix>
-  <w>περιβεβλημένον</w>
-  <suffix> </suffix>
-  <w>νεφέλην</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἶρις</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κεφαλὴν</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πρόσωπον</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἥλιος</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πόδες</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>στῦλοι</w>
-  <suffix> </suffix>
-  <w>πυρός</w>
-  <suffix>,  </suffix>
-  <verse-number id="Revelation 10:2">2</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔχων</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>χειρὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βιβλαρίδιον</w>
-  <suffix> </suffix>
-  <w>ἠνεῳγμένον</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔθηκεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πόδα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>δεξιὸν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix>,  </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εὐώνυμον</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>,  </suffix>
-  <verse-number id="Revelation 10:3">3</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔκραξεν</w>
-  <suffix> </suffix>
-  <w>φωνῇ</w>
-  <suffix> </suffix>
-  <w>μεγάλῃ</w>
-  <suffix> </suffix>
-  <w>ὥσπερ</w>
-  <suffix> </suffix>
-  <w>λέων</w>
-  <suffix> </suffix>
-  <w>μυκᾶται</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>ἔκραξεν</w>
-  <suffix>,  </suffix>
-  <w>ἐλάλησαν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἑπτὰ</w>
-  <suffix> </suffix>
-  <w>βρονταὶ</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>ἑαυτῶν</w>
-  <suffix> </suffix>
-  <w>φωνάς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:4">4</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>ἐλάλησαν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἑπτὰ</w>
-  <suffix> </suffix>
-  <w>βρονταί</w>
-  <suffix>,  </suffix>
-  <w>ἤμελλον</w>
-  <suffix> </suffix>
-  <w>γράφειν</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἤκουσα</w>
-  <suffix> </suffix>
-  <w>φωνὴν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix> </suffix>
-  <w>λέγουσαν</w>
-  <suffix>·  </suffix>
-  <w>Σφράγισον</w>
-  <suffix> </suffix>
-  <w>ἃ</w>
-  <suffix> </suffix>
-  <w>ἐλάλησαν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἑπτὰ</w>
-  <suffix> </suffix>
-  <w>βρονταί</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>αὐτὰ</w>
-  <suffix> </suffix>
-  <w>γράψῃς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἄγγελος</w>
-  <suffix>,  </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>εἶδον</w>
-  <suffix> </suffix>
-  <w>ἑστῶτα</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>,  </suffix>
-  <w>ἦρεν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>χεῖρα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>δεξιὰν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὐρανόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Revelation 10:6">6</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὤμοσεν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ζῶντι</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>αἰῶνας</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>αἰώνων</w>
-  <suffix>,  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἔκτισεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὐρανὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γῆν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>θάλασσαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῇ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>χρόνος</w>
-  <suffix> </suffix>
-  <w>οὐκέτι</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix>·  </suffix>
-  <verse-number id="Revelation 10:7">7</verse-number>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἡμέραις</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>φωνῆς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἑβδόμου</w>
-  <suffix> </suffix>
-  <w>ἀγγέλου</w>
-  <suffix>,  </suffix>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>μέλλῃ</w>
-  <suffix> </suffix>
-  <w>σαλπίζειν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐτελέσθη</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μυστήριον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>εὐηγγέλισεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἑαυτοῦ</w>
-  <suffix> </suffix>
-  <w>δούλους</w>
-  <suffix>⸃  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>προφήτας</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:8">8</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>φωνὴ</w>
-  <suffix> </suffix>
-  <w>ἣν</w>
-  <suffix> </suffix>
-  <w>ἤκουσα</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix>,  </suffix>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λαλοῦσαν</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>ἐμοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λέγουσαν</w>
-  <suffix>·  </suffix>
-  <w>Ὕπαγε</w>
-  <suffix> </suffix>
-  <w>λάβε</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βιβλίον</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἠνεῳγμένον</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>χειρὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀγγέλου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἑστῶτος</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>θαλάσσης</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:9">9</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀπῆλθα</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἄγγελον</w>
-  <suffix> </suffix>
-  <w>λέγων</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>δοῦναί</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βιβλαρίδιον</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix>·  </suffix>
-  <w>Λάβε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατάφαγε</w>
-  <suffix> </suffix>
-  <w>αὐτό</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πικρανεῖ</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κοιλίαν</w>
-  <suffix>,  </suffix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>στόματί</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>γλυκὺ</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>μέλι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:10">10</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔλαβον</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>βιβλαρίδιον</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>χειρὸς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀγγέλου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέφαγον</w>
-  <suffix> </suffix>
-  <w>αὐτό</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>στόματί</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>μέλι</w>
-  <suffix> </suffix>
-  <w>γλυκύ</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>ἔφαγον</w>
-  <suffix> </suffix>
-  <w>αὐτό</w>
-  <suffix>,  </suffix>
-  <w>ἐπικράνθη</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>κοιλία</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Revelation 10:11">11</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>λέγουσίν</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix>·  </suffix>
-  <w>Δεῖ</w>
-  <suffix> </suffix>
-  <w>σε</w>
-  <suffix> </suffix>
-  <w>πάλιν</w>
-  <suffix> </suffix>
-  <w>προφητεῦσαι</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>λαοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔθνεσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γλώσσαις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βασιλεῦσιν</w>
-  <suffix> </suffix>
-  <w>πολλοῖς</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Revelation 10:1">10:1</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>εἶδον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἄλλον</w>
+    <suffix> </suffix>
+    <w>ἄγγελον</w>
+    <suffix> </suffix>
+    <w>ἰσχυρὸν</w>
+    <suffix> </suffix>
+    <w>καταβαίνοντα</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix>,  </suffix>
+    <w>περιβεβλημένον</w>
+    <suffix> </suffix>
+    <w>νεφέλην</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἶρις</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κεφαλὴν</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πρόσωπον</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἥλιος</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πόδες</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>στῦλοι</w>
+    <suffix> </suffix>
+    <w>πυρός</w>
+    <suffix>,  </suffix>
+    <verse-number id="Revelation 10:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔχων</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>χειρὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βιβλαρίδιον</w>
+    <suffix> </suffix>
+    <w>ἠνεῳγμένον</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔθηκεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πόδα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>δεξιὸν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix>,  </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εὐώνυμον</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>,  </suffix>
+    <verse-number id="Revelation 10:3">3</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔκραξεν</w>
+    <suffix> </suffix>
+    <w>φωνῇ</w>
+    <suffix> </suffix>
+    <w>μεγάλῃ</w>
+    <suffix> </suffix>
+    <w>ὥσπερ</w>
+    <suffix> </suffix>
+    <w>λέων</w>
+    <suffix> </suffix>
+    <w>μυκᾶται</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>ἔκραξεν</w>
+    <suffix>,  </suffix>
+    <w>ἐλάλησαν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἑπτὰ</w>
+    <suffix> </suffix>
+    <w>βρονταὶ</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>ἑαυτῶν</w>
+    <suffix> </suffix>
+    <w>φωνάς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Revelation 10:4">4</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>ἐλάλησαν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἑπτὰ</w>
+    <suffix> </suffix>
+    <w>βρονταί</w>
+    <suffix>,  </suffix>
+    <w>ἤμελλον</w>
+    <suffix> </suffix>
+    <w>γράφειν</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἤκουσα</w>
+    <suffix> </suffix>
+    <w>φωνὴν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix> </suffix>
+    <w>λέγουσαν</w>
+    <suffix>·  </suffix>
+    <w>Σφράγισον</w>
+    <suffix> </suffix>
+    <w>ἃ</w>
+    <suffix> </suffix>
+    <w>ἐλάλησαν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἑπτὰ</w>
+    <suffix> </suffix>
+    <w>βρονταί</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>αὐτὰ</w>
+    <suffix> </suffix>
+    <w>γράψῃς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Revelation 10:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἄγγελος</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>εἶδον</w>
+    <suffix> </suffix>
+    <w>ἑστῶτα</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>,  </suffix>
+    <w>ἦρεν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>χεῖρα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>δεξιὰν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὐρανόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Revelation 10:6">6</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὤμοσεν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ζῶντι</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>αἰῶνας</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>αἰώνων</w>
+    <suffix>,  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἔκτισεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὐρανὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γῆν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>θάλασσαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῇ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>χρόνος</w>
+    <suffix> </suffix>
+    <w>οὐκέτι</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix>·  </suffix>
+    <verse-number id="Revelation 10:7">7</verse-number>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἡμέραις</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>φωνῆς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἑβδόμου</w>
+    <suffix> </suffix>
+    <w>ἀγγέλου</w>
+    <suffix>,  </suffix>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>μέλλῃ</w>
+    <suffix> </suffix>
+    <w>σαλπίζειν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐτελέσθη</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μυστήριον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>εὐηγγέλισεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἑαυτοῦ</w>
+    <suffix> </suffix>
+    <w>δούλους</w>
+    <suffix>⸃  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>προφήτας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Revelation 10:8">8</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>φωνὴ</w>
+    <suffix> </suffix>
+    <w>ἣν</w>
+    <suffix> </suffix>
+    <w>ἤκουσα</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix>,  </suffix>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λαλοῦσαν</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>ἐμοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λέγουσαν</w>
+    <suffix>·  </suffix>
+    <w>Ὕπαγε</w>
+    <suffix> </suffix>
+    <w>λάβε</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βιβλίον</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἠνεῳγμένον</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>χειρὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀγγέλου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἑστῶτος</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>θαλάσσης</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Revelation 10:9">9</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπῆλθα</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἄγγελον</w>
+    <suffix> </suffix>
+    <w>λέγων</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>δοῦναί</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βιβλαρίδιον</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix>·  </suffix>
+    <w>Λάβε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατάφαγε</w>
+    <suffix> </suffix>
+    <w>αὐτό</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πικρανεῖ</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κοιλίαν</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>στόματί</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>γλυκὺ</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>μέλι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Revelation 10:10">10</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔλαβον</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>βιβλαρίδιον</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>χειρὸς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀγγέλου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέφαγον</w>
+    <suffix> </suffix>
+    <w>αὐτό</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>στόματί</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>μέλι</w>
+    <suffix> </suffix>
+    <w>γλυκύ</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>ἔφαγον</w>
+    <suffix> </suffix>
+    <w>αὐτό</w>
+    <suffix>,  </suffix>
+    <w>ἐπικράνθη</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>κοιλία</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Revelation 10:11">11</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>λέγουσίν</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix>·  </suffix>
+    <w>Δεῖ</w>
+    <suffix> </suffix>
+    <w>σε</w>
+    <suffix> </suffix>
+    <w>πάλιν</w>
+    <suffix> </suffix>
+    <w>προφητεῦσαι</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>λαοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔθνεσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γλώσσαις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βασιλεῦσιν</w>
+    <suffix> </suffix>
+    <w>πολλοῖς</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

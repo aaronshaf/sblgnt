@@ -1,1008 +1,1019 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Ephesians 4:1">4:1</verse-number>
-  <w>Παρακαλῶ</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>ἐγὼ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δέσμιος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>κυρίῳ</w>
-  <suffix> </suffix>
-  <w>ἀξίως</w>
-  <suffix> </suffix>
-  <w>περιπατῆσαι</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>κλήσεως</w>
-  <suffix> </suffix>
-  <w>ἧς</w>
-  <suffix> </suffix>
-  <w>ἐκλήθητε</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:2">2</verse-number>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ταπεινοφροσύνης</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πραΰτητος</w>
-  <suffix>,  </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>μακροθυμίας</w>
-  <suffix>,  </suffix>
-  <w>ἀνεχόμενοι</w>
-  <suffix> </suffix>
-  <w>ἀλλήλων</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἀγάπῃ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:3">3</verse-number>
-  <w>σπουδάζοντες</w>
-  <suffix> </suffix>
-  <w>τηρεῖν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἑνότητα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πνεύματος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>συνδέσμῳ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>εἰρήνης</w>
-  <suffix>·  </suffix>
-  <verse-number id="Ephesians 4:4">4</verse-number>
-  <w>ἓν</w>
-  <suffix> </suffix>
-  <w>σῶμα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἓν</w>
-  <suffix> </suffix>
-  <w>πνεῦμα</w>
-  <suffix>,  </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκλήθητε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μιᾷ</w>
-  <suffix> </suffix>
-  <w>ἐλπίδι</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>κλήσεως</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Ephesians 4:5">5</verse-number>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix>,  </suffix>
-  <w>μία</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix>,  </suffix>
-  <w>ἓν</w>
-  <suffix> </suffix>
-  <w>βάπτισμα</w>
-  <suffix>·  </suffix>
-  <verse-number id="Ephesians 4:6">6</verse-number>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πατὴρ</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πᾶσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:7">7</verse-number>
-  <w>Ἑνὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἑκάστῳ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἐδόθη</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>χάρις</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μέτρον</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>δωρεᾶς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:8">8</verse-number>
-  <w>διὸ</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix>·  </suffix>
-  <w>Ἀναβὰς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ὕψος</w>
-  <suffix> </suffix>
-  <w>ᾐχμαλώτευσεν</w>
-  <suffix> </suffix>
-  <w>αἰχμαλωσίαν</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>δόματα</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἀνθρώποις</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:9">9</verse-number>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἀνέβη</w>
-  <suffix> </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κατέβη</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>κατώτερα</w>
-  <suffix> </suffix>
-  <w>μέρη</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>;  </suffix>
-  <verse-number id="Ephesians 4:10">10</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>καταβὰς</w>
-  <suffix> </suffix>
-  <w>αὐτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀναβὰς</w>
-  <suffix> </suffix>
-  <w>ὑπεράνω</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>οὐρανῶν</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>πληρώσῃ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:11">11</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>μὲν</w>
-  <suffix> </suffix>
-  <w>ἀποστόλους</w>
-  <suffix>,  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>προφήτας</w>
-  <suffix>,  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εὐαγγελιστάς</w>
-  <suffix>,  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ποιμένας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διδασκάλους</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:12">12</verse-number>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>καταρτισμὸν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἁγίων</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἔργον</w>
-  <suffix> </suffix>
-  <w>διακονίας</w>
-  <suffix>,  </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>οἰκοδομὴν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>σώματος</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:13">13</verse-number>
-  <w>μέχρι</w>
-  <suffix> </suffix>
-  <w>καταντήσωμεν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πάντες</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἑνότητα</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>πίστεως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐπιγνώσεως</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>υἱοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἄνδρα</w>
-  <suffix> </suffix>
-  <w>τέλειον</w>
-  <suffix>,  </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>μέτρον</w>
-  <suffix> </suffix>
-  <w>ἡλικίας</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πληρώματος</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:14">14</verse-number>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>μηκέτι</w>
-  <suffix> </suffix>
-  <w>ὦμεν</w>
-  <suffix> </suffix>
-  <w>νήπιοι</w>
-  <suffix>,  </suffix>
-  <w>κλυδωνιζόμενοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>περιφερόμενοι</w>
-  <suffix> </suffix>
-  <w>παντὶ</w>
-  <suffix> </suffix>
-  <w>ἀνέμῳ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>διδασκαλίας</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>κυβείᾳ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπων</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πανουργίᾳ</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>μεθοδείαν</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>πλάνης</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:15">15</verse-number>
-  <w>ἀληθεύοντες</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἀγάπῃ</w>
-  <suffix> </suffix>
-  <w>αὐξήσωμεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix>,  </suffix>
-  <w>ὅς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>κεφαλή</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Χριστός</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:16">16</verse-number>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>πᾶν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σῶμα</w>
-  <suffix> </suffix>
-  <w>συναρμολογούμενον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>συμβιβαζόμενον</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ἁφῆς</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐπιχορηγίας</w>
-  <suffix> </suffix>
-  <w>κατ’</w>
-  <suffix> </suffix>
-  <w>ἐνέργειαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>μέτρῳ</w>
-  <suffix> </suffix>
-  <w>ἑνὸς</w>
-  <suffix> </suffix>
-  <w>ἑκάστου</w>
-  <suffix> </suffix>
-  <w>μέρους</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>αὔξησιν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>σώματος</w>
-  <suffix> </suffix>
-  <w>ποιεῖται</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>οἰκοδομὴν</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἀγάπῃ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:17">17</verse-number>
-  <w>Τοῦτο</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>λέγω</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μαρτύρομαι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>κυρίῳ</w>
-  <suffix>,  </suffix>
-  <w>μηκέτι</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>περιπατεῖν</w>
-  <suffix> </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἔθνη</w>
-  <suffix> </suffix>
-  <w>περιπατεῖ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ματαιότητι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νοὸς</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:18">18</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἐσκοτωμένοι</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>διανοίᾳ</w>
-  <suffix> </suffix>
-  <w>ὄντες</w>
-  <suffix>,  </suffix>
-  <w>ἀπηλλοτριωμένοι</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ζωῆς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἄγνοιαν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>οὖσαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>,  </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πώρωσιν</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>καρδίας</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:19">19</verse-number>
-  <w>οἵτινες</w>
-  <suffix> </suffix>
-  <w>ἀπηλγηκότες</w>
-  <suffix> </suffix>
-  <w>ἑαυτοὺς</w>
-  <suffix> </suffix>
-  <w>παρέδωκαν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἀσελγείᾳ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἐργασίαν</w>
-  <suffix> </suffix>
-  <w>ἀκαθαρσίας</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πλεονεξίᾳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:20">20</verse-number>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ἐμάθετε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Χριστόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:21">21</verse-number>
-  <w>εἴ</w>
-  <suffix> </suffix>
-  <w>γε</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἠκούσατε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐδιδάχθητε</w>
-  <suffix>,  </suffix>
-  <w>καθώς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ἀλήθεια</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:22">22</verse-number>
-  <w>ἀποθέσθαι</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>προτέραν</w>
-  <suffix> </suffix>
-  <w>ἀναστροφὴν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>παλαιὸν</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φθειρόμενον</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>ἐπιθυμίας</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἀπάτης</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:23">23</verse-number>
-  <w>ἀνανεοῦσθαι</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πνεύματι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νοὸς</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:24">24</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐνδύσασθαι</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>καινὸν</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>θεὸν</w>
-  <suffix> </suffix>
-  <w>κτισθέντα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>δικαιοσύνῃ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁσιότητι</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἀληθείας</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:25">25</verse-number>
-  <w>Διὸ</w>
-  <suffix> </suffix>
-  <w>ἀποθέμενοι</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ψεῦδος</w>
-  <suffix> </suffix>
-  <w>λαλεῖτε</w>
-  <suffix> </suffix>
-  <w>ἀλήθειαν</w>
-  <suffix> </suffix>
-  <w>ἕκαστος</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πλησίον</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐσμὲν</w>
-  <suffix> </suffix>
-  <w>ἀλλήλων</w>
-  <suffix> </suffix>
-  <w>μέλη</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:26">26</verse-number>
-  <w>ὀργίζεσθε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτάνετε</w>
-  <suffix>·  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἥλιος</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐπιδυέτω</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>παροργισμῷ</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Ephesians 4:27">27</verse-number>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>δίδοτε</w>
-  <suffix> </suffix>
-  <w>τόπον</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>διαβόλῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:28">28</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κλέπτων</w>
-  <suffix> </suffix>
-  <w>μηκέτι</w>
-  <suffix> </suffix>
-  <w>κλεπτέτω</w>
-  <suffix>,  </suffix>
-  <w>μᾶλλον</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>κοπιάτω</w>
-  <suffix> </suffix>
-  <w>ἐργαζόμενος</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἰδίαις</w>
-  <suffix> </suffix>
-  <w>χερσὶν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἀγαθόν</w>
-  <suffix>⸃,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἔχῃ</w>
-  <suffix> </suffix>
-  <w>μεταδιδόναι</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>χρείαν</w>
-  <suffix> </suffix>
-  <w>ἔχοντι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:29">29</verse-number>
-  <w>πᾶς</w>
-  <suffix> </suffix>
-  <w>λόγος</w>
-  <suffix> </suffix>
-  <w>σαπρὸς</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>στόματος</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐκπορευέσθω</w>
-  <suffix>,  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>εἴ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἀγαθὸς</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>οἰκοδομὴν</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>χρείας</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>δῷ</w>
-  <suffix> </suffix>
-  <w>χάριν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἀκούουσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:30">30</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>λυπεῖτε</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πνεῦμα</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἅγιον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>ἐσφραγίσθητε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἡμέραν</w>
-  <suffix> </suffix>
-  <w>ἀπολυτρώσεως</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:31">31</verse-number>
-  <w>πᾶσα</w>
-  <suffix> </suffix>
-  <w>πικρία</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θυμὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὀργὴ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κραυγὴ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βλασφημία</w>
-  <suffix> </suffix>
-  <w>ἀρθήτω</w>
-  <suffix> </suffix>
-  <w>ἀφ’</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>σὺν</w>
-  <suffix> </suffix>
-  <w>πάσῃ</w>
-  <suffix> </suffix>
-  <w>κακίᾳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Ephesians 4:32">32</verse-number>
-  <prefix> ⸀</prefix>
-  <w>γίνεσθε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἀλλήλους</w>
-  <suffix> </suffix>
-  <w>χρηστοί</w>
-  <suffix>,  </suffix>
-  <w>εὔσπλαγχνοι</w>
-  <suffix>,  </suffix>
-  <w>χαριζόμενοι</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix> </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Χριστῷ</w>
-  <suffix> </suffix>
-  <w>ἐχαρίσατο</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὑμῖν</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Ephesians 4:1">4:1</verse-number>
+    <w>Παρακαλῶ</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>ἐγὼ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δέσμιος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>κυρίῳ</w>
+    <suffix> </suffix>
+    <w>ἀξίως</w>
+    <suffix> </suffix>
+    <w>περιπατῆσαι</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>κλήσεως</w>
+    <suffix> </suffix>
+    <w>ἧς</w>
+    <suffix> </suffix>
+    <w>ἐκλήθητε</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:2">2</verse-number>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ταπεινοφροσύνης</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πραΰτητος</w>
+    <suffix>,  </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>μακροθυμίας</w>
+    <suffix>,  </suffix>
+    <w>ἀνεχόμενοι</w>
+    <suffix> </suffix>
+    <w>ἀλλήλων</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἀγάπῃ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:3">3</verse-number>
+    <w>σπουδάζοντες</w>
+    <suffix> </suffix>
+    <w>τηρεῖν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἑνότητα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πνεύματος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>συνδέσμῳ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>εἰρήνης</w>
+    <suffix>·  </suffix>
+    <verse-number id="Ephesians 4:4">4</verse-number>
+    <w>ἓν</w>
+    <suffix> </suffix>
+    <w>σῶμα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἓν</w>
+    <suffix> </suffix>
+    <w>πνεῦμα</w>
+    <suffix>,  </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκλήθητε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μιᾷ</w>
+    <suffix> </suffix>
+    <w>ἐλπίδι</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>κλήσεως</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Ephesians 4:5">5</verse-number>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix>,  </suffix>
+    <w>μία</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix>,  </suffix>
+    <w>ἓν</w>
+    <suffix> </suffix>
+    <w>βάπτισμα</w>
+    <suffix>·  </suffix>
+    <verse-number id="Ephesians 4:6">6</verse-number>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πατὴρ</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πᾶσιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Ephesians 4:7">7</verse-number>
+    <w>Ἑνὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἑκάστῳ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἐδόθη</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>χάρις</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μέτρον</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>δωρεᾶς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:8">8</verse-number>
+    <w>διὸ</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix>·  </suffix>
+    <w>Ἀναβὰς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ὕψος</w>
+    <suffix> </suffix>
+    <w>ᾐχμαλώτευσεν</w>
+    <suffix> </suffix>
+    <w>αἰχμαλωσίαν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>δόματα</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἀνθρώποις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:9">9</verse-number>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἀνέβη</w>
+    <suffix> </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κατέβη</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>κατώτερα</w>
+    <suffix> </suffix>
+    <w>μέρη</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>;  </suffix>
+    <verse-number id="Ephesians 4:10">10</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>καταβὰς</w>
+    <suffix> </suffix>
+    <w>αὐτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀναβὰς</w>
+    <suffix> </suffix>
+    <w>ὑπεράνω</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>οὐρανῶν</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>πληρώσῃ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:11">11</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>μὲν</w>
+    <suffix> </suffix>
+    <w>ἀποστόλους</w>
+    <suffix>,  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>προφήτας</w>
+    <suffix>,  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εὐαγγελιστάς</w>
+    <suffix>,  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ποιμένας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διδασκάλους</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:12">12</verse-number>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>καταρτισμὸν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἁγίων</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἔργον</w>
+    <suffix> </suffix>
+    <w>διακονίας</w>
+    <suffix>,  </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>οἰκοδομὴν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>σώματος</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:13">13</verse-number>
+    <w>μέχρι</w>
+    <suffix> </suffix>
+    <w>καταντήσωμεν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πάντες</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἑνότητα</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>πίστεως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐπιγνώσεως</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>υἱοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἄνδρα</w>
+    <suffix> </suffix>
+    <w>τέλειον</w>
+    <suffix>,  </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>μέτρον</w>
+    <suffix> </suffix>
+    <w>ἡλικίας</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πληρώματος</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:14">14</verse-number>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>μηκέτι</w>
+    <suffix> </suffix>
+    <w>ὦμεν</w>
+    <suffix> </suffix>
+    <w>νήπιοι</w>
+    <suffix>,  </suffix>
+    <w>κλυδωνιζόμενοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>περιφερόμενοι</w>
+    <suffix> </suffix>
+    <w>παντὶ</w>
+    <suffix> </suffix>
+    <w>ἀνέμῳ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>διδασκαλίας</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>κυβείᾳ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπων</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πανουργίᾳ</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>μεθοδείαν</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>πλάνης</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:15">15</verse-number>
+    <w>ἀληθεύοντες</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἀγάπῃ</w>
+    <suffix> </suffix>
+    <w>αὐξήσωμεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix>,  </suffix>
+    <w>ὅς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>κεφαλή</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Χριστός</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:16">16</verse-number>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>πᾶν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σῶμα</w>
+    <suffix> </suffix>
+    <w>συναρμολογούμενον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>συμβιβαζόμενον</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ἁφῆς</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐπιχορηγίας</w>
+    <suffix> </suffix>
+    <w>κατ’</w>
+    <suffix> </suffix>
+    <w>ἐνέργειαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>μέτρῳ</w>
+    <suffix> </suffix>
+    <w>ἑνὸς</w>
+    <suffix> </suffix>
+    <w>ἑκάστου</w>
+    <suffix> </suffix>
+    <w>μέρους</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>αὔξησιν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>σώματος</w>
+    <suffix> </suffix>
+    <w>ποιεῖται</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>οἰκοδομὴν</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἀγάπῃ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Ephesians 4:17">17</verse-number>
+    <w>Τοῦτο</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>λέγω</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μαρτύρομαι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>κυρίῳ</w>
+    <suffix>,  </suffix>
+    <w>μηκέτι</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>περιπατεῖν</w>
+    <suffix> </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἔθνη</w>
+    <suffix> </suffix>
+    <w>περιπατεῖ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ματαιότητι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νοὸς</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:18">18</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἐσκοτωμένοι</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>διανοίᾳ</w>
+    <suffix> </suffix>
+    <w>ὄντες</w>
+    <suffix>,  </suffix>
+    <w>ἀπηλλοτριωμένοι</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ζωῆς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἄγνοιαν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>οὖσαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>,  </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πώρωσιν</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>καρδίας</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:19">19</verse-number>
+    <w>οἵτινες</w>
+    <suffix> </suffix>
+    <w>ἀπηλγηκότες</w>
+    <suffix> </suffix>
+    <w>ἑαυτοὺς</w>
+    <suffix> </suffix>
+    <w>παρέδωκαν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἀσελγείᾳ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἐργασίαν</w>
+    <suffix> </suffix>
+    <w>ἀκαθαρσίας</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πλεονεξίᾳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:20">20</verse-number>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ἐμάθετε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Χριστόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:21">21</verse-number>
+    <w>εἴ</w>
+    <suffix> </suffix>
+    <w>γε</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἠκούσατε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐδιδάχθητε</w>
+    <suffix>,  </suffix>
+    <w>καθώς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ἀλήθεια</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:22">22</verse-number>
+    <w>ἀποθέσθαι</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>προτέραν</w>
+    <suffix> </suffix>
+    <w>ἀναστροφὴν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>παλαιὸν</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φθειρόμενον</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἀπάτης</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:23">23</verse-number>
+    <w>ἀνανεοῦσθαι</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πνεύματι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νοὸς</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:24">24</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐνδύσασθαι</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>καινὸν</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>θεὸν</w>
+    <suffix> </suffix>
+    <w>κτισθέντα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>δικαιοσύνῃ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁσιότητι</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἀληθείας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Ephesians 4:25">25</verse-number>
+    <w>Διὸ</w>
+    <suffix> </suffix>
+    <w>ἀποθέμενοι</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ψεῦδος</w>
+    <suffix> </suffix>
+    <w>λαλεῖτε</w>
+    <suffix> </suffix>
+    <w>ἀλήθειαν</w>
+    <suffix> </suffix>
+    <w>ἕκαστος</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πλησίον</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐσμὲν</w>
+    <suffix> </suffix>
+    <w>ἀλλήλων</w>
+    <suffix> </suffix>
+    <w>μέλη</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:26">26</verse-number>
+    <w>ὀργίζεσθε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτάνετε</w>
+    <suffix>·  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἥλιος</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐπιδυέτω</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>παροργισμῷ</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Ephesians 4:27">27</verse-number>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>δίδοτε</w>
+    <suffix> </suffix>
+    <w>τόπον</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>διαβόλῳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:28">28</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κλέπτων</w>
+    <suffix> </suffix>
+    <w>μηκέτι</w>
+    <suffix> </suffix>
+    <w>κλεπτέτω</w>
+    <suffix>,  </suffix>
+    <w>μᾶλλον</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>κοπιάτω</w>
+    <suffix> </suffix>
+    <w>ἐργαζόμενος</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἰδίαις</w>
+    <suffix> </suffix>
+    <w>χερσὶν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἀγαθόν</w>
+    <suffix>⸃,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἔχῃ</w>
+    <suffix> </suffix>
+    <w>μεταδιδόναι</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>χρείαν</w>
+    <suffix> </suffix>
+    <w>ἔχοντι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:29">29</verse-number>
+    <w>πᾶς</w>
+    <suffix> </suffix>
+    <w>λόγος</w>
+    <suffix> </suffix>
+    <w>σαπρὸς</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>στόματος</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐκπορευέσθω</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>εἴ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἀγαθὸς</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>οἰκοδομὴν</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>χρείας</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>δῷ</w>
+    <suffix> </suffix>
+    <w>χάριν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἀκούουσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:30">30</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>λυπεῖτε</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πνεῦμα</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἅγιον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>ἐσφραγίσθητε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἡμέραν</w>
+    <suffix> </suffix>
+    <w>ἀπολυτρώσεως</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:31">31</verse-number>
+    <w>πᾶσα</w>
+    <suffix> </suffix>
+    <w>πικρία</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θυμὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὀργὴ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κραυγὴ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βλασφημία</w>
+    <suffix> </suffix>
+    <w>ἀρθήτω</w>
+    <suffix> </suffix>
+    <w>ἀφ’</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>σὺν</w>
+    <suffix> </suffix>
+    <w>πάσῃ</w>
+    <suffix> </suffix>
+    <w>κακίᾳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Ephesians 4:32">32</verse-number>
+    <prefix> ⸀</prefix>
+    <w>γίνεσθε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἀλλήλους</w>
+    <suffix> </suffix>
+    <w>χρηστοί</w>
+    <suffix>,  </suffix>
+    <w>εὔσπλαγχνοι</w>
+    <suffix>,  </suffix>
+    <w>χαριζόμενοι</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix> </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Χριστῷ</w>
+    <suffix> </suffix>
+    <w>ἐχαρίσατο</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑμῖν</w>
+    <suffix>.  </suffix>
+  </p>
 </chapter>

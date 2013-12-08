@@ -1,645 +1,662 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="1 Timothy 1:1">1:1</verse-number>
-  <w>Παῦλος</w>
-  <suffix> </suffix>
-  <w>ἀπόστολος</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Χριστοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>⸃  </suffix>
-  <w>κατ’</w>
-  <suffix> </suffix>
-  <w>ἐπιταγὴν</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>σωτῆρος</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Χριστοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>⸃  </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐλπίδος</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <verse-number id="1 Timothy 1:2">2</verse-number>
-  <w>Τιμοθέῳ</w>
-  <suffix> </suffix>
-  <w>γνησίῳ</w>
-  <suffix> </suffix>
-  <w>τέκνῳ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πίστει</w>
-  <suffix>·  </suffix>
-  <w>χάρις</w>
-  <suffix>,  </suffix>
-  <w>ἔλεος</w>
-  <suffix>,  </suffix>
-  <w>εἰρήνη</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πατρὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:3">3</verse-number>
-  <w>Καθὼς</w>
-  <suffix> </suffix>
-  <w>παρεκάλεσά</w>
-  <suffix> </suffix>
-  <w>σε</w>
-  <suffix> </suffix>
-  <w>προσμεῖναι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Ἐφέσῳ</w>
-  <suffix>,  </suffix>
-  <w>πορευόμενος</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Μακεδονίαν</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>παραγγείλῃς</w>
-  <suffix> </suffix>
-  <w>τισὶν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἑτεροδιδασκαλεῖν</w>
-  <suffix> </suffix>
-  <verse-number id="1 Timothy 1:4">4</verse-number>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>προσέχειν</w>
-  <suffix> </suffix>
-  <w>μύθοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γενεαλογίαις</w>
-  <suffix> </suffix>
-  <w>ἀπεράντοις</w>
-  <suffix>,  </suffix>
-  <w>αἵτινες</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐκζητήσεις</w>
-  <suffix> </suffix>
-  <w>παρέχουσι</w>
-  <suffix> </suffix>
-  <w>μᾶλλον</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>οἰκονομίαν</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πίστει</w>
-  <suffix>—  </suffix>
-  <verse-number id="1 Timothy 1:5">5</verse-number>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>παραγγελίας</w>
-  <suffix> </suffix>
-  <w>ἐστὶν</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>καθαρᾶς</w>
-  <suffix> </suffix>
-  <w>καρδίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>συνειδήσεως</w>
-  <suffix> </suffix>
-  <w>ἀγαθῆς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πίστεως</w>
-  <suffix> </suffix>
-  <w>ἀνυποκρίτου</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:6">6</verse-number>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>τινες</w>
-  <suffix> </suffix>
-  <w>ἀστοχήσαντες</w>
-  <suffix> </suffix>
-  <w>ἐξετράπησαν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ματαιολογίαν</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:7">7</verse-number>
-  <w>θέλοντες</w>
-  <suffix> </suffix>
-  <w>εἶναι</w>
-  <suffix> </suffix>
-  <w>νομοδιδάσκαλοι</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>νοοῦντες</w>
-  <suffix> </suffix>
-  <w>μήτε</w>
-  <suffix> </suffix>
-  <w>ἃ</w>
-  <suffix> </suffix>
-  <w>λέγουσιν</w>
-  <suffix> </suffix>
-  <w>μήτε</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τίνων</w>
-  <suffix> </suffix>
-  <w>διαβεβαιοῦνται</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:8">8</verse-number>
-  <w>Οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>καλὸς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>νόμος</w>
-  <suffix> </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>νομίμως</w>
-  <suffix> </suffix>
-  <w>χρῆται</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:9">9</verse-number>
-  <w>εἰδὼς</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>δικαίῳ</w>
-  <suffix> </suffix>
-  <w>νόμος</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>κεῖται</w>
-  <suffix>,  </suffix>
-  <w>ἀνόμοις</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνυποτάκτοις</w>
-  <suffix>,  </suffix>
-  <w>ἀσεβέσι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλοῖς</w>
-  <suffix>,  </suffix>
-  <w>ἀνοσίοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βεβήλοις</w>
-  <suffix>,  </suffix>
-  <w>πατρολῴαις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μητρολῴαις</w>
-  <suffix>,  </suffix>
-  <w>ἀνδροφόνοις</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:10">10</verse-number>
-  <w>πόρνοις</w>
-  <suffix>,  </suffix>
-  <w>ἀρσενοκοίταις</w>
-  <suffix>,  </suffix>
-  <w>ἀνδραποδισταῖς</w>
-  <suffix>,  </suffix>
-  <w>ψεύσταις</w>
-  <suffix>,  </suffix>
-  <w>ἐπιόρκοις</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἴ</w>
-  <suffix> </suffix>
-  <w>τι</w>
-  <suffix> </suffix>
-  <w>ἕτερον</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ὑγιαινούσῃ</w>
-  <suffix> </suffix>
-  <w>διδασκαλίᾳ</w>
-  <suffix> </suffix>
-  <w>ἀντίκειται</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:11">11</verse-number>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>εὐαγγέλιον</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>δόξης</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>μακαρίου</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>ὃ</w>
-  <suffix> </suffix>
-  <w>ἐπιστεύθην</w>
-  <suffix> </suffix>
-  <w>ἐγώ</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:12">12</verse-number>
-  <prefix> ⸀</prefix>
-  <w>Χάριν</w>
-  <suffix> </suffix>
-  <w>ἔχω</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἐνδυναμώσαντί</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>Χριστῷ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κυρίῳ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>πιστόν</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>ἡγήσατο</w>
-  <suffix> </suffix>
-  <w>θέμενος</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>διακονίαν</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:13">13</verse-number>
-  <prefix> ⸀</prefix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πρότερον</w>
-  <suffix> </suffix>
-  <w>ὄντα</w>
-  <suffix> </suffix>
-  <w>βλάσφημον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διώκτην</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑβριστήν</w>
-  <suffix>·  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ἠλεήθην</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἀγνοῶν</w>
-  <suffix> </suffix>
-  <w>ἐποίησα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἀπιστίᾳ</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:14">14</verse-number>
-  <w>ὑπερεπλεόνασεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>χάρις</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>πίστεως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀγάπης</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Χριστῷ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:15">15</verse-number>
-  <w>πιστὸς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λόγος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ἀποδοχῆς</w>
-  <suffix> </suffix>
-  <w>ἄξιος</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>Χριστὸς</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κόσμον</w>
-  <suffix> </suffix>
-  <w>ἁμαρτωλοὺς</w>
-  <suffix> </suffix>
-  <w>σῶσαι</w>
-  <suffix>·  </suffix>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>πρῶτός</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix> </suffix>
-  <w>ἐγώ</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:16">16</verse-number>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>ἠλεήθην</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἐμοὶ</w>
-  <suffix> </suffix>
-  <w>πρώτῳ</w>
-  <suffix> </suffix>
-  <w>ἐνδείξηται</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Χριστὸς</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix>⸃  </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἅπασαν</w>
-  <suffix> </suffix>
-  <w>μακροθυμίαν</w>
-  <suffix>,  </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>ὑποτύπωσιν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>μελλόντων</w>
-  <suffix> </suffix>
-  <w>πιστεύειν</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ζωὴν</w>
-  <suffix> </suffix>
-  <w>αἰώνιον</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:17">17</verse-number>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>βασιλεῖ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>αἰώνων</w>
-  <suffix>,  </suffix>
-  <w>ἀφθάρτῳ</w>
-  <suffix>,  </suffix>
-  <w>ἀοράτῳ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>μόνῳ</w>
-  <suffix> </suffix>
-  <w>θεῷ</w>
-  <suffix>,  </suffix>
-  <w>τιμὴ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δόξα</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>αἰῶνας</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>αἰώνων</w>
-  <suffix>·  </suffix>
-  <w>ἀμήν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Timothy 1:18">18</verse-number>
-  <w>Ταύτην</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>παραγγελίαν</w>
-  <suffix> </suffix>
-  <w>παρατίθεμαί</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix>,  </suffix>
-  <w>τέκνον</w>
-  <suffix> </suffix>
-  <w>Τιμόθεε</w>
-  <suffix>,  </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>προαγούσας</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>σὲ</w>
-  <suffix> </suffix>
-  <w>προφητείας</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>στρατεύῃ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐταῖς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>καλὴν</w>
-  <suffix> </suffix>
-  <w>στρατείαν</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Timothy 1:19">19</verse-number>
-  <w>ἔχων</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀγαθὴν</w>
-  <suffix> </suffix>
-  <w>συνείδησιν</w>
-  <suffix>,  </suffix>
-  <w>ἥν</w>
-  <suffix> </suffix>
-  <w>τινες</w>
-  <suffix> </suffix>
-  <w>ἀπωσάμενοι</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>ἐναυάγησαν</w>
-  <suffix>·  </suffix>
-  <verse-number id="1 Timothy 1:20">20</verse-number>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>Ὑμέναιος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἀλέξανδρος</w>
-  <suffix>,  </suffix>
-  <w>οὓς</w>
-  <suffix> </suffix>
-  <w>παρέδωκα</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Σατανᾷ</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>παιδευθῶσι</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>βλασφημεῖν</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="1 Timothy 1:1">1:1</verse-number>
+    <w>Παῦλος</w>
+    <suffix> </suffix>
+    <w>ἀπόστολος</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>κατ’</w>
+    <suffix> </suffix>
+    <w>ἐπιταγὴν</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>σωτῆρος</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐλπίδος</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <verse-number id="1 Timothy 1:2">2</verse-number>
+    <w>Τιμοθέῳ</w>
+    <suffix> </suffix>
+    <w>γνησίῳ</w>
+    <suffix> </suffix>
+    <w>τέκνῳ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πίστει</w>
+    <suffix>·  </suffix>
+    <w>χάρις</w>
+    <suffix>,  </suffix>
+    <w>ἔλεος</w>
+    <suffix>,  </suffix>
+    <w>εἰρήνη</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πατρὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Timothy 1:3">3</verse-number>
+    <w>Καθὼς</w>
+    <suffix> </suffix>
+    <w>παρεκάλεσά</w>
+    <suffix> </suffix>
+    <w>σε</w>
+    <suffix> </suffix>
+    <w>προσμεῖναι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Ἐφέσῳ</w>
+    <suffix>,  </suffix>
+    <w>πορευόμενος</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Μακεδονίαν</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>παραγγείλῃς</w>
+    <suffix> </suffix>
+    <w>τισὶν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἑτεροδιδασκαλεῖν</w>
+    <suffix> </suffix>
+    <verse-number id="1 Timothy 1:4">4</verse-number>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>προσέχειν</w>
+    <suffix> </suffix>
+    <w>μύθοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γενεαλογίαις</w>
+    <suffix> </suffix>
+    <w>ἀπεράντοις</w>
+    <suffix>,  </suffix>
+    <w>αἵτινες</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐκζητήσεις</w>
+    <suffix> </suffix>
+    <w>παρέχουσι</w>
+    <suffix> </suffix>
+    <w>μᾶλλον</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>οἰκονομίαν</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πίστει</w>
+    <suffix>—  </suffix>
+    <verse-number id="1 Timothy 1:5">5</verse-number>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>παραγγελίας</w>
+    <suffix> </suffix>
+    <w>ἐστὶν</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>καθαρᾶς</w>
+    <suffix> </suffix>
+    <w>καρδίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>συνειδήσεως</w>
+    <suffix> </suffix>
+    <w>ἀγαθῆς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πίστεως</w>
+    <suffix> </suffix>
+    <w>ἀνυποκρίτου</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:6">6</verse-number>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>τινες</w>
+    <suffix> </suffix>
+    <w>ἀστοχήσαντες</w>
+    <suffix> </suffix>
+    <w>ἐξετράπησαν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ματαιολογίαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:7">7</verse-number>
+    <w>θέλοντες</w>
+    <suffix> </suffix>
+    <w>εἶναι</w>
+    <suffix> </suffix>
+    <w>νομοδιδάσκαλοι</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>νοοῦντες</w>
+    <suffix> </suffix>
+    <w>μήτε</w>
+    <suffix> </suffix>
+    <w>ἃ</w>
+    <suffix> </suffix>
+    <w>λέγουσιν</w>
+    <suffix> </suffix>
+    <w>μήτε</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τίνων</w>
+    <suffix> </suffix>
+    <w>διαβεβαιοῦνται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Timothy 1:8">8</verse-number>
+    <w>Οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>καλὸς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>νόμος</w>
+    <suffix> </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>νομίμως</w>
+    <suffix> </suffix>
+    <w>χρῆται</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:9">9</verse-number>
+    <w>εἰδὼς</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>δικαίῳ</w>
+    <suffix> </suffix>
+    <w>νόμος</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>κεῖται</w>
+    <suffix>,  </suffix>
+    <w>ἀνόμοις</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνυποτάκτοις</w>
+    <suffix>,  </suffix>
+    <w>ἀσεβέσι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλοῖς</w>
+    <suffix>,  </suffix>
+    <w>ἀνοσίοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βεβήλοις</w>
+    <suffix>,  </suffix>
+    <w>πατρολῴαις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μητρολῴαις</w>
+    <suffix>,  </suffix>
+    <w>ἀνδροφόνοις</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:10">10</verse-number>
+    <w>πόρνοις</w>
+    <suffix>,  </suffix>
+    <w>ἀρσενοκοίταις</w>
+    <suffix>,  </suffix>
+    <w>ἀνδραποδισταῖς</w>
+    <suffix>,  </suffix>
+    <w>ψεύσταις</w>
+    <suffix>,  </suffix>
+    <w>ἐπιόρκοις</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἴ</w>
+    <suffix> </suffix>
+    <w>τι</w>
+    <suffix> </suffix>
+    <w>ἕτερον</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ὑγιαινούσῃ</w>
+    <suffix> </suffix>
+    <w>διδασκαλίᾳ</w>
+    <suffix> </suffix>
+    <w>ἀντίκειται</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:11">11</verse-number>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>εὐαγγέλιον</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>δόξης</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>μακαρίου</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὃ</w>
+    <suffix> </suffix>
+    <w>ἐπιστεύθην</w>
+    <suffix> </suffix>
+    <w>ἐγώ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Timothy 1:12">12</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Χάριν</w>
+    <suffix> </suffix>
+    <w>ἔχω</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἐνδυναμώσαντί</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>Χριστῷ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κυρίῳ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>πιστόν</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>ἡγήσατο</w>
+    <suffix> </suffix>
+    <w>θέμενος</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>διακονίαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:13">13</verse-number>
+    <prefix> ⸀</prefix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πρότερον</w>
+    <suffix> </suffix>
+    <w>ὄντα</w>
+    <suffix> </suffix>
+    <w>βλάσφημον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διώκτην</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑβριστήν</w>
+    <suffix>·  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ἠλεήθην</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἀγνοῶν</w>
+    <suffix> </suffix>
+    <w>ἐποίησα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἀπιστίᾳ</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:14">14</verse-number>
+    <w>ὑπερεπλεόνασεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>χάρις</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>πίστεως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀγάπης</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Χριστῷ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Timothy 1:15">15</verse-number>
+    <w>πιστὸς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λόγος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ἀποδοχῆς</w>
+    <suffix> </suffix>
+    <w>ἄξιος</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>Χριστὸς</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κόσμον</w>
+    <suffix> </suffix>
+    <w>ἁμαρτωλοὺς</w>
+    <suffix> </suffix>
+    <w>σῶσαι</w>
+    <suffix>·  </suffix>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>πρῶτός</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix> </suffix>
+    <w>ἐγώ</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:16">16</verse-number>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>ἠλεήθην</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἐμοὶ</w>
+    <suffix> </suffix>
+    <w>πρώτῳ</w>
+    <suffix> </suffix>
+    <w>ἐνδείξηται</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστὸς</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix>⸃  </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἅπασαν</w>
+    <suffix> </suffix>
+    <w>μακροθυμίαν</w>
+    <suffix>,  </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>ὑποτύπωσιν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>μελλόντων</w>
+    <suffix> </suffix>
+    <w>πιστεύειν</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ζωὴν</w>
+    <suffix> </suffix>
+    <w>αἰώνιον</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Timothy 1:17">17</verse-number>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>βασιλεῖ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>αἰώνων</w>
+    <suffix>,  </suffix>
+    <w>ἀφθάρτῳ</w>
+    <suffix>,  </suffix>
+    <w>ἀοράτῳ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>μόνῳ</w>
+    <suffix> </suffix>
+    <w>θεῷ</w>
+    <suffix>,  </suffix>
+    <w>τιμὴ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δόξα</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>αἰῶνας</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>αἰώνων</w>
+    <suffix>·  </suffix>
+    <w>ἀμήν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Timothy 1:18">18</verse-number>
+    <w>Ταύτην</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>παραγγελίαν</w>
+    <suffix> </suffix>
+    <w>παρατίθεμαί</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix>,  </suffix>
+    <w>τέκνον</w>
+    <suffix> </suffix>
+    <w>Τιμόθεε</w>
+    <suffix>,  </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>προαγούσας</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>σὲ</w>
+    <suffix> </suffix>
+    <w>προφητείας</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>στρατεύῃ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐταῖς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>καλὴν</w>
+    <suffix> </suffix>
+    <w>στρατείαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Timothy 1:19">19</verse-number>
+    <w>ἔχων</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀγαθὴν</w>
+    <suffix> </suffix>
+    <w>συνείδησιν</w>
+    <suffix>,  </suffix>
+    <w>ἥν</w>
+    <suffix> </suffix>
+    <w>τινες</w>
+    <suffix> </suffix>
+    <w>ἀπωσάμενοι</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>ἐναυάγησαν</w>
+    <suffix>·  </suffix>
+    <verse-number id="1 Timothy 1:20">20</verse-number>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>Ὑμέναιος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἀλέξανδρος</w>
+    <suffix>,  </suffix>
+    <w>οὓς</w>
+    <suffix> </suffix>
+    <w>παρέδωκα</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Σατανᾷ</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>παιδευθῶσι</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>βλασφημεῖν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

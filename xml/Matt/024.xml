@@ -1,1741 +1,1767 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Matthew 24:1">24:1</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξελθὼν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἱεροῦ</w>
-  <suffix> </suffix>
-  <w>ἐπορεύετο</w>
-  <suffix>⸃,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσῆλθον</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπιδεῖξαι</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>οἰκοδομὰς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἱεροῦ</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:2">2</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>βλέπετε</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix>⸃;  </suffix>
-  <w>ἀμὴν</w>
-  <suffix> </suffix>
-  <w>λέγω</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἀφεθῇ</w>
-  <suffix> </suffix>
-  <w>ὧδε</w>
-  <suffix> </suffix>
-  <w>λίθος</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>λίθον</w>
-  <suffix> </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>καταλυθήσεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:3">3</verse-number>
-  <w>Καθημένου</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ὄρους</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>Ἐλαιῶν</w>
-  <suffix> </suffix>
-  <w>προσῆλθον</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μαθηταὶ</w>
-  <suffix> </suffix>
-  <w>κατ’</w>
-  <suffix> </suffix>
-  <w>ἰδίαν</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Εἰπὸν</w>
-  <suffix> </suffix>
-  <w>ἡμῖν</w>
-  <suffix> </suffix>
-  <w>πότε</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σημεῖον</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>σῆς</w>
-  <suffix> </suffix>
-  <w>παρουσίας</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>συντελείας</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>αἰῶνος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:4">4</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Βλέπετε</w>
-  <suffix> </suffix>
-  <w>μή</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>πλανήσῃ</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:5">5</verse-number>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἐλεύσονται</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ὀνόματί</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Ἐγώ</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>χριστός</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πολλοὺς</w>
-  <suffix> </suffix>
-  <w>πλανήσουσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:6">6</verse-number>
-  <w>μελλήσετε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἀκούειν</w>
-  <suffix> </suffix>
-  <w>πολέμους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀκοὰς</w>
-  <suffix> </suffix>
-  <w>πολέμων</w>
-  <suffix>·  </suffix>
-  <w>ὁρᾶτε</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>θροεῖσθε</w>
-  <suffix>·  </suffix>
-  <w>δεῖ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>γενέσθαι</w>
-  <suffix>,  </suffix>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>οὔπω</w>
-  <suffix> </suffix>
-  <w>ἐστὶν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:7">7</verse-number>
-  <w>ἐγερθήσεται</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἔθνος</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>ἔθνος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βασιλεία</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>βασιλείαν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔσονται</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λιμοὶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σεισμοὶ</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τόπους</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:8">8</verse-number>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>ἀρχὴ</w>
-  <suffix> </suffix>
-  <w>ὠδίνων</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:9">9</verse-number>
-  <w>Τότε</w>
-  <suffix> </suffix>
-  <w>παραδώσουσιν</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>θλῖψιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποκτενοῦσιν</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔσεσθε</w>
-  <suffix> </suffix>
-  <w>μισούμενοι</w>
-  <suffix> </suffix>
-  <w>ὑπὸ</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἐθνῶν</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὄνομά</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:10">10</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>σκανδαλισθήσονται</w>
-  <suffix> </suffix>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀλλήλους</w>
-  <suffix> </suffix>
-  <w>παραδώσουσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μισήσουσιν</w>
-  <suffix> </suffix>
-  <w>ἀλλήλους</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:11">11</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>ψευδοπροφῆται</w>
-  <suffix> </suffix>
-  <w>ἐγερθήσονται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πλανήσουσιν</w>
-  <suffix> </suffix>
-  <w>πολλούς</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:12">12</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πληθυνθῆναι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἀνομίαν</w>
-  <suffix> </suffix>
-  <w>ψυγήσεται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πολλῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:13">13</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὑπομείνας</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>σωθήσεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:14">14</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κηρυχθήσεται</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>εὐαγγέλιον</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>βασιλείας</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ὅλῃ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>οἰκουμένῃ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>μαρτύριον</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἔθνεσιν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>ἥξει</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:15">15</verse-number>
-  <w>Ὅταν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>ἴδητε</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>βδέλυγμα</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐρημώσεως</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ῥηθὲν</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>Δανιὴλ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>προφήτου</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἑστὸς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τόπῳ</w>
-  <suffix> </suffix>
-  <w>ἁγίῳ</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀναγινώσκων</w>
-  <suffix> </suffix>
-  <w>νοείτω</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:16">16</verse-number>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>Ἰουδαίᾳ</w>
-  <suffix> </suffix>
-  <w>φευγέτωσαν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὄρη</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:17">17</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>δώματος</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καταβάτω</w>
-  <suffix> </suffix>
-  <w>ἆραι</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>οἰκίας</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:18">18</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἀγρῷ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐπιστρεψάτω</w>
-  <suffix> </suffix>
-  <w>ὀπίσω</w>
-  <suffix> </suffix>
-  <w>ἆραι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἱμάτιον</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:19">19</verse-number>
-  <w>οὐαὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>γαστρὶ</w>
-  <suffix> </suffix>
-  <w>ἐχούσαις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>θηλαζούσαις</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἐκείναις</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἡμέραις</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:20">20</verse-number>
-  <w>προσεύχεσθε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>φυγὴ</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>χειμῶνος</w>
-  <suffix> </suffix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>σαββάτῳ</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:21">21</verse-number>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>θλῖψις</w>
-  <suffix> </suffix>
-  <w>μεγάλη</w>
-  <suffix> </suffix>
-  <w>οἵα</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>γέγονεν</w>
-  <suffix> </suffix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>ἀρχῆς</w>
-  <suffix> </suffix>
-  <w>κόσμου</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>οὐδ’</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:22">22</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐκολοβώθησαν</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἡμέραι</w>
-  <suffix> </suffix>
-  <w>ἐκεῖναι</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>ἐσώθη</w>
-  <suffix> </suffix>
-  <w>πᾶσα</w>
-  <suffix> </suffix>
-  <w>σάρξ</w>
-  <suffix>·  </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἐκλεκτοὺς</w>
-  <suffix> </suffix>
-  <w>κολοβωθήσονται</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἡμέραι</w>
-  <suffix> </suffix>
-  <w>ἐκεῖναι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:23">23</verse-number>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>ἐάν</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>εἴπῃ</w>
-  <suffix>·  </suffix>
-  <w>Ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>ὧδε</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>χριστός</w>
-  <suffix>,  </suffix>
-  <w>ἤ</w>
-  <suffix>·  </suffix>
-  <w>Ὧδε</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>πιστεύσητε</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:24">24</verse-number>
-  <w>ἐγερθήσονται</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ψευδόχριστοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ψευδοπροφῆται</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δώσουσιν</w>
-  <suffix> </suffix>
-  <w>σημεῖα</w>
-  <suffix> </suffix>
-  <w>μεγάλα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τέρατα</w>
-  <suffix> </suffix>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πλανῆσαι</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δυνατὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἐκλεκτούς</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:25">25</verse-number>
-  <w>ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>προείρηκα</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:26">26</verse-number>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>εἴπωσιν</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix>·  </suffix>
-  <w>Ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐξέλθητε</w>
-  <suffix>·  </suffix>
-  <w>Ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ταμείοις</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>πιστεύσητε</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:27">27</verse-number>
-  <w>ὥσπερ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀστραπὴ</w>
-  <suffix> </suffix>
-  <w>ἐξέρχεται</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>ἀνατολῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φαίνεται</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>δυσμῶν</w>
-  <suffix>,  </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>παρουσία</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>υἱοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:28">28</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ὅπου</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>ᾖ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πτῶμα</w>
-  <suffix>,  </suffix>
-  <w>ἐκεῖ</w>
-  <suffix> </suffix>
-  <w>συναχθήσονται</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἀετοί</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:29">29</verse-number>
-  <w>Εὐθέως</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>θλῖψιν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἡμερῶν</w>
-  <suffix> </suffix>
-  <w>ἐκείνων</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἥλιος</w>
-  <suffix> </suffix>
-  <w>σκοτισθήσεται</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>σελήνη</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>δώσει</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>φέγγος</w>
-  <suffix> </suffix>
-  <w>αὐτῆς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἀστέρες</w>
-  <suffix> </suffix>
-  <w>πεσοῦνται</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>δυνάμεις</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>οὐρανῶν</w>
-  <suffix> </suffix>
-  <w>σαλευθήσονται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:30">30</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>φανήσεται</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σημεῖον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>υἱοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>οὐρανῷ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>κόψονται</w>
-  <suffix> </suffix>
-  <w>πᾶσαι</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>φυλαὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὄψονται</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>υἱὸν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix> </suffix>
-  <w>ἐρχόμενον</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>νεφελῶν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>δυνάμεως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δόξης</w>
-  <suffix> </suffix>
-  <w>πολλῆς</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:31">31</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀποστελεῖ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀγγέλους</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>σάλπιγγος</w>
-  <suffix> </suffix>
-  <w>μεγάλης</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπισυνάξουσιν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἐκλεκτοὺς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>τεσσάρων</w>
-  <suffix> </suffix>
-  <w>ἀνέμων</w>
-  <suffix> </suffix>
-  <w>ἀπ’</w>
-  <suffix> </suffix>
-  <w>ἄκρων</w>
-  <suffix> </suffix>
-  <w>οὐρανῶν</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἄκρων</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:32">32</verse-number>
-  <w>Ἀπὸ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>συκῆς</w>
-  <suffix> </suffix>
-  <w>μάθετε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>παραβολήν</w>
-  <suffix>·  </suffix>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κλάδος</w>
-  <suffix> </suffix>
-  <w>αὐτῆς</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix> </suffix>
-  <w>ἁπαλὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>φύλλα</w>
-  <suffix> </suffix>
-  <w>ἐκφύῃ</w>
-  <suffix>,  </suffix>
-  <w>γινώσκετε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐγγὺς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>θέρος</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:33">33</verse-number>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix>,  </suffix>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>ἴδητε</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix>⸃,  </suffix>
-  <w>γινώσκετε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐγγύς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>θύραις</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:34">34</verse-number>
-  <w>ἀμὴν</w>
-  <suffix> </suffix>
-  <w>λέγω</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>παρέλθῃ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γενεὰ</w>
-  <suffix> </suffix>
-  <w>αὕτη</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:35">35</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>οὐρανὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γῆ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>παρελεύσεται</w>
-  <suffix>,  </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>λόγοι</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>παρέλθωσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:36">36</verse-number>
-  <w>Περὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἡμέρας</w>
-  <suffix> </suffix>
-  <w>ἐκείνης</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὥρας</w>
-  <suffix> </suffix>
-  <w>οὐδεὶς</w>
-  <suffix> </suffix>
-  <w>οἶδεν</w>
-  <suffix>,  </suffix>
-  <w>οὐδὲ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ἄγγελοι</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>οὐρανῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οὐδὲ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱός</w>
-  <suffix>⸃,  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πατὴρ</w>
-  <suffix> </suffix>
-  <w>μόνος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:37">37</verse-number>
-  <w>ὥσπερ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>ἡμέραι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Νῶε</w>
-  <suffix>,  </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>παρουσία</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>υἱοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:38">38</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἦσαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡμέραις</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>πρὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κατακλυσμοῦ</w>
-  <suffix> </suffix>
-  <w>τρώγοντες</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πίνοντες</w>
-  <suffix>,  </suffix>
-  <w>γαμοῦντες</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γαμίζοντες</w>
-  <suffix>,  </suffix>
-  <w>ἄχρι</w>
-  <suffix> </suffix>
-  <w>ἧς</w>
-  <suffix> </suffix>
-  <w>ἡμέρας</w>
-  <suffix> </suffix>
-  <w>εἰσῆλθεν</w>
-  <suffix> </suffix>
-  <w>Νῶε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κιβωτόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:39">39</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔγνωσαν</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κατακλυσμὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦρεν</w>
-  <suffix> </suffix>
-  <w>ἅπαντας</w>
-  <suffix>,  </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>παρουσία</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>υἱοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:40">40</verse-number>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἔσονται</w>
-  <suffix>⸃  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἀγρῷ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>παραλαμβάνεται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸁</prefix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>ἀφίεται</w>
-  <suffix>·  </suffix>
-  <verse-number id="Matthew 24:41">41</verse-number>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>ἀλήθουσαι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μύλῳ</w>
-  <suffix>,  </suffix>
-  <w>μία</w>
-  <suffix> </suffix>
-  <w>παραλαμβάνεται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μία</w>
-  <suffix> </suffix>
-  <w>ἀφίεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:42">42</verse-number>
-  <w>γρηγορεῖτε</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδατε</w>
-  <suffix> </suffix>
-  <w>ποίᾳ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:43">43</verse-number>
-  <w>ἐκεῖνο</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>γινώσκετε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>ᾔδει</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>οἰκοδεσπότης</w>
-  <suffix> </suffix>
-  <w>ποίᾳ</w>
-  <suffix> </suffix>
-  <w>φυλακῇ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κλέπτης</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix>,  </suffix>
-  <w>ἐγρηγόρησεν</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἂν</w>
-  <suffix> </suffix>
-  <w>εἴασεν</w>
-  <suffix> </suffix>
-  <w>διορυχθῆναι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>οἰκίαν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:44">44</verse-number>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>γίνεσθε</w>
-  <suffix> </suffix>
-  <w>ἕτοιμοι</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ᾗ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>δοκεῖτε</w>
-  <suffix> </suffix>
-  <w>ὥρᾳ</w>
-  <suffix>⸃  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱὸς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix> </suffix>
-  <w>ἔρχεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:45">45</verse-number>
-  <w>Τίς</w>
-  <suffix> </suffix>
-  <w>ἄρα</w>
-  <suffix> </suffix>
-  <w>ἐστὶν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>πιστὸς</w>
-  <suffix> </suffix>
-  <w>δοῦλος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φρόνιμος</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>κατέστησεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κύριος</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οἰκετείας</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δοῦναι</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>τροφὴν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>καιρῷ</w>
-  <suffix>;  </suffix>
-  <verse-number id="Matthew 24:46">46</verse-number>
-  <w>μακάριος</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δοῦλος</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνος</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>ἐλθὼν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>εὑρήσει</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ποιοῦντα</w>
-  <suffix>⸃·  </suffix>
-  <verse-number id="Matthew 24:47">47</verse-number>
-  <w>ἀμὴν</w>
-  <suffix> </suffix>
-  <w>λέγω</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ὑπάρχουσιν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καταστήσει</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Matthew 24:48">48</verse-number>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἴπῃ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κακὸς</w>
-  <suffix> </suffix>
-  <w>δοῦλος</w>
-  <suffix> </suffix>
-  <w>ἐκεῖνος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>καρδίᾳ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>·  </suffix>
-  <w>Χρονίζει</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix>⸃,  </suffix>
-  <verse-number id="Matthew 24:49">49</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἄρξηται</w>
-  <suffix> </suffix>
-  <w>τύπτειν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>συνδούλους</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>ἐσθίῃ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πίνῃ</w>
-  <suffix>⸃  </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>μεθυόντων</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:50">50</verse-number>
-  <w>ἥξει</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>δούλου</w>
-  <suffix> </suffix>
-  <w>ἐκείνου</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>ᾗ</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>προσδοκᾷ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ὥρᾳ</w>
-  <suffix> </suffix>
-  <w>ᾗ</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>γινώσκει</w>
-  <suffix>,  </suffix>
-  <verse-number id="Matthew 24:51">51</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διχοτομήσει</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μέρος</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ὑποκριτῶν</w>
-  <suffix> </suffix>
-  <w>θήσει</w>
-  <suffix>·  </suffix>
-  <w>ἐκεῖ</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κλαυθμὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>βρυγμὸς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ὀδόντων</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Matthew 24:1">24:1</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξελθὼν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἱεροῦ</w>
+    <suffix> </suffix>
+    <w>ἐπορεύετο</w>
+    <suffix>⸃,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσῆλθον</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπιδεῖξαι</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>οἰκοδομὰς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἱεροῦ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:2">2</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>βλέπετε</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix>⸃;  </suffix>
+    <w>ἀμὴν</w>
+    <suffix> </suffix>
+    <w>λέγω</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἀφεθῇ</w>
+    <suffix> </suffix>
+    <w>ὧδε</w>
+    <suffix> </suffix>
+    <w>λίθος</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>λίθον</w>
+    <suffix> </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>καταλυθήσεται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:3">3</verse-number>
+    <w>Καθημένου</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ὄρους</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>Ἐλαιῶν</w>
+    <suffix> </suffix>
+    <w>προσῆλθον</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μαθηταὶ</w>
+    <suffix> </suffix>
+    <w>κατ’</w>
+    <suffix> </suffix>
+    <w>ἰδίαν</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Εἰπὸν</w>
+    <suffix> </suffix>
+    <w>ἡμῖν</w>
+    <suffix> </suffix>
+    <w>πότε</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σημεῖον</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>σῆς</w>
+    <suffix> </suffix>
+    <w>παρουσίας</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>συντελείας</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>αἰῶνος</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:4">4</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Βλέπετε</w>
+    <suffix> </suffix>
+    <w>μή</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>πλανήσῃ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:5">5</verse-number>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἐλεύσονται</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ὀνόματί</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Ἐγώ</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>χριστός</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πολλοὺς</w>
+    <suffix> </suffix>
+    <w>πλανήσουσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:6">6</verse-number>
+    <w>μελλήσετε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἀκούειν</w>
+    <suffix> </suffix>
+    <w>πολέμους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀκοὰς</w>
+    <suffix> </suffix>
+    <w>πολέμων</w>
+    <suffix>·  </suffix>
+    <w>ὁρᾶτε</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>θροεῖσθε</w>
+    <suffix>·  </suffix>
+    <w>δεῖ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>γενέσθαι</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>οὔπω</w>
+    <suffix> </suffix>
+    <w>ἐστὶν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:7">7</verse-number>
+    <w>ἐγερθήσεται</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἔθνος</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>ἔθνος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βασιλεία</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>βασιλείαν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔσονται</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λιμοὶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σεισμοὶ</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τόπους</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:8">8</verse-number>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>ἀρχὴ</w>
+    <suffix> </suffix>
+    <w>ὠδίνων</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:9">9</verse-number>
+    <w>Τότε</w>
+    <suffix> </suffix>
+    <w>παραδώσουσιν</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>θλῖψιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποκτενοῦσιν</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔσεσθε</w>
+    <suffix> </suffix>
+    <w>μισούμενοι</w>
+    <suffix> </suffix>
+    <w>ὑπὸ</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἐθνῶν</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὄνομά</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:10">10</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>σκανδαλισθήσονται</w>
+    <suffix> </suffix>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀλλήλους</w>
+    <suffix> </suffix>
+    <w>παραδώσουσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μισήσουσιν</w>
+    <suffix> </suffix>
+    <w>ἀλλήλους</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:11">11</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>ψευδοπροφῆται</w>
+    <suffix> </suffix>
+    <w>ἐγερθήσονται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πλανήσουσιν</w>
+    <suffix> </suffix>
+    <w>πολλούς</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:12">12</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πληθυνθῆναι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἀνομίαν</w>
+    <suffix> </suffix>
+    <w>ψυγήσεται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πολλῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:13">13</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὑπομείνας</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>σωθήσεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:14">14</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κηρυχθήσεται</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>εὐαγγέλιον</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>βασιλείας</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ὅλῃ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>οἰκουμένῃ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>μαρτύριον</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἔθνεσιν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>ἥξει</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:15">15</verse-number>
+    <w>Ὅταν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>ἴδητε</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>βδέλυγμα</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐρημώσεως</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ῥηθὲν</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>Δανιὴλ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>προφήτου</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἑστὸς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τόπῳ</w>
+    <suffix> </suffix>
+    <w>ἁγίῳ</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀναγινώσκων</w>
+    <suffix> </suffix>
+    <w>νοείτω</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:16">16</verse-number>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>Ἰουδαίᾳ</w>
+    <suffix> </suffix>
+    <w>φευγέτωσαν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὄρη</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:17">17</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>δώματος</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καταβάτω</w>
+    <suffix> </suffix>
+    <w>ἆραι</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>οἰκίας</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:18">18</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἀγρῷ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐπιστρεψάτω</w>
+    <suffix> </suffix>
+    <w>ὀπίσω</w>
+    <suffix> </suffix>
+    <w>ἆραι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἱμάτιον</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:19">19</verse-number>
+    <w>οὐαὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>γαστρὶ</w>
+    <suffix> </suffix>
+    <w>ἐχούσαις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>θηλαζούσαις</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἐκείναις</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἡμέραις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:20">20</verse-number>
+    <w>προσεύχεσθε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>φυγὴ</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>χειμῶνος</w>
+    <suffix> </suffix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>σαββάτῳ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:21">21</verse-number>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>θλῖψις</w>
+    <suffix> </suffix>
+    <w>μεγάλη</w>
+    <suffix> </suffix>
+    <w>οἵα</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>γέγονεν</w>
+    <suffix> </suffix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>ἀρχῆς</w>
+    <suffix> </suffix>
+    <w>κόσμου</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>οὐδ’</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:22">22</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐκολοβώθησαν</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἡμέραι</w>
+    <suffix> </suffix>
+    <w>ἐκεῖναι</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>ἐσώθη</w>
+    <suffix> </suffix>
+    <w>πᾶσα</w>
+    <suffix> </suffix>
+    <w>σάρξ</w>
+    <suffix>·  </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἐκλεκτοὺς</w>
+    <suffix> </suffix>
+    <w>κολοβωθήσονται</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἡμέραι</w>
+    <suffix> </suffix>
+    <w>ἐκεῖναι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:23">23</verse-number>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>ἐάν</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>εἴπῃ</w>
+    <suffix>·  </suffix>
+    <w>Ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>ὧδε</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>χριστός</w>
+    <suffix>,  </suffix>
+    <w>ἤ</w>
+    <suffix>·  </suffix>
+    <w>Ὧδε</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>πιστεύσητε</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:24">24</verse-number>
+    <w>ἐγερθήσονται</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ψευδόχριστοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ψευδοπροφῆται</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δώσουσιν</w>
+    <suffix> </suffix>
+    <w>σημεῖα</w>
+    <suffix> </suffix>
+    <w>μεγάλα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τέρατα</w>
+    <suffix> </suffix>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πλανῆσαι</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δυνατὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἐκλεκτούς</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:25">25</verse-number>
+    <w>ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>προείρηκα</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:26">26</verse-number>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>εἴπωσιν</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix>·  </suffix>
+    <w>Ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐξέλθητε</w>
+    <suffix>·  </suffix>
+    <w>Ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ταμείοις</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>πιστεύσητε</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:27">27</verse-number>
+    <w>ὥσπερ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀστραπὴ</w>
+    <suffix> </suffix>
+    <w>ἐξέρχεται</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>ἀνατολῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φαίνεται</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>δυσμῶν</w>
+    <suffix>,  </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>παρουσία</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>υἱοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:28">28</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ὅπου</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>ᾖ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πτῶμα</w>
+    <suffix>,  </suffix>
+    <w>ἐκεῖ</w>
+    <suffix> </suffix>
+    <w>συναχθήσονται</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἀετοί</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:29">29</verse-number>
+    <w>Εὐθέως</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>θλῖψιν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἡμερῶν</w>
+    <suffix> </suffix>
+    <w>ἐκείνων</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἥλιος</w>
+    <suffix> </suffix>
+    <w>σκοτισθήσεται</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>σελήνη</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>δώσει</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>φέγγος</w>
+    <suffix> </suffix>
+    <w>αὐτῆς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἀστέρες</w>
+    <suffix> </suffix>
+    <w>πεσοῦνται</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>δυνάμεις</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>οὐρανῶν</w>
+    <suffix> </suffix>
+    <w>σαλευθήσονται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:30">30</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>φανήσεται</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σημεῖον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>υἱοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>οὐρανῷ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>κόψονται</w>
+    <suffix> </suffix>
+    <w>πᾶσαι</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>φυλαὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὄψονται</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>υἱὸν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix> </suffix>
+    <w>ἐρχόμενον</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>νεφελῶν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>δυνάμεως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δόξης</w>
+    <suffix> </suffix>
+    <w>πολλῆς</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:31">31</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀποστελεῖ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀγγέλους</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>σάλπιγγος</w>
+    <suffix> </suffix>
+    <w>μεγάλης</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπισυνάξουσιν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἐκλεκτοὺς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>τεσσάρων</w>
+    <suffix> </suffix>
+    <w>ἀνέμων</w>
+    <suffix> </suffix>
+    <w>ἀπ’</w>
+    <suffix> </suffix>
+    <w>ἄκρων</w>
+    <suffix> </suffix>
+    <w>οὐρανῶν</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἄκρων</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:32">32</verse-number>
+    <w>Ἀπὸ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>συκῆς</w>
+    <suffix> </suffix>
+    <w>μάθετε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>παραβολήν</w>
+    <suffix>·  </suffix>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κλάδος</w>
+    <suffix> </suffix>
+    <w>αὐτῆς</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix> </suffix>
+    <w>ἁπαλὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>φύλλα</w>
+    <suffix> </suffix>
+    <w>ἐκφύῃ</w>
+    <suffix>,  </suffix>
+    <w>γινώσκετε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐγγὺς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>θέρος</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:33">33</verse-number>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix>,  </suffix>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>ἴδητε</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix>⸃,  </suffix>
+    <w>γινώσκετε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐγγύς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>θύραις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:34">34</verse-number>
+    <w>ἀμὴν</w>
+    <suffix> </suffix>
+    <w>λέγω</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>παρέλθῃ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γενεὰ</w>
+    <suffix> </suffix>
+    <w>αὕτη</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:35">35</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>οὐρανὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γῆ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>παρελεύσεται</w>
+    <suffix>,  </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>λόγοι</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>παρέλθωσιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:36">36</verse-number>
+    <w>Περὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἡμέρας</w>
+    <suffix> </suffix>
+    <w>ἐκείνης</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὥρας</w>
+    <suffix> </suffix>
+    <w>οὐδεὶς</w>
+    <suffix> </suffix>
+    <w>οἶδεν</w>
+    <suffix>,  </suffix>
+    <w>οὐδὲ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ἄγγελοι</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>οὐρανῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οὐδὲ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱός</w>
+    <suffix>⸃,  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πατὴρ</w>
+    <suffix> </suffix>
+    <w>μόνος</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:37">37</verse-number>
+    <w>ὥσπερ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>ἡμέραι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Νῶε</w>
+    <suffix>,  </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>παρουσία</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>υἱοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:38">38</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἦσαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμέραις</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>πρὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κατακλυσμοῦ</w>
+    <suffix> </suffix>
+    <w>τρώγοντες</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πίνοντες</w>
+    <suffix>,  </suffix>
+    <w>γαμοῦντες</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γαμίζοντες</w>
+    <suffix>,  </suffix>
+    <w>ἄχρι</w>
+    <suffix> </suffix>
+    <w>ἧς</w>
+    <suffix> </suffix>
+    <w>ἡμέρας</w>
+    <suffix> </suffix>
+    <w>εἰσῆλθεν</w>
+    <suffix> </suffix>
+    <w>Νῶε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κιβωτόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:39">39</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔγνωσαν</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κατακλυσμὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦρεν</w>
+    <suffix> </suffix>
+    <w>ἅπαντας</w>
+    <suffix>,  </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>παρουσία</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>υἱοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:40">40</verse-number>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἔσονται</w>
+    <suffix>⸃  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἀγρῷ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>παραλαμβάνεται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸁</prefix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>ἀφίεται</w>
+    <suffix>·  </suffix>
+    <verse-number id="Matthew 24:41">41</verse-number>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>ἀλήθουσαι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μύλῳ</w>
+    <suffix>,  </suffix>
+    <w>μία</w>
+    <suffix> </suffix>
+    <w>παραλαμβάνεται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μία</w>
+    <suffix> </suffix>
+    <w>ἀφίεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:42">42</verse-number>
+    <w>γρηγορεῖτε</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδατε</w>
+    <suffix> </suffix>
+    <w>ποίᾳ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:43">43</verse-number>
+    <w>ἐκεῖνο</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>γινώσκετε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>ᾔδει</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>οἰκοδεσπότης</w>
+    <suffix> </suffix>
+    <w>ποίᾳ</w>
+    <suffix> </suffix>
+    <w>φυλακῇ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κλέπτης</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix>,  </suffix>
+    <w>ἐγρηγόρησεν</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἂν</w>
+    <suffix> </suffix>
+    <w>εἴασεν</w>
+    <suffix> </suffix>
+    <w>διορυχθῆναι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>οἰκίαν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:44">44</verse-number>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>γίνεσθε</w>
+    <suffix> </suffix>
+    <w>ἕτοιμοι</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ᾗ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>δοκεῖτε</w>
+    <suffix> </suffix>
+    <w>ὥρᾳ</w>
+    <suffix>⸃  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱὸς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix> </suffix>
+    <w>ἔρχεται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Matthew 24:45">45</verse-number>
+    <w>Τίς</w>
+    <suffix> </suffix>
+    <w>ἄρα</w>
+    <suffix> </suffix>
+    <w>ἐστὶν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>πιστὸς</w>
+    <suffix> </suffix>
+    <w>δοῦλος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φρόνιμος</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>κατέστησεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κύριος</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οἰκετείας</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δοῦναι</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>τροφὴν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>καιρῷ</w>
+    <suffix>;  </suffix>
+    <verse-number id="Matthew 24:46">46</verse-number>
+    <w>μακάριος</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δοῦλος</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>ἐλθὼν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>εὑρήσει</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ποιοῦντα</w>
+    <suffix>⸃·  </suffix>
+    <verse-number id="Matthew 24:47">47</verse-number>
+    <w>ἀμὴν</w>
+    <suffix> </suffix>
+    <w>λέγω</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ὑπάρχουσιν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καταστήσει</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Matthew 24:48">48</verse-number>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἴπῃ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κακὸς</w>
+    <suffix> </suffix>
+    <w>δοῦλος</w>
+    <suffix> </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>καρδίᾳ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>·  </suffix>
+    <w>Χρονίζει</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix>⸃,  </suffix>
+    <verse-number id="Matthew 24:49">49</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἄρξηται</w>
+    <suffix> </suffix>
+    <w>τύπτειν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>συνδούλους</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἐσθίῃ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πίνῃ</w>
+    <suffix>⸃  </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>μεθυόντων</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:50">50</verse-number>
+    <w>ἥξει</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>δούλου</w>
+    <suffix> </suffix>
+    <w>ἐκείνου</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>ᾗ</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>προσδοκᾷ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ὥρᾳ</w>
+    <suffix> </suffix>
+    <w>ᾗ</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>γινώσκει</w>
+    <suffix>,  </suffix>
+    <verse-number id="Matthew 24:51">51</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διχοτομήσει</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μέρος</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ὑποκριτῶν</w>
+    <suffix> </suffix>
+    <w>θήσει</w>
+    <suffix>·  </suffix>
+    <w>ἐκεῖ</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κλαυθμὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>βρυγμὸς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ὀδόντων</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

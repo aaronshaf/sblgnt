@@ -1,568 +1,579 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Romans 13:1">13:1</verse-number>
-  <w>Πᾶσα</w>
-  <suffix> </suffix>
-  <w>ψυχὴ</w>
-  <suffix> </suffix>
-  <w>ἐξουσίαις</w>
-  <suffix> </suffix>
-  <w>ὑπερεχούσαις</w>
-  <suffix> </suffix>
-  <w>ὑποτασσέσθω</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἔστιν</w>
-  <suffix> </suffix>
-  <w>ἐξουσία</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ὑπὸ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>οὖσαι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὑπὸ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>τεταγμέναι</w>
-  <suffix> </suffix>
-  <w>εἰσίν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:2">2</verse-number>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀντιτασσόμενος</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐξουσίᾳ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>διαταγῇ</w>
-  <suffix> </suffix>
-  <w>ἀνθέστηκεν</w>
-  <suffix>,  </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἀνθεστηκότες</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix> </suffix>
-  <w>κρίμα</w>
-  <suffix> </suffix>
-  <w>λήμψονται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:3">3</verse-number>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἄρχοντες</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>εἰσὶν</w>
-  <suffix> </suffix>
-  <w>φόβος</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἀγαθῷ</w>
-  <suffix> </suffix>
-  <w>ἔργῳ</w>
-  <suffix>⸃  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κακῷ</w>
-  <suffix>⸃.  </suffix>
-  <w>θέλεις</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>φοβεῖσθαι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἐξουσίαν</w>
-  <suffix>;  </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἀγαθὸν</w>
-  <suffix> </suffix>
-  <w>ποίει</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἕξεις</w>
-  <suffix> </suffix>
-  <w>ἔπαινον</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>αὐτῆς</w>
-  <suffix>·  </suffix>
-  <verse-number id="Romans 13:4">4</verse-number>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>διάκονός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>σοὶ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἀγαθόν</w>
-  <suffix>.  </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>κακὸν</w>
-  <suffix> </suffix>
-  <w>ποιῇς</w>
-  <suffix>,  </suffix>
-  <w>φοβοῦ</w>
-  <suffix>·  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>εἰκῇ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>μάχαιραν</w>
-  <suffix> </suffix>
-  <w>φορεῖ</w>
-  <suffix>·  </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>διάκονός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>,  </suffix>
-  <w>ἔκδικος</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ὀργὴν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>κακὸν</w>
-  <suffix> </suffix>
-  <w>πράσσοντι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:5">5</verse-number>
-  <w>διὸ</w>
-  <suffix> </suffix>
-  <w>ἀνάγκη</w>
-  <suffix> </suffix>
-  <w>ὑποτάσσεσθαι</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μόνον</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ὀργὴν</w>
-  <suffix> </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>συνείδησιν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Romans 13:6">6</verse-number>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φόρους</w>
-  <suffix> </suffix>
-  <w>τελεῖτε</w>
-  <suffix>,  </suffix>
-  <w>λειτουργοὶ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>εἰσιν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>αὐτὸ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>προσκαρτεροῦντες</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:7">7</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἀπόδοτε</w>
-  <suffix> </suffix>
-  <w>πᾶσι</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>ὀφειλάς</w>
-  <suffix>,  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φόρον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φόρον</w>
-  <suffix>,  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τέλος</w>
-  <suffix>,  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φόβον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φόβον</w>
-  <suffix>,  </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>τιμὴν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>τιμήν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:8">8</verse-number>
-  <w>Μηδενὶ</w>
-  <suffix> </suffix>
-  <w>μηδὲν</w>
-  <suffix> </suffix>
-  <w>ὀφείλετε</w>
-  <suffix>,  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀλλήλους</w>
-  <suffix> </suffix>
-  <w>ἀγαπᾶν</w>
-  <suffix>⸃·  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἀγαπῶν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἕτερον</w>
-  <suffix> </suffix>
-  <w>νόμον</w>
-  <suffix> </suffix>
-  <w>πεπλήρωκεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:9">9</verse-number>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>γάρ</w>
-  <suffix>·  </suffix>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>μοιχεύσεις</w>
-  <suffix>,  </suffix>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>φονεύσεις</w>
-  <suffix>,  </suffix>
-  <w>Οὐ</w>
-  <suffix> </suffix>
-  <w>κλέψεις</w>
-  <suffix>,  </suffix>
-  <w>Οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐπιθυμήσεις</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἴ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἑτέρα</w>
-  <suffix> </suffix>
-  <w>ἐντολή</w>
-  <suffix>,  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>λόγῳ</w>
-  <suffix> </suffix>
-  <w>τούτῳ</w>
-  <suffix>⸃  </suffix>
-  <w>ἀνακεφαλαιοῦται</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix>⸃·  </suffix>
-  <w>Ἀγαπήσεις</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πλησίον</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>σεαυτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:10">10</verse-number>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πλησίον</w>
-  <suffix> </suffix>
-  <w>κακὸν</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐργάζεται</w>
-  <suffix>·  </suffix>
-  <w>πλήρωμα</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>νόμου</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:11">11</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>εἰδότες</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>καιρόν</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ὥρα</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix>⸃  </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ὕπνου</w>
-  <suffix> </suffix>
-  <w>ἐγερθῆναι</w>
-  <suffix>,  </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἐγγύτερον</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>σωτηρία</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>ἐπιστεύσαμεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:12">12</verse-number>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>νὺξ</w>
-  <suffix> </suffix>
-  <w>προέκοψεν</w>
-  <suffix>,  </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἡμέρα</w>
-  <suffix> </suffix>
-  <w>ἤγγικεν</w>
-  <suffix>.  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀποβαλώμεθα</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>σκότους</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐνδυσώμεθα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix>⸃  </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὅπλα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>φωτός</w>
-  <suffix>.  </suffix>
-  <verse-number id="Romans 13:13">13</verse-number>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>εὐσχημόνως</w>
-  <suffix> </suffix>
-  <w>περιπατήσωμεν</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>κώμοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μέθαις</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>κοίταις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀσελγείαις</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔριδι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ζήλῳ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Romans 13:14">14</verse-number>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ἐνδύσασθε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>κύριον</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦν</w>
-  <suffix> </suffix>
-  <w>Χριστόν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>σαρκὸς</w>
-  <suffix> </suffix>
-  <w>πρόνοιαν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ποιεῖσθε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἐπιθυμίας</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Romans 13:1">13:1</verse-number>
+    <w>Πᾶσα</w>
+    <suffix> </suffix>
+    <w>ψυχὴ</w>
+    <suffix> </suffix>
+    <w>ἐξουσίαις</w>
+    <suffix> </suffix>
+    <w>ὑπερεχούσαις</w>
+    <suffix> </suffix>
+    <w>ὑποτασσέσθω</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἔστιν</w>
+    <suffix> </suffix>
+    <w>ἐξουσία</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ὑπὸ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>οὖσαι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑπὸ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>τεταγμέναι</w>
+    <suffix> </suffix>
+    <w>εἰσίν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:2">2</verse-number>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀντιτασσόμενος</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐξουσίᾳ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>διαταγῇ</w>
+    <suffix> </suffix>
+    <w>ἀνθέστηκεν</w>
+    <suffix>,  </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἀνθεστηκότες</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix> </suffix>
+    <w>κρίμα</w>
+    <suffix> </suffix>
+    <w>λήμψονται</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:3">3</verse-number>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἄρχοντες</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>εἰσὶν</w>
+    <suffix> </suffix>
+    <w>φόβος</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἀγαθῷ</w>
+    <suffix> </suffix>
+    <w>ἔργῳ</w>
+    <suffix>⸃  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κακῷ</w>
+    <suffix>⸃.  </suffix>
+    <w>θέλεις</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>φοβεῖσθαι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἐξουσίαν</w>
+    <suffix>;  </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἀγαθὸν</w>
+    <suffix> </suffix>
+    <w>ποίει</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἕξεις</w>
+    <suffix> </suffix>
+    <w>ἔπαινον</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>αὐτῆς</w>
+    <suffix>·  </suffix>
+    <verse-number id="Romans 13:4">4</verse-number>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>διάκονός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>σοὶ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἀγαθόν</w>
+    <suffix>.  </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>κακὸν</w>
+    <suffix> </suffix>
+    <w>ποιῇς</w>
+    <suffix>,  </suffix>
+    <w>φοβοῦ</w>
+    <suffix>·  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>εἰκῇ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>μάχαιραν</w>
+    <suffix> </suffix>
+    <w>φορεῖ</w>
+    <suffix>·  </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>διάκονός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>,  </suffix>
+    <w>ἔκδικος</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ὀργὴν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>κακὸν</w>
+    <suffix> </suffix>
+    <w>πράσσοντι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:5">5</verse-number>
+    <w>διὸ</w>
+    <suffix> </suffix>
+    <w>ἀνάγκη</w>
+    <suffix> </suffix>
+    <w>ὑποτάσσεσθαι</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μόνον</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ὀργὴν</w>
+    <suffix> </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>συνείδησιν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Romans 13:6">6</verse-number>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φόρους</w>
+    <suffix> </suffix>
+    <w>τελεῖτε</w>
+    <suffix>,  </suffix>
+    <w>λειτουργοὶ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>εἰσιν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>αὐτὸ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>προσκαρτεροῦντες</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:7">7</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἀπόδοτε</w>
+    <suffix> </suffix>
+    <w>πᾶσι</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>ὀφειλάς</w>
+    <suffix>,  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φόρον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φόρον</w>
+    <suffix>,  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τέλος</w>
+    <suffix>,  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φόβον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φόβον</w>
+    <suffix>,  </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>τιμὴν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>τιμήν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Romans 13:8">8</verse-number>
+    <w>Μηδενὶ</w>
+    <suffix> </suffix>
+    <w>μηδὲν</w>
+    <suffix> </suffix>
+    <w>ὀφείλετε</w>
+    <suffix>,  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀλλήλους</w>
+    <suffix> </suffix>
+    <w>ἀγαπᾶν</w>
+    <suffix>⸃·  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἀγαπῶν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἕτερον</w>
+    <suffix> </suffix>
+    <w>νόμον</w>
+    <suffix> </suffix>
+    <w>πεπλήρωκεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:9">9</verse-number>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>γάρ</w>
+    <suffix>·  </suffix>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>μοιχεύσεις</w>
+    <suffix>,  </suffix>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>φονεύσεις</w>
+    <suffix>,  </suffix>
+    <w>Οὐ</w>
+    <suffix> </suffix>
+    <w>κλέψεις</w>
+    <suffix>,  </suffix>
+    <w>Οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐπιθυμήσεις</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἴ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἑτέρα</w>
+    <suffix> </suffix>
+    <w>ἐντολή</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>λόγῳ</w>
+    <suffix> </suffix>
+    <w>τούτῳ</w>
+    <suffix>⸃  </suffix>
+    <w>ἀνακεφαλαιοῦται</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix>⸃·  </suffix>
+    <w>Ἀγαπήσεις</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πλησίον</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>σεαυτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:10">10</verse-number>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πλησίον</w>
+    <suffix> </suffix>
+    <w>κακὸν</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐργάζεται</w>
+    <suffix>·  </suffix>
+    <w>πλήρωμα</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>νόμου</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Romans 13:11">11</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>εἰδότες</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>καιρόν</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ὥρα</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix>⸃  </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ὕπνου</w>
+    <suffix> </suffix>
+    <w>ἐγερθῆναι</w>
+    <suffix>,  </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἐγγύτερον</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>σωτηρία</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>ἐπιστεύσαμεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:12">12</verse-number>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>νὺξ</w>
+    <suffix> </suffix>
+    <w>προέκοψεν</w>
+    <suffix>,  </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἡμέρα</w>
+    <suffix> </suffix>
+    <w>ἤγγικεν</w>
+    <suffix>.  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀποβαλώμεθα</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>σκότους</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐνδυσώμεθα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix>⸃  </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὅπλα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>φωτός</w>
+    <suffix>.  </suffix>
+    <verse-number id="Romans 13:13">13</verse-number>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>εὐσχημόνως</w>
+    <suffix> </suffix>
+    <w>περιπατήσωμεν</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>κώμοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μέθαις</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>κοίταις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀσελγείαις</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔριδι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ζήλῳ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Romans 13:14">14</verse-number>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ἐνδύσασθε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>κύριον</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦν</w>
+    <suffix> </suffix>
+    <w>Χριστόν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>σαρκὸς</w>
+    <suffix> </suffix>
+    <w>πρόνοιαν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ποιεῖσθε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

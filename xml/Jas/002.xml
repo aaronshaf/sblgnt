@@ -1,882 +1,896 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="James 2:1">2:1</verse-number>
-  <w>Ἀδελφοί</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>προσωπολημψίαις</w>
-  <suffix> </suffix>
-  <w>ἔχετε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>δόξης</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:2">2</verse-number>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>εἰσέλθῃ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>συναγωγὴν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>ἀνὴρ</w>
-  <suffix> </suffix>
-  <w>χρυσοδακτύλιος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἐσθῆτι</w>
-  <suffix> </suffix>
-  <w>λαμπρᾷ</w>
-  <suffix>,  </suffix>
-  <w>εἰσέλθῃ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πτωχὸς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ῥυπαρᾷ</w>
-  <suffix> </suffix>
-  <w>ἐσθῆτι</w>
-  <suffix>,  </suffix>
-  <verse-number id="James 2:3">3</verse-number>
-  <prefix> ⸂</prefix>
-  <w>ἐπιβλέψητε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix>⸃  </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>φοροῦντα</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἐσθῆτα</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>λαμπρὰν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἴπητε</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>κάθου</w>
-  <suffix> </suffix>
-  <w>ὧδε</w>
-  <suffix> </suffix>
-  <w>καλῶς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πτωχῷ</w>
-  <suffix> </suffix>
-  <w>εἴπητε</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>στῆθι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>κάθου</w>
-  <suffix> </suffix>
-  <w>ἐκεῖ</w>
-  <suffix>⸃  </suffix>
-  <w>ὑπὸ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὑποπόδιόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <verse-number id="James 2:4">4</verse-number>
-  <prefix> ⸀</prefix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>διεκρίθητε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐγένεσθε</w>
-  <suffix> </suffix>
-  <w>κριταὶ</w>
-  <suffix> </suffix>
-  <w>διαλογισμῶν</w>
-  <suffix> </suffix>
-  <w>πονηρῶν</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:5">5</verse-number>
-  <w>ἀκούσατε</w>
-  <suffix>,  </suffix>
-  <w>ἀδελφοί</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ἀγαπητοί</w>
-  <suffix>.  </suffix>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ἐξελέξατο</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>πτωχοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>κόσμῳ</w>
-  <suffix>⸃  </suffix>
-  <w>πλουσίους</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πίστει</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κληρονόμους</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>βασιλείας</w>
-  <suffix> </suffix>
-  <w>ἧς</w>
-  <suffix> </suffix>
-  <w>ἐπηγγείλατο</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἀγαπῶσιν</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:6">6</verse-number>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἠτιμάσατε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πτωχόν</w>
-  <suffix>.  </suffix>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πλούσιοι</w>
-  <suffix> </suffix>
-  <w>καταδυναστεύουσιν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοὶ</w>
-  <suffix> </suffix>
-  <w>ἕλκουσιν</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>κριτήρια</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:7">7</verse-number>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>αὐτοὶ</w>
-  <suffix> </suffix>
-  <w>βλασφημοῦσιν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>καλὸν</w>
-  <suffix> </suffix>
-  <w>ὄνομα</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἐπικληθὲν</w>
-  <suffix> </suffix>
-  <w>ἐφ’</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:8">8</verse-number>
-  <w>Εἰ</w>
-  <suffix> </suffix>
-  <w>μέντοι</w>
-  <suffix> </suffix>
-  <w>νόμον</w>
-  <suffix> </suffix>
-  <w>τελεῖτε</w>
-  <suffix> </suffix>
-  <w>βασιλικὸν</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γραφήν</w>
-  <suffix> </suffix>
-  <w>Ἀγαπήσεις</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πλησίον</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>σεαυτόν</w>
-  <suffix>,  </suffix>
-  <w>καλῶς</w>
-  <suffix> </suffix>
-  <w>ποιεῖτε</w>
-  <suffix>·  </suffix>
-  <verse-number id="James 2:9">9</verse-number>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>προσωπολημπτεῖτε</w>
-  <suffix>,  </suffix>
-  <w>ἁμαρτίαν</w>
-  <suffix> </suffix>
-  <w>ἐργάζεσθε</w>
-  <suffix>,  </suffix>
-  <w>ἐλεγχόμενοι</w>
-  <suffix> </suffix>
-  <w>ὑπὸ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νόμου</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>παραβάται</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:10">10</verse-number>
-  <w>ὅστις</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ὅλον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>νόμον</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τηρήσῃ</w>
-  <suffix>,  </suffix>
-  <w>πταίσῃ</w>
-  <suffix>⸃  </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἑνί</w>
-  <suffix>,  </suffix>
-  <w>γέγονεν</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>ἔνοχος</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:11">11</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>εἰπών</w>
-  <suffix> </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μοιχεύσῃς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>καί</w>
-  <suffix> </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>φονεύσῃς</w>
-  <suffix>·  </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>μοιχεύεις</w>
-  <suffix> </suffix>
-  <w>φονεύεις</w>
-  <suffix>⸃  </suffix>
-  <w>δέ</w>
-  <suffix>,  </suffix>
-  <w>γέγονας</w>
-  <suffix> </suffix>
-  <w>παραβάτης</w>
-  <suffix> </suffix>
-  <w>νόμου</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:12">12</verse-number>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>λαλεῖτε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ποιεῖτε</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>νόμου</w>
-  <suffix> </suffix>
-  <w>ἐλευθερίας</w>
-  <suffix> </suffix>
-  <w>μέλλοντες</w>
-  <suffix> </suffix>
-  <w>κρίνεσθαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:13">13</verse-number>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>κρίσις</w>
-  <suffix> </suffix>
-  <w>ἀνέλεος</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ποιήσαντι</w>
-  <suffix> </suffix>
-  <w>ἔλεος</w>
-  <suffix>·  </suffix>
-  <w>κατακαυχᾶται</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔλεος</w>
-  <suffix> </suffix>
-  <w>κρίσεως</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:14">14</verse-number>
-  <prefix> ⸀</prefix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>ὄφελος</w>
-  <suffix>,  </suffix>
-  <w>ἀδελφοί</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>λέγῃ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἔχειν</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχῃ</w>
-  <suffix>;  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>δύναται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix> </suffix>
-  <w>σῶσαι</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:15">15</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>ἀδελφὸς</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>ἀδελφὴ</w>
-  <suffix> </suffix>
-  <w>γυμνοὶ</w>
-  <suffix> </suffix>
-  <w>ὑπάρχωσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λειπόμενοι</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐφημέρου</w>
-  <suffix> </suffix>
-  <w>τροφῆς</w>
-  <suffix>,  </suffix>
-  <verse-number id="James 2:16">16</verse-number>
-  <w>εἴπῃ</w>
-  <suffix> </suffix>
-  <w>δέ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>·  </suffix>
-  <w>Ὑπάγετε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>εἰρήνῃ</w>
-  <suffix>,  </suffix>
-  <w>θερμαίνεσθε</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>χορτάζεσθε</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>δῶτε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἐπιτήδεια</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>σώματος</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <w>ὄφελος</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:17">17</verse-number>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix>,  </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἔχῃ</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix>⸃,  </suffix>
-  <w>νεκρά</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>καθ’</w>
-  <suffix> </suffix>
-  <w>ἑαυτήν</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:18">18</verse-number>
-  <w>Ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἐρεῖ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>ἔχεις</w>
-  <suffix> </suffix>
-  <w>κἀγὼ</w>
-  <suffix> </suffix>
-  <w>ἔργα</w>
-  <suffix> </suffix>
-  <w>ἔχω</w>
-  <suffix>.  </suffix>
-  <w>δεῖξόν</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>χωρὶς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔργων</w>
-  <suffix>,  </suffix>
-  <w>κἀγώ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>δείξω</w>
-  <suffix>⸃  </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πίστιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:19">19</verse-number>
-  <w>σὺ</w>
-  <suffix> </suffix>
-  <w>πιστεύεις</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεός</w>
-  <suffix>⸃;  </suffix>
-  <w>καλῶς</w>
-  <suffix> </suffix>
-  <w>ποιεῖς</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>δαιμόνια</w>
-  <suffix> </suffix>
-  <w>πιστεύουσιν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φρίσσουσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:20">20</verse-number>
-  <w>θέλεις</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>γνῶναι</w>
-  <suffix>,  </suffix>
-  <w>ὦ</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπε</w>
-  <suffix> </suffix>
-  <w>κενέ</w>
-  <suffix>,  </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix> </suffix>
-  <w>χωρὶς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀργή</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:21">21</verse-number>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>πατὴρ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>ἐδικαιώθη</w>
-  <suffix>,  </suffix>
-  <w>ἀνενέγκας</w>
-  <suffix> </suffix>
-  <w>Ἰσαὰκ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>υἱὸν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>θυσιαστήριον</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:22">22</verse-number>
-  <w>βλέπεις</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix> </suffix>
-  <w>συνήργει</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἔργοις</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix> </suffix>
-  <w>ἐτελειώθη</w>
-  <suffix>,  </suffix>
-  <verse-number id="James 2:23">23</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπληρώθη</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γραφὴ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>λέγουσα</w>
-  <suffix>·  </suffix>
-  <w>Ἐπίστευσεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>θεῷ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐλογίσθη</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>δικαιοσύνην</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φίλος</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>ἐκλήθη</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:24">24</verse-number>
-  <prefix> ⸀</prefix>
-  <w>ὁρᾶτε</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>δικαιοῦται</w>
-  <suffix> </suffix>
-  <w>ἄνθρωπος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>πίστεως</w>
-  <suffix> </suffix>
-  <w>μόνον</w>
-  <suffix>.  </suffix>
-  <verse-number id="James 2:25">25</verse-number>
-  <w>ὁμοίως</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ῥαὰβ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πόρνη</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>ἐδικαιώθη</w>
-  <suffix>,  </suffix>
-  <w>ὑποδεξαμένη</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀγγέλους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἑτέρᾳ</w>
-  <suffix> </suffix>
-  <w>ὁδῷ</w>
-  <suffix> </suffix>
-  <w>ἐκβαλοῦσα</w>
-  <suffix>;  </suffix>
-  <verse-number id="James 2:26">26</verse-number>
-  <w>ὥσπερ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σῶμα</w>
-  <suffix> </suffix>
-  <w>χωρὶς</w>
-  <suffix> </suffix>
-  <w>πνεύματος</w>
-  <suffix> </suffix>
-  <w>νεκρόν</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>,  </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>χωρὶς</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix> </suffix>
-  <w>νεκρά</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="James 2:1">2:1</verse-number>
+    <w>Ἀδελφοί</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>προσωπολημψίαις</w>
+    <suffix> </suffix>
+    <w>ἔχετε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>δόξης</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:2">2</verse-number>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>εἰσέλθῃ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>συναγωγὴν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>ἀνὴρ</w>
+    <suffix> </suffix>
+    <w>χρυσοδακτύλιος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἐσθῆτι</w>
+    <suffix> </suffix>
+    <w>λαμπρᾷ</w>
+    <suffix>,  </suffix>
+    <w>εἰσέλθῃ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πτωχὸς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ῥυπαρᾷ</w>
+    <suffix> </suffix>
+    <w>ἐσθῆτι</w>
+    <suffix>,  </suffix>
+    <verse-number id="James 2:3">3</verse-number>
+    <prefix> ⸂</prefix>
+    <w>ἐπιβλέψητε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix>⸃  </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>φοροῦντα</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἐσθῆτα</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>λαμπρὰν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἴπητε</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>κάθου</w>
+    <suffix> </suffix>
+    <w>ὧδε</w>
+    <suffix> </suffix>
+    <w>καλῶς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πτωχῷ</w>
+    <suffix> </suffix>
+    <w>εἴπητε</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>στῆθι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>κάθου</w>
+    <suffix> </suffix>
+    <w>ἐκεῖ</w>
+    <suffix>⸃  </suffix>
+    <w>ὑπὸ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὑποπόδιόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <verse-number id="James 2:4">4</verse-number>
+    <prefix> ⸀</prefix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>διεκρίθητε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐγένεσθε</w>
+    <suffix> </suffix>
+    <w>κριταὶ</w>
+    <suffix> </suffix>
+    <w>διαλογισμῶν</w>
+    <suffix> </suffix>
+    <w>πονηρῶν</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:5">5</verse-number>
+    <w>ἀκούσατε</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφοί</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ἀγαπητοί</w>
+    <suffix>.  </suffix>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ἐξελέξατο</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>πτωχοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>κόσμῳ</w>
+    <suffix>⸃  </suffix>
+    <w>πλουσίους</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πίστει</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κληρονόμους</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>βασιλείας</w>
+    <suffix> </suffix>
+    <w>ἧς</w>
+    <suffix> </suffix>
+    <w>ἐπηγγείλατο</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἀγαπῶσιν</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:6">6</verse-number>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἠτιμάσατε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πτωχόν</w>
+    <suffix>.  </suffix>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πλούσιοι</w>
+    <suffix> </suffix>
+    <w>καταδυναστεύουσιν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοὶ</w>
+    <suffix> </suffix>
+    <w>ἕλκουσιν</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>κριτήρια</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:7">7</verse-number>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>αὐτοὶ</w>
+    <suffix> </suffix>
+    <w>βλασφημοῦσιν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>καλὸν</w>
+    <suffix> </suffix>
+    <w>ὄνομα</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἐπικληθὲν</w>
+    <suffix> </suffix>
+    <w>ἐφ’</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix>;  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="James 2:8">8</verse-number>
+    <w>Εἰ</w>
+    <suffix> </suffix>
+    <w>μέντοι</w>
+    <suffix> </suffix>
+    <w>νόμον</w>
+    <suffix> </suffix>
+    <w>τελεῖτε</w>
+    <suffix> </suffix>
+    <w>βασιλικὸν</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γραφήν</w>
+    <suffix> </suffix>
+    <w>Ἀγαπήσεις</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πλησίον</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>σεαυτόν</w>
+    <suffix>,  </suffix>
+    <w>καλῶς</w>
+    <suffix> </suffix>
+    <w>ποιεῖτε</w>
+    <suffix>·  </suffix>
+    <verse-number id="James 2:9">9</verse-number>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>προσωπολημπτεῖτε</w>
+    <suffix>,  </suffix>
+    <w>ἁμαρτίαν</w>
+    <suffix> </suffix>
+    <w>ἐργάζεσθε</w>
+    <suffix>,  </suffix>
+    <w>ἐλεγχόμενοι</w>
+    <suffix> </suffix>
+    <w>ὑπὸ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νόμου</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>παραβάται</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:10">10</verse-number>
+    <w>ὅστις</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ὅλον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>νόμον</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τηρήσῃ</w>
+    <suffix>,  </suffix>
+    <w>πταίσῃ</w>
+    <suffix>⸃  </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἑνί</w>
+    <suffix>,  </suffix>
+    <w>γέγονεν</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>ἔνοχος</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:11">11</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>εἰπών</w>
+    <suffix> </suffix>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μοιχεύσῃς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>καί</w>
+    <suffix> </suffix>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>φονεύσῃς</w>
+    <suffix>·  </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>μοιχεύεις</w>
+    <suffix> </suffix>
+    <w>φονεύεις</w>
+    <suffix>⸃  </suffix>
+    <w>δέ</w>
+    <suffix>,  </suffix>
+    <w>γέγονας</w>
+    <suffix> </suffix>
+    <w>παραβάτης</w>
+    <suffix> </suffix>
+    <w>νόμου</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:12">12</verse-number>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>λαλεῖτε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ποιεῖτε</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>νόμου</w>
+    <suffix> </suffix>
+    <w>ἐλευθερίας</w>
+    <suffix> </suffix>
+    <w>μέλλοντες</w>
+    <suffix> </suffix>
+    <w>κρίνεσθαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:13">13</verse-number>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>κρίσις</w>
+    <suffix> </suffix>
+    <w>ἀνέλεος</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ποιήσαντι</w>
+    <suffix> </suffix>
+    <w>ἔλεος</w>
+    <suffix>·  </suffix>
+    <w>κατακαυχᾶται</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔλεος</w>
+    <suffix> </suffix>
+    <w>κρίσεως</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="James 2:14">14</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>ὄφελος</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφοί</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>λέγῃ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἔχειν</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχῃ</w>
+    <suffix>;  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>δύναται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix> </suffix>
+    <w>σῶσαι</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:15">15</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>ἀδελφὸς</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>ἀδελφὴ</w>
+    <suffix> </suffix>
+    <w>γυμνοὶ</w>
+    <suffix> </suffix>
+    <w>ὑπάρχωσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λειπόμενοι</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐφημέρου</w>
+    <suffix> </suffix>
+    <w>τροφῆς</w>
+    <suffix>,  </suffix>
+    <verse-number id="James 2:16">16</verse-number>
+    <w>εἴπῃ</w>
+    <suffix> </suffix>
+    <w>δέ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>·  </suffix>
+    <w>Ὑπάγετε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>εἰρήνῃ</w>
+    <suffix>,  </suffix>
+    <w>θερμαίνεσθε</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>χορτάζεσθε</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>δῶτε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἐπιτήδεια</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>σώματος</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <w>ὄφελος</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:17">17</verse-number>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix>,  </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἔχῃ</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix>⸃,  </suffix>
+    <w>νεκρά</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>καθ’</w>
+    <suffix> </suffix>
+    <w>ἑαυτήν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="James 2:18">18</verse-number>
+    <w>Ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἐρεῖ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>ἔχεις</w>
+    <suffix> </suffix>
+    <w>κἀγὼ</w>
+    <suffix> </suffix>
+    <w>ἔργα</w>
+    <suffix> </suffix>
+    <w>ἔχω</w>
+    <suffix>.  </suffix>
+    <w>δεῖξόν</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>χωρὶς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔργων</w>
+    <suffix>,  </suffix>
+    <w>κἀγώ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>δείξω</w>
+    <suffix>⸃  </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πίστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:19">19</verse-number>
+    <w>σὺ</w>
+    <suffix> </suffix>
+    <w>πιστεύεις</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεός</w>
+    <suffix>⸃;  </suffix>
+    <w>καλῶς</w>
+    <suffix> </suffix>
+    <w>ποιεῖς</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>δαιμόνια</w>
+    <suffix> </suffix>
+    <w>πιστεύουσιν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φρίσσουσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:20">20</verse-number>
+    <w>θέλεις</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>γνῶναι</w>
+    <suffix>,  </suffix>
+    <w>ὦ</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπε</w>
+    <suffix> </suffix>
+    <w>κενέ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix> </suffix>
+    <w>χωρὶς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀργή</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:21">21</verse-number>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>πατὴρ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>ἐδικαιώθη</w>
+    <suffix>,  </suffix>
+    <w>ἀνενέγκας</w>
+    <suffix> </suffix>
+    <w>Ἰσαὰκ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>υἱὸν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>θυσιαστήριον</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:22">22</verse-number>
+    <w>βλέπεις</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix> </suffix>
+    <w>συνήργει</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἔργοις</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix> </suffix>
+    <w>ἐτελειώθη</w>
+    <suffix>,  </suffix>
+    <verse-number id="James 2:23">23</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπληρώθη</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γραφὴ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>λέγουσα</w>
+    <suffix>·  </suffix>
+    <w>Ἐπίστευσεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>θεῷ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐλογίσθη</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>δικαιοσύνην</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φίλος</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>ἐκλήθη</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:24">24</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ὁρᾶτε</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>δικαιοῦται</w>
+    <suffix> </suffix>
+    <w>ἄνθρωπος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>πίστεως</w>
+    <suffix> </suffix>
+    <w>μόνον</w>
+    <suffix>.  </suffix>
+    <verse-number id="James 2:25">25</verse-number>
+    <w>ὁμοίως</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ῥαὰβ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πόρνη</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>ἐδικαιώθη</w>
+    <suffix>,  </suffix>
+    <w>ὑποδεξαμένη</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀγγέλους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἑτέρᾳ</w>
+    <suffix> </suffix>
+    <w>ὁδῷ</w>
+    <suffix> </suffix>
+    <w>ἐκβαλοῦσα</w>
+    <suffix>;  </suffix>
+    <verse-number id="James 2:26">26</verse-number>
+    <w>ὥσπερ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σῶμα</w>
+    <suffix> </suffix>
+    <w>χωρὶς</w>
+    <suffix> </suffix>
+    <w>πνεύματος</w>
+    <suffix> </suffix>
+    <w>νεκρόν</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>,  </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>χωρὶς</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix> </suffix>
+    <w>νεκρά</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

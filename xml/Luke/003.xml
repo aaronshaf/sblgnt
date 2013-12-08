@@ -1,1237 +1,1260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Luke 3:1">3:1</verse-number>
-  <w>Ἐν</w>
-  <suffix> </suffix>
-  <w>ἔτει</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>πεντεκαιδεκάτῳ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἡγεμονίας</w>
-  <suffix> </suffix>
-  <w>Τιβερίου</w>
-  <suffix> </suffix>
-  <w>Καίσαρος</w>
-  <suffix>,  </suffix>
-  <w>ἡγεμονεύοντος</w>
-  <suffix> </suffix>
-  <w>Ποντίου</w>
-  <suffix> </suffix>
-  <w>Πιλάτου</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Ἰουδαίας</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τετρααρχοῦντος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Γαλιλαίας</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδου</w>
-  <suffix>,  </suffix>
-  <w>Φιλίππου</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀδελφοῦ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τετρααρχοῦντος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Ἰτουραίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Τραχωνίτιδος</w>
-  <suffix> </suffix>
-  <w>χώρας</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Λυσανίου</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>Ἀβιληνῆς</w>
-  <suffix> </suffix>
-  <w>τετρααρχοῦντος</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 3:2">2</verse-number>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>ἀρχιερέως</w>
-  <suffix> </suffix>
-  <w>Ἅννα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Καϊάφα</w>
-  <suffix>,  </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>ῥῆμα</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ζαχαρίου</w>
-  <suffix> </suffix>
-  <w>υἱὸν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:3">3</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πᾶσαν</w>
-  <suffix> </suffix>
-  <w>περίχωρον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰορδάνου</w>
-  <suffix> </suffix>
-  <w>κηρύσσων</w>
-  <suffix> </suffix>
-  <w>βάπτισμα</w>
-  <suffix> </suffix>
-  <w>μετανοίας</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἄφεσιν</w>
-  <suffix> </suffix>
-  <w>ἁμαρτιῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 3:4">4</verse-number>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>γέγραπται</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>βίβλῳ</w>
-  <suffix> </suffix>
-  <w>λόγων</w>
-  <suffix> </suffix>
-  <w>Ἠσαΐου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>προφήτου</w>
-  <suffix>·  </suffix>
-  <w>Φωνὴ</w>
-  <suffix> </suffix>
-  <w>βοῶντος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix>·  </suffix>
-  <w>Ἑτοιμάσατε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ὁδὸν</w>
-  <suffix> </suffix>
-  <w>κυρίου</w>
-  <suffix>,  </suffix>
-  <w>εὐθείας</w>
-  <suffix> </suffix>
-  <w>ποιεῖτε</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>τρίβους</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:5">5</verse-number>
-  <w>πᾶσα</w>
-  <suffix> </suffix>
-  <w>φάραγξ</w>
-  <suffix> </suffix>
-  <w>πληρωθήσεται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πᾶν</w>
-  <suffix> </suffix>
-  <w>ὄρος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>βουνὸς</w>
-  <suffix> </suffix>
-  <w>ταπεινωθήσεται</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>σκολιὰ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εὐθείαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>αἱ</w>
-  <suffix> </suffix>
-  <w>τραχεῖαι</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ὁδοὺς</w>
-  <suffix> </suffix>
-  <w>λείας</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 3:6">6</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὄψεται</w>
-  <suffix> </suffix>
-  <w>πᾶσα</w>
-  <suffix> </suffix>
-  <w>σὰρξ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σωτήριον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:7">7</verse-number>
-  <w>Ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἐκπορευομένοις</w>
-  <suffix> </suffix>
-  <w>ὄχλοις</w>
-  <suffix> </suffix>
-  <w>βαπτισθῆναι</w>
-  <suffix> </suffix>
-  <w>ὑπ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>·  </suffix>
-  <w>Γεννήματα</w>
-  <suffix> </suffix>
-  <w>ἐχιδνῶν</w>
-  <suffix>,  </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>ὑπέδειξεν</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>φυγεῖν</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>μελλούσης</w>
-  <suffix> </suffix>
-  <w>ὀργῆς</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 3:8">8</verse-number>
-  <w>ποιήσατε</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καρποὺς</w>
-  <suffix> </suffix>
-  <w>ἀξίους</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>μετανοίας</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἄρξησθε</w>
-  <suffix> </suffix>
-  <w>λέγειν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ἑαυτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Πατέρα</w>
-  <suffix> </suffix>
-  <w>ἔχομεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἀβραάμ</w>
-  <suffix>,  </suffix>
-  <w>λέγω</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>δύναται</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>λίθων</w>
-  <suffix> </suffix>
-  <w>τούτων</w>
-  <suffix> </suffix>
-  <w>ἐγεῖραι</w>
-  <suffix> </suffix>
-  <w>τέκνα</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἀβραάμ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:9">9</verse-number>
-  <w>ἤδη</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀξίνη</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ῥίζαν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>δένδρων</w>
-  <suffix> </suffix>
-  <w>κεῖται</w>
-  <suffix>·  </suffix>
-  <w>πᾶν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>δένδρον</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ποιοῦν</w>
-  <suffix> </suffix>
-  <w>καρπὸν</w>
-  <suffix> </suffix>
-  <w>καλὸν</w>
-  <suffix> </suffix>
-  <w>ἐκκόπτεται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>πῦρ</w>
-  <suffix> </suffix>
-  <w>βάλλεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:10">10</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπηρώτων</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>ὄχλοι</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ποιήσωμεν</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 3:11">11</verse-number>
-  <w>ἀποκριθεὶς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔλεγεν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>ἔχων</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix> </suffix>
-  <w>χιτῶνας</w>
-  <suffix> </suffix>
-  <w>μεταδότω</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχοντι</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἔχων</w>
-  <suffix> </suffix>
-  <w>βρώματα</w>
-  <suffix> </suffix>
-  <w>ὁμοίως</w>
-  <suffix> </suffix>
-  <w>ποιείτω</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:12">12</verse-number>
-  <w>ἦλθον</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τελῶναι</w>
-  <suffix> </suffix>
-  <w>βαπτισθῆναι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπαν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>·  </suffix>
-  <w>Διδάσκαλε</w>
-  <suffix>,  </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ποιήσωμεν</w>
-  <suffix>;  </suffix>
-  <verse-number id="Luke 3:13">13</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>·  </suffix>
-  <w>Μηδὲν</w>
-  <suffix> </suffix>
-  <w>πλέον</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>διατεταγμένον</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>πράσσετε</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:14">14</verse-number>
-  <w>ἐπηρώτων</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>στρατευόμενοι</w>
-  <suffix> </suffix>
-  <w>λέγοντες</w>
-  <suffix>·  </suffix>
-  <prefix> ⸂</prefix>
-  <w>Τί</w>
-  <suffix> </suffix>
-  <w>ποιήσωμεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡμεῖς</w>
-  <suffix>⸃;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῖς</w>
-  <suffix>·  </suffix>
-  <w>Μηδένα</w>
-  <suffix> </suffix>
-  <w>διασείσητε</w>
-  <suffix> </suffix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>συκοφαντήσητε</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀρκεῖσθε</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ὀψωνίοις</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:15">15</verse-number>
-  <w>Προσδοκῶντος</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>λαοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>διαλογιζομένων</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>καρδίαις</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννου</w>
-  <suffix>,  </suffix>
-  <w>μήποτε</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>εἴη</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>χριστός</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 3:16">16</verse-number>
-  <w>ἀπεκρίνατο</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>λέγων</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἰωάννης</w>
-  <suffix>⸃·  </suffix>
-  <w>Ἐγὼ</w>
-  <suffix> </suffix>
-  <w>μὲν</w>
-  <suffix> </suffix>
-  <w>ὕδατι</w>
-  <suffix> </suffix>
-  <w>βαπτίζω</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix>·  </suffix>
-  <w>ἔρχεται</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἰσχυρότερός</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>εἰμὶ</w>
-  <suffix> </suffix>
-  <w>ἱκανὸς</w>
-  <suffix> </suffix>
-  <w>λῦσαι</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἱμάντα</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ὑποδημάτων</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>·  </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>βαπτίσει</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πνεύματι</w>
-  <suffix> </suffix>
-  <w>ἁγίῳ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πυρί</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 3:17">17</verse-number>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πτύον</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>χειρὶ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>διακαθᾶραι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἅλωνα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>συναγαγεῖν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>σῖτον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἀποθήκην</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἄχυρον</w>
-  <suffix> </suffix>
-  <w>κατακαύσει</w>
-  <suffix> </suffix>
-  <w>πυρὶ</w>
-  <suffix> </suffix>
-  <w>ἀσβέστῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:18">18</verse-number>
-  <w>Πολλὰ</w>
-  <suffix> </suffix>
-  <w>μὲν</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἕτερα</w>
-  <suffix> </suffix>
-  <w>παρακαλῶν</w>
-  <suffix> </suffix>
-  <w>εὐηγγελίζετο</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>λαόν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Luke 3:19">19</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>τετραάρχης</w>
-  <suffix>,  </suffix>
-  <w>ἐλεγχόμενος</w>
-  <suffix> </suffix>
-  <w>ὑπ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>Ἡρῳδιάδος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γυναικὸς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀδελφοῦ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>πάντων</w>
-  <suffix> </suffix>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>πονηρῶν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Ἡρῴδης</w>
-  <suffix>,  </suffix>
-  <verse-number id="Luke 3:20">20</verse-number>
-  <w>προσέθηκεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέκλεισεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰωάννην</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>φυλακῇ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:21">21</verse-number>
-  <w>Ἐγένετο</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>βαπτισθῆναι</w>
-  <suffix> </suffix>
-  <w>ἅπαντα</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>λαὸν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>βαπτισθέντος</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>προσευχομένου</w>
-  <suffix> </suffix>
-  <w>ἀνεῳχθῆναι</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὐρανὸν</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:22">22</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>καταβῆναι</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πνεῦμα</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἅγιον</w>
-  <suffix> </suffix>
-  <w>σωματικῷ</w>
-  <suffix> </suffix>
-  <w>εἴδει</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>περιστερὰν</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φωνὴν</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γενέσθαι</w>
-  <suffix>·  </suffix>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>εἶ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>υἱός</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀγαπητός</w>
-  <suffix>,  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>σοὶ</w>
-  <suffix> </suffix>
-  <w>εὐδόκησα</w>
-  <suffix>.  </suffix>
-  <verse-number id="Luke 3:23">23</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀρχόμενος</w>
-  <suffix> </suffix>
-  <w>ὡσεὶ</w>
-  <suffix> </suffix>
-  <w>ἐτῶν</w>
-  <suffix> </suffix>
-  <w>τριάκοντα</w>
-  <suffix>⸃,  </suffix>
-  <w>ὢν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>υἱός</w>
-  <suffix>,  </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>ἐνομίζετο</w>
-  <suffix>⸃,  </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἠλὶ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:24">24</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μαθθὰτ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Λευὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μελχὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰανναὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:25">25</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ματταθίου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀμὼς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ναοὺμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἑσλὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ναγγαὶ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:26">26</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μάαθ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ματταθίου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σεμεῒν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἰωσὴχ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωδὰ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:27">27</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωανὰν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ῥησὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ζοροβαβὲλ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σαλαθιὴλ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Νηρὶ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:28">28</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μελχὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀδδὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Κωσὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἐλμαδὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἢρ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:29">29</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἐλιέζερ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωρὶμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μαθθὰτ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Λευὶ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:30">30</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Συμεὼν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰούδα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωνὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἐλιακὶμ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:31">31</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μελεὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μεννὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ματταθὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ναθὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Δαυὶδ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:32">32</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰεσσαὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰωβὴλ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Βόος</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Σαλὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ναασσὼν</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:33">33</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Ἀμιναδὰβ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀδμὶν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀρνὶ</w>
-  <suffix>⸃  </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἑσρὼμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Φαρὲς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰούδα</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:34">34</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰακὼβ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰσαὰκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Θάρα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ναχὼρ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:35">35</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σεροὺχ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ῥαγαὺ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Φάλεκ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἔβερ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σαλὰ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:36">36</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Καϊνὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀρφαξὰδ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σὴμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Νῶε</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Λάμεχ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:37">37</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μαθουσαλὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἑνὼχ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἰάρετ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μαλελεὴλ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Καϊνὰμ</w>
-  <suffix> </suffix>
-  <verse-number id="Luke 3:38">38</verse-number>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἐνὼς</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Σὴθ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Ἀδὰμ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Luke 3:1">3:1</verse-number>
+    <w>Ἐν</w>
+    <suffix> </suffix>
+    <w>ἔτει</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>πεντεκαιδεκάτῳ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἡγεμονίας</w>
+    <suffix> </suffix>
+    <w>Τιβερίου</w>
+    <suffix> </suffix>
+    <w>Καίσαρος</w>
+    <suffix>,  </suffix>
+    <w>ἡγεμονεύοντος</w>
+    <suffix> </suffix>
+    <w>Ποντίου</w>
+    <suffix> </suffix>
+    <w>Πιλάτου</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Ἰουδαίας</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τετρααρχοῦντος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Γαλιλαίας</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδου</w>
+    <suffix>,  </suffix>
+    <w>Φιλίππου</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀδελφοῦ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τετρααρχοῦντος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Ἰτουραίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Τραχωνίτιδος</w>
+    <suffix> </suffix>
+    <w>χώρας</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Λυσανίου</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>Ἀβιληνῆς</w>
+    <suffix> </suffix>
+    <w>τετρααρχοῦντος</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 3:2">2</verse-number>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>ἀρχιερέως</w>
+    <suffix> </suffix>
+    <w>Ἅννα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Καϊάφα</w>
+    <suffix>,  </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>ῥῆμα</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ζαχαρίου</w>
+    <suffix> </suffix>
+    <w>υἱὸν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 3:3">3</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πᾶσαν</w>
+    <suffix> </suffix>
+    <w>περίχωρον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰορδάνου</w>
+    <suffix> </suffix>
+    <w>κηρύσσων</w>
+    <suffix> </suffix>
+    <w>βάπτισμα</w>
+    <suffix> </suffix>
+    <w>μετανοίας</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἄφεσιν</w>
+    <suffix> </suffix>
+    <w>ἁμαρτιῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 3:4">4</verse-number>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>γέγραπται</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>βίβλῳ</w>
+    <suffix> </suffix>
+    <w>λόγων</w>
+    <suffix> </suffix>
+    <w>Ἠσαΐου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>προφήτου</w>
+    <suffix>·  </suffix>
+    <w>Φωνὴ</w>
+    <suffix> </suffix>
+    <w>βοῶντος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix>·  </suffix>
+    <w>Ἑτοιμάσατε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ὁδὸν</w>
+    <suffix> </suffix>
+    <w>κυρίου</w>
+    <suffix>,  </suffix>
+    <w>εὐθείας</w>
+    <suffix> </suffix>
+    <w>ποιεῖτε</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>τρίβους</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 3:5">5</verse-number>
+    <w>πᾶσα</w>
+    <suffix> </suffix>
+    <w>φάραγξ</w>
+    <suffix> </suffix>
+    <w>πληρωθήσεται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πᾶν</w>
+    <suffix> </suffix>
+    <w>ὄρος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>βουνὸς</w>
+    <suffix> </suffix>
+    <w>ταπεινωθήσεται</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>σκολιὰ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὐθείαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>αἱ</w>
+    <suffix> </suffix>
+    <w>τραχεῖαι</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ὁδοὺς</w>
+    <suffix> </suffix>
+    <w>λείας</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 3:6">6</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὄψεται</w>
+    <suffix> </suffix>
+    <w>πᾶσα</w>
+    <suffix> </suffix>
+    <w>σὰρξ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σωτήριον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:7">7</verse-number>
+    <w>Ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἐκπορευομένοις</w>
+    <suffix> </suffix>
+    <w>ὄχλοις</w>
+    <suffix> </suffix>
+    <w>βαπτισθῆναι</w>
+    <suffix> </suffix>
+    <w>ὑπ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>·  </suffix>
+    <w>Γεννήματα</w>
+    <suffix> </suffix>
+    <w>ἐχιδνῶν</w>
+    <suffix>,  </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>ὑπέδειξεν</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>φυγεῖν</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>μελλούσης</w>
+    <suffix> </suffix>
+    <w>ὀργῆς</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 3:8">8</verse-number>
+    <w>ποιήσατε</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καρποὺς</w>
+    <suffix> </suffix>
+    <w>ἀξίους</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>μετανοίας</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἄρξησθε</w>
+    <suffix> </suffix>
+    <w>λέγειν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Πατέρα</w>
+    <suffix> </suffix>
+    <w>ἔχομεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἀβραάμ</w>
+    <suffix>,  </suffix>
+    <w>λέγω</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>δύναται</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>λίθων</w>
+    <suffix> </suffix>
+    <w>τούτων</w>
+    <suffix> </suffix>
+    <w>ἐγεῖραι</w>
+    <suffix> </suffix>
+    <w>τέκνα</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἀβραάμ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 3:9">9</verse-number>
+    <w>ἤδη</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀξίνη</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ῥίζαν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>δένδρων</w>
+    <suffix> </suffix>
+    <w>κεῖται</w>
+    <suffix>·  </suffix>
+    <w>πᾶν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>δένδρον</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ποιοῦν</w>
+    <suffix> </suffix>
+    <w>καρπὸν</w>
+    <suffix> </suffix>
+    <w>καλὸν</w>
+    <suffix> </suffix>
+    <w>ἐκκόπτεται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>πῦρ</w>
+    <suffix> </suffix>
+    <w>βάλλεται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:10">10</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπηρώτων</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>ὄχλοι</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ποιήσωμεν</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 3:11">11</verse-number>
+    <w>ἀποκριθεὶς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔλεγεν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>ἔχων</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix> </suffix>
+    <w>χιτῶνας</w>
+    <suffix> </suffix>
+    <w>μεταδότω</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχοντι</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἔχων</w>
+    <suffix> </suffix>
+    <w>βρώματα</w>
+    <suffix> </suffix>
+    <w>ὁμοίως</w>
+    <suffix> </suffix>
+    <w>ποιείτω</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 3:12">12</verse-number>
+    <w>ἦλθον</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τελῶναι</w>
+    <suffix> </suffix>
+    <w>βαπτισθῆναι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπαν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>·  </suffix>
+    <w>Διδάσκαλε</w>
+    <suffix>,  </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ποιήσωμεν</w>
+    <suffix>;  </suffix>
+    <verse-number id="Luke 3:13">13</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>·  </suffix>
+    <w>Μηδὲν</w>
+    <suffix> </suffix>
+    <w>πλέον</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>διατεταγμένον</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>πράσσετε</w>
+    <suffix>.  </suffix>
+    <verse-number id="Luke 3:14">14</verse-number>
+    <w>ἐπηρώτων</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>στρατευόμενοι</w>
+    <suffix> </suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Τί</w>
+    <suffix> </suffix>
+    <w>ποιήσωμεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡμεῖς</w>
+    <suffix>⸃;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῖς</w>
+    <suffix>·  </suffix>
+    <w>Μηδένα</w>
+    <suffix> </suffix>
+    <w>διασείσητε</w>
+    <suffix> </suffix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>συκοφαντήσητε</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀρκεῖσθε</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ὀψωνίοις</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:15">15</verse-number>
+    <w>Προσδοκῶντος</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>λαοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>διαλογιζομένων</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>καρδίαις</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννου</w>
+    <suffix>,  </suffix>
+    <w>μήποτε</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>εἴη</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>χριστός</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 3:16">16</verse-number>
+    <w>ἀπεκρίνατο</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>λέγων</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἰωάννης</w>
+    <suffix>⸃·  </suffix>
+    <w>Ἐγὼ</w>
+    <suffix> </suffix>
+    <w>μὲν</w>
+    <suffix> </suffix>
+    <w>ὕδατι</w>
+    <suffix> </suffix>
+    <w>βαπτίζω</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix>·  </suffix>
+    <w>ἔρχεται</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἰσχυρότερός</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>εἰμὶ</w>
+    <suffix> </suffix>
+    <w>ἱκανὸς</w>
+    <suffix> </suffix>
+    <w>λῦσαι</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἱμάντα</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ὑποδημάτων</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>·  </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>βαπτίσει</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πνεύματι</w>
+    <suffix> </suffix>
+    <w>ἁγίῳ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πυρί</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 3:17">17</verse-number>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πτύον</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>χειρὶ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>διακαθᾶραι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἅλωνα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>συναγαγεῖν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>σῖτον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἀποθήκην</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἄχυρον</w>
+    <suffix> </suffix>
+    <w>κατακαύσει</w>
+    <suffix> </suffix>
+    <w>πυρὶ</w>
+    <suffix> </suffix>
+    <w>ἀσβέστῳ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:18">18</verse-number>
+    <w>Πολλὰ</w>
+    <suffix> </suffix>
+    <w>μὲν</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἕτερα</w>
+    <suffix> </suffix>
+    <w>παρακαλῶν</w>
+    <suffix> </suffix>
+    <w>εὐηγγελίζετο</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>λαόν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Luke 3:19">19</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>τετραάρχης</w>
+    <suffix>,  </suffix>
+    <w>ἐλεγχόμενος</w>
+    <suffix> </suffix>
+    <w>ὑπ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>Ἡρῳδιάδος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γυναικὸς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀδελφοῦ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>πάντων</w>
+    <suffix> </suffix>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>πονηρῶν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Ἡρῴδης</w>
+    <suffix>,  </suffix>
+    <verse-number id="Luke 3:20">20</verse-number>
+    <w>προσέθηκεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέκλεισεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰωάννην</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>φυλακῇ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:21">21</verse-number>
+    <w>Ἐγένετο</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>βαπτισθῆναι</w>
+    <suffix> </suffix>
+    <w>ἅπαντα</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>λαὸν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>βαπτισθέντος</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>προσευχομένου</w>
+    <suffix> </suffix>
+    <w>ἀνεῳχθῆναι</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὐρανὸν</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:22">22</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>καταβῆναι</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πνεῦμα</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἅγιον</w>
+    <suffix> </suffix>
+    <w>σωματικῷ</w>
+    <suffix> </suffix>
+    <w>εἴδει</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>περιστερὰν</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φωνὴν</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γενέσθαι</w>
+    <suffix>·  </suffix>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>εἶ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>υἱός</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀγαπητός</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>σοὶ</w>
+    <suffix> </suffix>
+    <w>εὐδόκησα</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Luke 3:23">23</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀρχόμενος</w>
+    <suffix> </suffix>
+    <w>ὡσεὶ</w>
+    <suffix> </suffix>
+    <w>ἐτῶν</w>
+    <suffix> </suffix>
+    <w>τριάκοντα</w>
+    <suffix>⸃,  </suffix>
+    <w>ὢν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>υἱός</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>ἐνομίζετο</w>
+    <suffix>⸃,  </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἠλὶ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:24">24</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μαθθὰτ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Λευὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μελχὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰανναὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:25">25</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ματταθίου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀμὼς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ναοὺμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἑσλὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ναγγαὶ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:26">26</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μάαθ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ματταθίου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σεμεῒν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἰωσὴχ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωδὰ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:27">27</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωανὰν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ῥησὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ζοροβαβὲλ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σαλαθιὴλ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Νηρὶ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:28">28</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μελχὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀδδὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Κωσὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἐλμαδὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἢρ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:29">29</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἐλιέζερ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωρὶμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μαθθὰτ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Λευὶ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:30">30</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Συμεὼν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰούδα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωνὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἐλιακὶμ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:31">31</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μελεὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μεννὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ματταθὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ναθὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Δαυὶδ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:32">32</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰεσσαὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰωβὴλ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Βόος</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Σαλὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ναασσὼν</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:33">33</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ἀμιναδὰβ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀδμὶν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀρνὶ</w>
+    <suffix>⸃  </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἑσρὼμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Φαρὲς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰούδα</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:34">34</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰακὼβ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰσαὰκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Θάρα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ναχὼρ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:35">35</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σεροὺχ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ῥαγαὺ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Φάλεκ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἔβερ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σαλὰ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:36">36</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Καϊνὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀρφαξὰδ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σὴμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Νῶε</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Λάμεχ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:37">37</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μαθουσαλὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἑνὼχ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἰάρετ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μαλελεὴλ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Καϊνὰμ</w>
+    <suffix> </suffix>
+    <verse-number id="Luke 3:38">38</verse-number>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἐνὼς</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Σὴθ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Ἀδὰμ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

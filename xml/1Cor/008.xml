@@ -1,481 +1,492 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="1 Corinthians 8:1">8:1</verse-number>
-  <w>Περὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>εἰδωλοθύτων</w>
-  <suffix>,  </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>πάντες</w>
-  <suffix> </suffix>
-  <w>γνῶσιν</w>
-  <suffix> </suffix>
-  <w>ἔχομεν</w>
-  <suffix>.  </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γνῶσις</w>
-  <suffix> </suffix>
-  <w>φυσιοῖ</w>
-  <suffix>,  </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>οἰκοδομεῖ</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:2">2</verse-number>
-  <prefix> ⸀</prefix>
-  <w>εἴ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>δοκεῖ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐγνωκέναι</w>
-  <suffix> </suffix>
-  <w>τι</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>οὔπω</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἔγνω</w>
-  <suffix> </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>δεῖ</w>
-  <suffix> </suffix>
-  <w>γνῶναι</w>
-  <suffix>·  </suffix>
-  <verse-number id="1 Corinthians 8:3">3</verse-number>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>δέ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἀγαπᾷ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>θεόν</w>
-  <suffix>,  </suffix>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ἔγνωσται</w>
-  <suffix> </suffix>
-  <w>ὑπ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:4">4</verse-number>
-  <w>Περὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>βρώσεως</w>
-  <suffix> </suffix>
-  <w>οὖν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>εἰδωλοθύτων</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>οὐδὲν</w>
-  <suffix> </suffix>
-  <w>εἴδωλον</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>κόσμῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>οὐδεὶς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>εἷς</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>εἴπερ</w>
-  <suffix> </suffix>
-  <w>εἰσὶν</w>
-  <suffix> </suffix>
-  <w>λεγόμενοι</w>
-  <suffix> </suffix>
-  <w>θεοὶ</w>
-  <suffix> </suffix>
-  <w>εἴτε</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>οὐρανῷ</w>
-  <suffix> </suffix>
-  <w>εἴτε</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix>,  </suffix>
-  <w>ὥσπερ</w>
-  <suffix> </suffix>
-  <w>εἰσὶν</w>
-  <suffix> </suffix>
-  <w>θεοὶ</w>
-  <suffix> </suffix>
-  <w>πολλοὶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κύριοι</w>
-  <suffix> </suffix>
-  <w>πολλοί</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 8:6">6</verse-number>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>ἡμῖν</w>
-  <suffix> </suffix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>πατήρ</w>
-  <suffix>,  </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἷς</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦς</w>
-  <suffix> </suffix>
-  <w>Χριστός</w>
-  <suffix>,  </suffix>
-  <w>δι’</w>
-  <suffix> </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡμεῖς</w>
-  <suffix> </suffix>
-  <w>δι’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:7">7</verse-number>
-  <w>Ἀλλ’</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>γνῶσις</w>
-  <suffix>·  </suffix>
-  <w>τινὲς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>συνηθείᾳ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>ἄρτι</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>εἰδώλου</w>
-  <suffix>⸃  </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>εἰδωλόθυτον</w>
-  <suffix> </suffix>
-  <w>ἐσθίουσιν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>συνείδησις</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>ἀσθενὴς</w>
-  <suffix> </suffix>
-  <w>οὖσα</w>
-  <suffix> </suffix>
-  <w>μολύνεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:8">8</verse-number>
-  <w>βρῶμα</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>παραστήσει</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>θεῷ</w>
-  <suffix>·  </suffix>
-  <w>οὔτε</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>φάγωμεν</w>
-  <suffix>,  </suffix>
-  <w>περισσεύομεν</w>
-  <suffix>,  </suffix>
-  <w>οὔτε</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>φάγωμεν</w>
-  <suffix>,  </suffix>
-  <w>ὑστερούμεθα</w>
-  <suffix>⸃.  </suffix>
-  <verse-number id="1 Corinthians 8:9">9</verse-number>
-  <w>βλέπετε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μή</w>
-  <suffix> </suffix>
-  <w>πως</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἐξουσία</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>αὕτη</w>
-  <suffix> </suffix>
-  <w>πρόσκομμα</w>
-  <suffix> </suffix>
-  <w>γένηται</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀσθενέσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:10">10</verse-number>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <w>γάρ</w>
-  <suffix> </suffix>
-  <w>τις</w>
-  <suffix> </suffix>
-  <w>ἴδῃ</w>
-  <suffix> </suffix>
-  <w>σὲ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἔχοντα</w>
-  <suffix> </suffix>
-  <w>γνῶσιν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>εἰδωλείῳ</w>
-  <suffix> </suffix>
-  <w>κατακείμενον</w>
-  <suffix>,  </suffix>
-  <w>οὐχὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>συνείδησις</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἀσθενοῦς</w>
-  <suffix> </suffix>
-  <w>ὄντος</w>
-  <suffix> </suffix>
-  <w>οἰκοδομηθήσεται</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>εἰδωλόθυτα</w>
-  <suffix> </suffix>
-  <w>ἐσθίειν</w>
-  <suffix>;  </suffix>
-  <verse-number id="1 Corinthians 8:11">11</verse-number>
-  <prefix> ⸂</prefix>
-  <w>ἀπόλλυται</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix>⸃  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀσθενῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>σῇ</w>
-  <suffix> </suffix>
-  <w>γνώσει</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀδελφὸς</w>
-  <suffix>⸃  </suffix>
-  <w>δι’</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>Χριστὸς</w>
-  <suffix> </suffix>
-  <w>ἀπέθανεν</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:12">12</verse-number>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἁμαρτάνοντες</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀδελφοὺς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τύπτοντες</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>συνείδησιν</w>
-  <suffix> </suffix>
-  <w>ἀσθενοῦσαν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Χριστὸν</w>
-  <suffix> </suffix>
-  <w>ἁμαρτάνετε</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 8:13">13</verse-number>
-  <w>διόπερ</w>
-  <suffix> </suffix>
-  <w>εἰ</w>
-  <suffix> </suffix>
-  <w>βρῶμα</w>
-  <suffix> </suffix>
-  <w>σκανδαλίζει</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἀδελφόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>φάγω</w>
-  <suffix> </suffix>
-  <w>κρέα</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>αἰῶνα</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>ἀδελφόν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>σκανδαλίσω</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="1 Corinthians 8:1">8:1</verse-number>
+    <w>Περὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>εἰδωλοθύτων</w>
+    <suffix>,  </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>πάντες</w>
+    <suffix> </suffix>
+    <w>γνῶσιν</w>
+    <suffix> </suffix>
+    <w>ἔχομεν</w>
+    <suffix>.  </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γνῶσις</w>
+    <suffix> </suffix>
+    <w>φυσιοῖ</w>
+    <suffix>,  </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>οἰκοδομεῖ</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:2">2</verse-number>
+    <prefix> ⸀</prefix>
+    <w>εἴ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>δοκεῖ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐγνωκέναι</w>
+    <suffix> </suffix>
+    <w>τι</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>οὔπω</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἔγνω</w>
+    <suffix> </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>δεῖ</w>
+    <suffix> </suffix>
+    <w>γνῶναι</w>
+    <suffix>·  </suffix>
+    <verse-number id="1 Corinthians 8:3">3</verse-number>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>δέ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἀγαπᾷ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>θεόν</w>
+    <suffix>,  </suffix>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ἔγνωσται</w>
+    <suffix> </suffix>
+    <w>ὑπ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 8:4">4</verse-number>
+    <w>Περὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>βρώσεως</w>
+    <suffix> </suffix>
+    <w>οὖν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>εἰδωλοθύτων</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>οὐδὲν</w>
+    <suffix> </suffix>
+    <w>εἴδωλον</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>κόσμῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>οὐδεὶς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>εἷς</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>εἴπερ</w>
+    <suffix> </suffix>
+    <w>εἰσὶν</w>
+    <suffix> </suffix>
+    <w>λεγόμενοι</w>
+    <suffix> </suffix>
+    <w>θεοὶ</w>
+    <suffix> </suffix>
+    <w>εἴτε</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>οὐρανῷ</w>
+    <suffix> </suffix>
+    <w>εἴτε</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix>,  </suffix>
+    <w>ὥσπερ</w>
+    <suffix> </suffix>
+    <w>εἰσὶν</w>
+    <suffix> </suffix>
+    <w>θεοὶ</w>
+    <suffix> </suffix>
+    <w>πολλοὶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κύριοι</w>
+    <suffix> </suffix>
+    <w>πολλοί</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 8:6">6</verse-number>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>ἡμῖν</w>
+    <suffix> </suffix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>πατήρ</w>
+    <suffix>,  </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἷς</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦς</w>
+    <suffix> </suffix>
+    <w>Χριστός</w>
+    <suffix>,  </suffix>
+    <w>δι’</w>
+    <suffix> </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡμεῖς</w>
+    <suffix> </suffix>
+    <w>δι’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 8:7">7</verse-number>
+    <w>Ἀλλ’</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>γνῶσις</w>
+    <suffix>·  </suffix>
+    <w>τινὲς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>συνηθείᾳ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>ἄρτι</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>εἰδώλου</w>
+    <suffix>⸃  </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>εἰδωλόθυτον</w>
+    <suffix> </suffix>
+    <w>ἐσθίουσιν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>συνείδησις</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>ἀσθενὴς</w>
+    <suffix> </suffix>
+    <w>οὖσα</w>
+    <suffix> </suffix>
+    <w>μολύνεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:8">8</verse-number>
+    <w>βρῶμα</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>παραστήσει</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>θεῷ</w>
+    <suffix>·  </suffix>
+    <w>οὔτε</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>φάγωμεν</w>
+    <suffix>,  </suffix>
+    <w>περισσεύομεν</w>
+    <suffix>,  </suffix>
+    <w>οὔτε</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>φάγωμεν</w>
+    <suffix>,  </suffix>
+    <w>ὑστερούμεθα</w>
+    <suffix>⸃.  </suffix>
+    <verse-number id="1 Corinthians 8:9">9</verse-number>
+    <w>βλέπετε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μή</w>
+    <suffix> </suffix>
+    <w>πως</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἐξουσία</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>αὕτη</w>
+    <suffix> </suffix>
+    <w>πρόσκομμα</w>
+    <suffix> </suffix>
+    <w>γένηται</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀσθενέσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:10">10</verse-number>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <w>γάρ</w>
+    <suffix> </suffix>
+    <w>τις</w>
+    <suffix> </suffix>
+    <w>ἴδῃ</w>
+    <suffix> </suffix>
+    <w>σὲ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἔχοντα</w>
+    <suffix> </suffix>
+    <w>γνῶσιν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>εἰδωλείῳ</w>
+    <suffix> </suffix>
+    <w>κατακείμενον</w>
+    <suffix>,  </suffix>
+    <w>οὐχὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>συνείδησις</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἀσθενοῦς</w>
+    <suffix> </suffix>
+    <w>ὄντος</w>
+    <suffix> </suffix>
+    <w>οἰκοδομηθήσεται</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>εἰδωλόθυτα</w>
+    <suffix> </suffix>
+    <w>ἐσθίειν</w>
+    <suffix>;  </suffix>
+    <verse-number id="1 Corinthians 8:11">11</verse-number>
+    <prefix> ⸂</prefix>
+    <w>ἀπόλλυται</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix>⸃  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀσθενῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>σῇ</w>
+    <suffix> </suffix>
+    <w>γνώσει</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀδελφὸς</w>
+    <suffix>⸃  </suffix>
+    <w>δι’</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>Χριστὸς</w>
+    <suffix> </suffix>
+    <w>ἀπέθανεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:12">12</verse-number>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἁμαρτάνοντες</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀδελφοὺς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τύπτοντες</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>συνείδησιν</w>
+    <suffix> </suffix>
+    <w>ἀσθενοῦσαν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Χριστὸν</w>
+    <suffix> </suffix>
+    <w>ἁμαρτάνετε</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 8:13">13</verse-number>
+    <w>διόπερ</w>
+    <suffix> </suffix>
+    <w>εἰ</w>
+    <suffix> </suffix>
+    <w>βρῶμα</w>
+    <suffix> </suffix>
+    <w>σκανδαλίζει</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἀδελφόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>φάγω</w>
+    <suffix> </suffix>
+    <w>κρέα</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>αἰῶνα</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>ἀδελφόν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>σκανδαλίσω</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

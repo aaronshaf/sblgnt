@@ -1,2353 +1,2382 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Acts 7:1">7:1</verse-number>
-  <w>Εἶπεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἀρχιερεύς</w>
-  <suffix>·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>Εἰ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ἔχει</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:2">2</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔφη</w>
-  <suffix>·  </suffix>
-  <w>Ἄνδρες</w>
-  <suffix> </suffix>
-  <w>ἀδελφοὶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix>,  </suffix>
-  <w>ἀκούσατε</w>
-  <suffix>·  </suffix>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>δόξης</w>
-  <suffix> </suffix>
-  <w>ὤφθη</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πατρὶ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <w>ὄντι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>Μεσοποταμίᾳ</w>
-  <suffix> </suffix>
-  <w>πρὶν</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>κατοικῆσαι</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Χαρράν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:3">3</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>·  </suffix>
-  <w>Ἔξελθε</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>συγγενείας</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δεῦρο</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γῆν</w>
-  <suffix> </suffix>
-  <w>ἣν</w>
-  <suffix> </suffix>
-  <w>ἄν</w>
-  <suffix> </suffix>
-  <w>σοι</w>
-  <suffix> </suffix>
-  <w>δείξω</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:4">4</verse-number>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>ἐξελθὼν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>Χαλδαίων</w>
-  <suffix> </suffix>
-  <w>κατῴκησεν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Χαρράν</w>
-  <suffix>.  </suffix>
-  <w>κἀκεῖθεν</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἀποθανεῖν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πατέρα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>μετῴκισεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γῆν</w>
-  <suffix> </suffix>
-  <w>ταύτην</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>ἣν</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>κατοικεῖτε</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:5">5</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>κληρονομίαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αὐτῇ</w>
-  <suffix> </suffix>
-  <w>οὐδὲ</w>
-  <suffix> </suffix>
-  <w>βῆμα</w>
-  <suffix> </suffix>
-  <w>ποδός</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπηγγείλατο</w>
-  <suffix> </suffix>
-  <w>δοῦναι</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>κατάσχεσιν</w>
-  <suffix> </suffix>
-  <w>αὐτὴν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>σπέρματι</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ὄντος</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>τέκνου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:6">6</verse-number>
-  <w>ἐλάλησεν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ἔσται</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σπέρμα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>πάροικον</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>γῇ</w>
-  <suffix> </suffix>
-  <w>ἀλλοτρίᾳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δουλώσουσιν</w>
-  <suffix> </suffix>
-  <w>αὐτὸ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κακώσουσιν</w>
-  <suffix> </suffix>
-  <w>ἔτη</w>
-  <suffix> </suffix>
-  <w>τετρακόσια</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:7">7</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἔθνος</w>
-  <suffix> </suffix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐὰν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>δουλεύσουσιν</w>
-  <suffix> </suffix>
-  <w>κρινῶ</w>
-  <suffix> </suffix>
-  <w>ἐγώ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix>⸃,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>ἐξελεύσονται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λατρεύσουσίν</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>τόπῳ</w>
-  <suffix> </suffix>
-  <w>τούτῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:8">8</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>διαθήκην</w>
-  <suffix> </suffix>
-  <w>περιτομῆς</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὕτως</w>
-  <suffix> </suffix>
-  <w>ἐγέννησεν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰσαὰκ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>περιέτεμεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ὀγδόῃ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰσαὰκ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰακώβ</w>
-  <suffix>,  </suffix>
-  <prefix> ⸁</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰακὼβ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>δώδεκα</w>
-  <suffix> </suffix>
-  <w>πατριάρχας</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:9">9</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατριάρχαι</w>
-  <suffix> </suffix>
-  <w>ζηλώσαντες</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <w>ἀπέδοντο</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>μετ’</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:10">10</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐξείλατο</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>πασῶν</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>θλίψεων</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>χάριν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σοφίαν</w>
-  <suffix> </suffix>
-  <w>ἐναντίον</w>
-  <suffix> </suffix>
-  <w>Φαραὼ</w>
-  <suffix> </suffix>
-  <w>βασιλέως</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτου</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέστησεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἡγούμενον</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὅλον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οἶκον</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:11">11</verse-number>
-  <w>ἦλθεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>λιμὸς</w>
-  <suffix> </suffix>
-  <w>ἐφ’</w>
-  <suffix> </suffix>
-  <w>ὅλην</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Αἴγυπτον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Χανάαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θλῖψις</w>
-  <suffix> </suffix>
-  <w>μεγάλη</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>ηὕρισκον</w>
-  <suffix> </suffix>
-  <w>χορτάσματα</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:12">12</verse-number>
-  <w>ἀκούσας</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἰακὼβ</w>
-  <suffix> </suffix>
-  <w>ὄντα</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>σιτία</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>⸃  </suffix>
-  <w>ἐξαπέστειλεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>πατέρας</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>πρῶτον</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:13">13</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>δευτέρῳ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀνεγνωρίσθη</w>
-  <suffix> </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἀδελφοῖς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φανερὸν</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Φαραὼ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γένος</w>
-  <suffix> </suffix>
-  <w>Ἰωσήφ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:14">14</verse-number>
-  <w>ἀποστείλας</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Ἰωσὴφ</w>
-  <suffix> </suffix>
-  <w>μετεκαλέσατο</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Ἰακὼβ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πατέρα</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix>⸃  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πᾶσαν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>συγγένειαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ψυχαῖς</w>
-  <suffix> </suffix>
-  <w>ἑβδομήκοντα</w>
-  <suffix> </suffix>
-  <w>πέντε</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:15">15</verse-number>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέβη</w>
-  <suffix>⸃  </suffix>
-  <w>Ἰακὼβ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐτελεύτησεν</w>
-  <suffix> </suffix>
-  <w>αὐτὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:16">16</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μετετέθησαν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Συχὲμ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐτέθησαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>μνήματι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>ὠνήσατο</w>
-  <suffix> </suffix>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <w>τιμῆς</w>
-  <suffix> </suffix>
-  <w>ἀργυρίου</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>υἱῶν</w>
-  <suffix> </suffix>
-  <w>Ἑμμὼρ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Συχέμ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:17">17</verse-number>
-  <w>Καθὼς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἤγγιζεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>χρόνος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐπαγγελίας</w>
-  <suffix> </suffix>
-  <w>ἧς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὡμολόγησεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἀβραάμ</w>
-  <suffix>,  </suffix>
-  <w>ηὔξησεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λαὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπληθύνθη</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτῳ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:18">18</verse-number>
-  <w>ἄχρι</w>
-  <suffix> </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>ἀνέστη</w>
-  <suffix> </suffix>
-  <w>βασιλεὺς</w>
-  <suffix> </suffix>
-  <w>ἕτερος</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>⸃,  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ᾔδει</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Ἰωσήφ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:19">19</verse-number>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>κατασοφισάμενος</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>γένος</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἐκάκωσεν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πατέρας</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ποιεῖν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>βρέφη</w>
-  <suffix> </suffix>
-  <w>ἔκθετα</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ζῳογονεῖσθαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:20">20</verse-number>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>καιρῷ</w>
-  <suffix> </suffix>
-  <w>ἐγεννήθη</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>ἀστεῖος</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>θεῷ</w>
-  <suffix>·  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἀνετράφη</w>
-  <suffix> </suffix>
-  <w>μῆνας</w>
-  <suffix> </suffix>
-  <w>τρεῖς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>οἴκῳ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>πατρός</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:21">21</verse-number>
-  <prefix> ⸂</prefix>
-  <w>ἐκτεθέντος</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνείλατο</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix>⸃  </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>θυγάτηρ</w>
-  <suffix> </suffix>
-  <w>Φαραὼ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνεθρέψατο</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>ἑαυτῇ</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>υἱόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:22">22</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπαιδεύθη</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>πάσῃ</w>
-  <suffix> </suffix>
-  <w>σοφίᾳ</w>
-  <suffix> </suffix>
-  <w>Αἰγυπτίων</w>
-  <suffix>,  </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>δυνατὸς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>λόγοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔργοις</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:23">23</verse-number>
-  <w>Ὡς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐπληροῦτο</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>τεσσερακονταετὴς</w>
-  <suffix> </suffix>
-  <w>χρόνος</w>
-  <suffix>,  </suffix>
-  <w>ἀνέβη</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>καρδίαν</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἐπισκέψασθαι</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ἀδελφοὺς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>υἱοὺς</w>
-  <suffix> </suffix>
-  <w>Ἰσραήλ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:24">24</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἰδών</w>
-  <suffix> </suffix>
-  <w>τινα</w>
-  <suffix> </suffix>
-  <w>ἀδικούμενον</w>
-  <suffix> </suffix>
-  <w>ἠμύνατο</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>ἐκδίκησιν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>καταπονουμένῳ</w>
-  <suffix> </suffix>
-  <w>πατάξας</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτιον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:25">25</verse-number>
-  <w>ἐνόμιζεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>συνιέναι</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀδελφοὺς</w>
-  <suffix> </suffix>
-  <w>ὅτι</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>διὰ</w>
-  <suffix> </suffix>
-  <w>χειρὸς</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>δίδωσιν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>σωτηρίαν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>⸃,  </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>συνῆκαν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:26">26</verse-number>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>τε</w>
-  <suffix> </suffix>
-  <w>ἐπιούσῃ</w>
-  <suffix> </suffix>
-  <w>ἡμέρᾳ</w>
-  <suffix> </suffix>
-  <w>ὤφθη</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <w>μαχομένοις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>συνήλλασσεν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>εἰρήνην</w>
-  <suffix> </suffix>
-  <w>εἰπών</w>
-  <suffix>·  </suffix>
-  <w>Ἄνδρες</w>
-  <suffix>,  </suffix>
-  <w>ἀδελφοί</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐστε</w>
-  <suffix>·  </suffix>
-  <w>ἱνατί</w>
-  <suffix> </suffix>
-  <w>ἀδικεῖτε</w>
-  <suffix> </suffix>
-  <w>ἀλλήλους</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:27">27</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἀδικῶν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>πλησίον</w>
-  <suffix> </suffix>
-  <w>ἀπώσατο</w>
-  <suffix> </suffix>
-  <w>αὐτὸν</w>
-  <suffix> </suffix>
-  <w>εἰπών</w>
-  <suffix>·  </suffix>
-  <w>Τίς</w>
-  <suffix> </suffix>
-  <w>σε</w>
-  <suffix> </suffix>
-  <w>κατέστησεν</w>
-  <suffix> </suffix>
-  <w>ἄρχοντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δικαστὴν</w>
-  <suffix> </suffix>
-  <w>ἐφ’</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡμῶν</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:28">28</verse-number>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἀνελεῖν</w>
-  <suffix> </suffix>
-  <w>με</w>
-  <suffix> </suffix>
-  <w>σὺ</w>
-  <suffix> </suffix>
-  <w>θέλεις</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>τρόπον</w>
-  <suffix> </suffix>
-  <w>ἀνεῖλες</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐχθὲς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτιον</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:29">29</verse-number>
-  <w>ἔφυγεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>λόγῳ</w>
-  <suffix> </suffix>
-  <w>τούτῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>πάροικος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>γῇ</w>
-  <suffix> </suffix>
-  <w>Μαδιάμ</w>
-  <suffix>,  </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>ἐγέννησεν</w>
-  <suffix> </suffix>
-  <w>υἱοὺς</w>
-  <suffix> </suffix>
-  <w>δύο</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:30">30</verse-number>
-  <w>Καὶ</w>
-  <suffix> </suffix>
-  <w>πληρωθέντων</w>
-  <suffix> </suffix>
-  <w>ἐτῶν</w>
-  <suffix> </suffix>
-  <w>τεσσεράκοντα</w>
-  <suffix> </suffix>
-  <w>ὤφθη</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ὄρους</w>
-  <suffix> </suffix>
-  <w>Σινᾶ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἄγγελος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>φλογὶ</w>
-  <suffix> </suffix>
-  <w>πυρὸς</w>
-  <suffix> </suffix>
-  <w>βάτου</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:31">31</verse-number>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>ἰδὼν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐθαύμασεν</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὅραμα</w>
-  <suffix>.  </suffix>
-  <w>προσερχομένου</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>κατανοῆσαι</w>
-  <suffix> </suffix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>φωνὴ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>κυρίου</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:32">32</verse-number>
-  <w>Ἐγὼ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πατέρων</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>Ἀβραὰμ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰσαὰκ</w>
-  <suffix> </suffix>
-  <prefix> ⸁</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰακώβ</w>
-  <suffix>.  </suffix>
-  <w>ἔντρομος</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>γενόμενος</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐτόλμα</w>
-  <suffix> </suffix>
-  <w>κατανοῆσαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:33">33</verse-number>
-  <w>εἶπεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix>·  </suffix>
-  <w>Λῦσον</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ὑπόδημα</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ποδῶν</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix>,  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>τόπος</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐφ’</w>
-  <suffix> </suffix>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>ἕστηκας</w>
-  <suffix> </suffix>
-  <w>γῆ</w>
-  <suffix> </suffix>
-  <w>ἁγία</w>
-  <suffix> </suffix>
-  <w>ἐστίν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:34">34</verse-number>
-  <w>ἰδὼν</w>
-  <suffix> </suffix>
-  <w>εἶδον</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>κάκωσιν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>λαοῦ</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>στεναγμοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτοῦ</w>
-  <suffix> </suffix>
-  <w>ἤκουσα</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>κατέβην</w>
-  <suffix> </suffix>
-  <w>ἐξελέσθαι</w>
-  <suffix> </suffix>
-  <w>αὐτούς</w>
-  <suffix>·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>δεῦρο</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀποστείλω</w>
-  <suffix> </suffix>
-  <w>σε</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:35">35</verse-number>
-  <w>Τοῦτον</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆν</w>
-  <suffix>,  </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>ἠρνήσαντο</w>
-  <suffix> </suffix>
-  <w>εἰπόντες</w>
-  <suffix>·  </suffix>
-  <w>Τίς</w>
-  <suffix> </suffix>
-  <w>σε</w>
-  <suffix> </suffix>
-  <w>κατέστησεν</w>
-  <suffix> </suffix>
-  <w>ἄρχοντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δικαστήν</w>
-  <suffix>,  </suffix>
-  <w>τοῦτον</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἄρχοντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λυτρωτὴν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἀπέσταλκεν</w>
-  <suffix> </suffix>
-  <w>σὺν</w>
-  <suffix>⸃  </suffix>
-  <w>χειρὶ</w>
-  <suffix> </suffix>
-  <w>ἀγγέλου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ὀφθέντος</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>βάτῳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:36">36</verse-number>
-  <w>οὗτος</w>
-  <suffix> </suffix>
-  <w>ἐξήγαγεν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>ποιήσας</w>
-  <suffix> </suffix>
-  <w>τέρατα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σημεῖα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γῇ</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτῳ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>Ἐρυθρᾷ</w>
-  <suffix> </suffix>
-  <w>Θαλάσσῃ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix> </suffix>
-  <w>ἔτη</w>
-  <suffix> </suffix>
-  <w>τεσσεράκοντα</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:37">37</verse-number>
-  <w>οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>εἴπας</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>υἱοῖς</w>
-  <suffix> </suffix>
-  <w>Ἰσραήλ</w>
-  <suffix>·  </suffix>
-  <w>Προφήτην</w>
-  <suffix> </suffix>
-  <w>ὑμῖν</w>
-  <suffix> </suffix>
-  <w>ἀναστήσει</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix>⸃  </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀδελφῶν</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>ἐμέ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:38">38</verse-number>
-  <w>οὗτός</w>
-  <suffix> </suffix>
-  <w>ἐστιν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γενόμενος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐκκλησίᾳ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀγγέλου</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>λαλοῦντος</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ὄρει</w>
-  <suffix> </suffix>
-  <w>Σινᾶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πατέρων</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>,  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἐδέξατο</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>λόγια</w>
-  <suffix> </suffix>
-  <w>ζῶντα</w>
-  <suffix> </suffix>
-  <w>δοῦναι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἡμῖν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:39">39</verse-number>
-  <w>ᾧ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἠθέλησαν</w>
-  <suffix> </suffix>
-  <w>ὑπήκοοι</w>
-  <suffix> </suffix>
-  <w>γενέσθαι</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>,  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <w>ἀπώσαντο</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐστράφησαν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>καρδίαις</w>
-  <suffix>⸃  </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>Αἴγυπτον</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:40">40</verse-number>
-  <w>εἰπόντες</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Ἀαρών</w>
-  <suffix>·  </suffix>
-  <w>Ποίησον</w>
-  <suffix> </suffix>
-  <w>ἡμῖν</w>
-  <suffix> </suffix>
-  <w>θεοὺς</w>
-  <suffix> </suffix>
-  <w>οἳ</w>
-  <suffix> </suffix>
-  <w>προπορεύσονται</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>·  </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>Μωϋσῆς</w>
-  <suffix> </suffix>
-  <w>οὗτος</w>
-  <suffix>,  </suffix>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἐξήγαγεν</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>γῆς</w>
-  <suffix> </suffix>
-  <w>Αἰγύπτου</w>
-  <suffix>,  </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>οἴδαμεν</w>
-  <suffix> </suffix>
-  <w>τί</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐγένετο</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:41">41</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐμοσχοποίησαν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>ἡμέραις</w>
-  <suffix> </suffix>
-  <w>ἐκείναις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνήγαγον</w>
-  <suffix> </suffix>
-  <w>θυσίαν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>εἰδώλῳ</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εὐφραίνοντο</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἔργοις</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>χειρῶν</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:42">42</verse-number>
-  <w>ἔστρεψεν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παρέδωκεν</w>
-  <suffix> </suffix>
-  <w>αὐτοὺς</w>
-  <suffix> </suffix>
-  <w>λατρεύειν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>στρατιᾷ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>οὐρανοῦ</w>
-  <suffix>,  </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>γέγραπται</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>βίβλῳ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>προφητῶν</w>
-  <suffix>·  </suffix>
-  <w>Μὴ</w>
-  <suffix> </suffix>
-  <w>σφάγια</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>θυσίας</w>
-  <suffix> </suffix>
-  <w>προσηνέγκατέ</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>ἔτη</w>
-  <suffix> </suffix>
-  <w>τεσσεράκοντα</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix>,  </suffix>
-  <w>οἶκος</w>
-  <suffix> </suffix>
-  <w>Ἰσραήλ</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:43">43</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀνελάβετε</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>σκηνὴν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>Μολὸχ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἄστρον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>Ῥαιφάν</w>
-  <suffix>,  </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>τύπους</w>
-  <suffix> </suffix>
-  <w>οὓς</w>
-  <suffix> </suffix>
-  <w>ἐποιήσατε</w>
-  <suffix> </suffix>
-  <w>προσκυνεῖν</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>μετοικιῶ</w>
-  <suffix> </suffix>
-  <w>ὑμᾶς</w>
-  <suffix> </suffix>
-  <w>ἐπέκεινα</w>
-  <suffix> </suffix>
-  <w>Βαβυλῶνος</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:44">44</verse-number>
-  <w>Ἡ</w>
-  <suffix> </suffix>
-  <w>σκηνὴ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>μαρτυρίου</w>
-  <suffix> </suffix>
-  <w>ἦν</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>πατράσιν</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἐρήμῳ</w>
-  <suffix>,  </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>διετάξατο</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λαλῶν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>Μωϋσῇ</w>
-  <suffix> </suffix>
-  <w>ποιῆσαι</w>
-  <suffix> </suffix>
-  <w>αὐτὴν</w>
-  <suffix> </suffix>
-  <w>κατὰ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>τύπον</w>
-  <suffix> </suffix>
-  <w>ὃν</w>
-  <suffix> </suffix>
-  <w>ἑωράκει</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:45">45</verse-number>
-  <w>ἣν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰσήγαγον</w>
-  <suffix> </suffix>
-  <w>διαδεξάμενοι</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>κατασχέσει</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἐθνῶν</w>
-  <suffix> </suffix>
-  <w>ὧν</w>
-  <suffix> </suffix>
-  <w>ἐξῶσεν</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>θεὸς</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>προσώπου</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>πατέρων</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἕως</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἡμερῶν</w>
-  <suffix> </suffix>
-  <w>Δαυίδ</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:46">46</verse-number>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>εὗρεν</w>
-  <suffix> </suffix>
-  <w>χάριν</w>
-  <suffix> </suffix>
-  <w>ἐνώπιον</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ᾐτήσατο</w>
-  <suffix> </suffix>
-  <w>εὑρεῖν</w>
-  <suffix> </suffix>
-  <w>σκήνωμα</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεῷ</w>
-  <suffix> </suffix>
-  <w>Ἰακώβ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:47">47</verse-number>
-  <w>Σολομῶν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>οἰκοδόμησεν</w>
-  <suffix> </suffix>
-  <w>αὐτῷ</w>
-  <suffix> </suffix>
-  <w>οἶκον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:48">48</verse-number>
-  <w>ἀλλ’</w>
-  <suffix> </suffix>
-  <w>οὐχ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ὕψιστος</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>χειροποιήτοις</w>
-  <suffix> </suffix>
-  <w>κατοικεῖ</w>
-  <suffix>·  </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>προφήτης</w>
-  <suffix> </suffix>
-  <w>λέγει</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:49">49</verse-number>
-  <w>Ὁ</w>
-  <suffix> </suffix>
-  <w>οὐρανός</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix> </suffix>
-  <w>θρόνος</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix>⸃  </suffix>
-  <w>γῆ</w>
-  <suffix> </suffix>
-  <w>ὑποπόδιον</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ποδῶν</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>·  </suffix>
-  <w>ποῖον</w>
-  <suffix> </suffix>
-  <w>οἶκον</w>
-  <suffix> </suffix>
-  <w>οἰκοδομήσετέ</w>
-  <suffix> </suffix>
-  <w>μοι</w>
-  <suffix>,  </suffix>
-  <w>λέγει</w>
-  <suffix> </suffix>
-  <w>κύριος</w>
-  <suffix>,  </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>τίς</w>
-  <suffix> </suffix>
-  <w>τόπος</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>καταπαύσεώς</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:50">50</verse-number>
-  <w>οὐχὶ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>χείρ</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix> </suffix>
-  <w>ἐποίησεν</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix>;  </suffix>
-  <verse-number id="Acts 7:51">51</verse-number>
-  <w>Σκληροτράχηλοι</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπερίτμητοι</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καρδίαις</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ὠσίν</w>
-  <suffix>,  </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>ἀεὶ</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>πνεύματι</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>ἁγίῳ</w>
-  <suffix> </suffix>
-  <w>ἀντιπίπτετε</w>
-  <suffix>,  </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:52">52</verse-number>
-  <w>τίνα</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>προφητῶν</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐδίωξαν</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>πατέρες</w>
-  <suffix> </suffix>
-  <w>ὑμῶν</w>
-  <suffix>;  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἀπέκτειναν</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>προκαταγγείλαντας</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>ἐλεύσεως</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>δικαίου</w>
-  <suffix> </suffix>
-  <w>οὗ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>ὑμεῖς</w>
-  <suffix> </suffix>
-  <w>προδόται</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>φονεῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἐγένεσθε</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:53">53</verse-number>
-  <w>οἵτινες</w>
-  <suffix> </suffix>
-  <w>ἐλάβετε</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>νόμον</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>διαταγὰς</w>
-  <suffix> </suffix>
-  <w>ἀγγέλων</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἐφυλάξατε</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:54">54</verse-number>
-  <w>Ἀκούοντες</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix> </suffix>
-  <w>διεπρίοντο</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>καρδίαις</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔβρυχον</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>ὀδόντας</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:55">55</verse-number>
-  <w>ὑπάρχων</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>πλήρης</w>
-  <suffix> </suffix>
-  <w>πνεύματος</w>
-  <suffix> </suffix>
-  <w>ἁγίου</w>
-  <suffix> </suffix>
-  <w>ἀτενίσας</w>
-  <suffix> </suffix>
-  <w>εἰς</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>οὐρανὸν</w>
-  <suffix> </suffix>
-  <w>εἶδεν</w>
-  <suffix> </suffix>
-  <w>δόξαν</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦν</w>
-  <suffix> </suffix>
-  <w>ἑστῶτα</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>δεξιῶν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:56">56</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἶπεν</w>
-  <suffix>·  </suffix>
-  <w>Ἰδοὺ</w>
-  <suffix> </suffix>
-  <w>θεωρῶ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>οὐρανοὺς</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>διηνοιγμένους</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>υἱὸν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπου</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>δεξιῶν</w>
-  <suffix> </suffix>
-  <w>ἑστῶτα</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:57">57</verse-number>
-  <w>κράξαντες</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>φωνῇ</w>
-  <suffix> </suffix>
-  <w>μεγάλῃ</w>
-  <suffix> </suffix>
-  <w>συνέσχον</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὦτα</w>
-  <suffix> </suffix>
-  <w>αὐτῶν</w>
-  <suffix>,  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ὥρμησαν</w>
-  <suffix> </suffix>
-  <w>ὁμοθυμαδὸν</w>
-  <suffix> </suffix>
-  <w>ἐπ’</w>
-  <suffix> </suffix>
-  <w>αὐτόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="Acts 7:58">58</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκβαλόντες</w>
-  <suffix> </suffix>
-  <w>ἔξω</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>πόλεως</w>
-  <suffix> </suffix>
-  <w>ἐλιθοβόλουν</w>
-  <suffix>.  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>οἱ</w>
-  <suffix> </suffix>
-  <w>μάρτυρες</w>
-  <suffix> </suffix>
-  <w>ἀπέθεντο</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἱμάτια</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>αὐτῶν</w>
-  <suffix> </suffix>
-  <w>παρὰ</w>
-  <suffix> </suffix>
-  <w>τοὺς</w>
-  <suffix> </suffix>
-  <w>πόδας</w>
-  <suffix> </suffix>
-  <w>νεανίου</w>
-  <suffix> </suffix>
-  <w>καλουμένου</w>
-  <suffix> </suffix>
-  <w>Σαύλου</w>
-  <suffix>.  </suffix>
-  <verse-number id="Acts 7:59">59</verse-number>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐλιθοβόλουν</w>
-  <suffix> </suffix>
-  <w>τὸν</w>
-  <suffix> </suffix>
-  <w>Στέφανον</w>
-  <suffix> </suffix>
-  <w>ἐπικαλούμενον</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>λέγοντα</w>
-  <suffix>·  </suffix>
-  <w>Κύριε</w>
-  <suffix> </suffix>
-  <w>Ἰησοῦ</w>
-  <suffix>,  </suffix>
-  <w>δέξαι</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>πνεῦμά</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>·  </suffix>
-  <verse-number id="Acts 7:60">60</verse-number>
-  <w>θεὶς</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>γόνατα</w>
-  <suffix> </suffix>
-  <w>ἔκραξεν</w>
-  <suffix> </suffix>
-  <w>φωνῇ</w>
-  <suffix> </suffix>
-  <w>μεγάλῃ</w>
-  <suffix>·  </suffix>
-  <w>Κύριε</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>στήσῃς</w>
-  <suffix> </suffix>
-  <w>αὐτοῖς</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ταύτην</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἁμαρτίαν</w>
-  <suffix>⸃·  </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τοῦτο</w>
-  <suffix> </suffix>
-  <w>εἰπὼν</w>
-  <suffix> </suffix>
-  <w>ἐκοιμήθη</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Acts 7:1">7:1</verse-number>
+    <w>Εἶπεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἀρχιερεύς</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>Εἰ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ἔχει</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:2">2</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔφη</w>
+    <suffix>·  </suffix>
+    <w>Ἄνδρες</w>
+    <suffix> </suffix>
+    <w>ἀδελφοὶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix>,  </suffix>
+    <w>ἀκούσατε</w>
+    <suffix>·  </suffix>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>δόξης</w>
+    <suffix> </suffix>
+    <w>ὤφθη</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πατρὶ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <w>ὄντι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>Μεσοποταμίᾳ</w>
+    <suffix> </suffix>
+    <w>πρὶν</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>κατοικῆσαι</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Χαρράν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:3">3</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>·  </suffix>
+    <w>Ἔξελθε</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>συγγενείας</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δεῦρο</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γῆν</w>
+    <suffix> </suffix>
+    <w>ἣν</w>
+    <suffix> </suffix>
+    <w>ἄν</w>
+    <suffix> </suffix>
+    <w>σοι</w>
+    <suffix> </suffix>
+    <w>δείξω</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:4">4</verse-number>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>ἐξελθὼν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>Χαλδαίων</w>
+    <suffix> </suffix>
+    <w>κατῴκησεν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Χαρράν</w>
+    <suffix>.  </suffix>
+    <w>κἀκεῖθεν</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἀποθανεῖν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πατέρα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>μετῴκισεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γῆν</w>
+    <suffix> </suffix>
+    <w>ταύτην</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>ἣν</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>κατοικεῖτε</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>κληρονομίαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αὐτῇ</w>
+    <suffix> </suffix>
+    <w>οὐδὲ</w>
+    <suffix> </suffix>
+    <w>βῆμα</w>
+    <suffix> </suffix>
+    <w>ποδός</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπηγγείλατο</w>
+    <suffix> </suffix>
+    <w>δοῦναι</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>κατάσχεσιν</w>
+    <suffix> </suffix>
+    <w>αὐτὴν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>σπέρματι</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ὄντος</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>τέκνου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:6">6</verse-number>
+    <w>ἐλάλησεν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ἔσται</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σπέρμα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>πάροικον</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>γῇ</w>
+    <suffix> </suffix>
+    <w>ἀλλοτρίᾳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δουλώσουσιν</w>
+    <suffix> </suffix>
+    <w>αὐτὸ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κακώσουσιν</w>
+    <suffix> </suffix>
+    <w>ἔτη</w>
+    <suffix> </suffix>
+    <w>τετρακόσια</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἔθνος</w>
+    <suffix> </suffix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐὰν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>δουλεύσουσιν</w>
+    <suffix> </suffix>
+    <w>κρινῶ</w>
+    <suffix> </suffix>
+    <w>ἐγώ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix>⸃,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>ἐξελεύσονται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λατρεύσουσίν</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>τόπῳ</w>
+    <suffix> </suffix>
+    <w>τούτῳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:8">8</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>διαθήκην</w>
+    <suffix> </suffix>
+    <w>περιτομῆς</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὕτως</w>
+    <suffix> </suffix>
+    <w>ἐγέννησεν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰσαὰκ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>περιέτεμεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ὀγδόῃ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰσαὰκ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰακώβ</w>
+    <suffix>,  </suffix>
+    <prefix> ⸁</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰακὼβ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>δώδεκα</w>
+    <suffix> </suffix>
+    <w>πατριάρχας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:9">9</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατριάρχαι</w>
+    <suffix> </suffix>
+    <w>ζηλώσαντες</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <w>ἀπέδοντο</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>μετ’</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:10">10</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐξείλατο</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>πασῶν</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>θλίψεων</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>χάριν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σοφίαν</w>
+    <suffix> </suffix>
+    <w>ἐναντίον</w>
+    <suffix> </suffix>
+    <w>Φαραὼ</w>
+    <suffix> </suffix>
+    <w>βασιλέως</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτου</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέστησεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἡγούμενον</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὅλον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οἶκον</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:11">11</verse-number>
+    <w>ἦλθεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>λιμὸς</w>
+    <suffix> </suffix>
+    <w>ἐφ’</w>
+    <suffix> </suffix>
+    <w>ὅλην</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Αἴγυπτον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Χανάαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θλῖψις</w>
+    <suffix> </suffix>
+    <w>μεγάλη</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>ηὕρισκον</w>
+    <suffix> </suffix>
+    <w>χορτάσματα</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:12">12</verse-number>
+    <w>ἀκούσας</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἰακὼβ</w>
+    <suffix> </suffix>
+    <w>ὄντα</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>σιτία</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>⸃  </suffix>
+    <w>ἐξαπέστειλεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>πατέρας</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>πρῶτον</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:13">13</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>δευτέρῳ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀνεγνωρίσθη</w>
+    <suffix> </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἀδελφοῖς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φανερὸν</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Φαραὼ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γένος</w>
+    <suffix> </suffix>
+    <w>Ἰωσήφ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:14">14</verse-number>
+    <w>ἀποστείλας</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Ἰωσὴφ</w>
+    <suffix> </suffix>
+    <w>μετεκαλέσατο</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ἰακὼβ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πατέρα</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πᾶσαν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>συγγένειαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ψυχαῖς</w>
+    <suffix> </suffix>
+    <w>ἑβδομήκοντα</w>
+    <suffix> </suffix>
+    <w>πέντε</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:15">15</verse-number>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέβη</w>
+    <suffix>⸃  </suffix>
+    <w>Ἰακὼβ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐτελεύτησεν</w>
+    <suffix> </suffix>
+    <w>αὐτὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:16">16</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μετετέθησαν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Συχὲμ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐτέθησαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>μνήματι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>ὠνήσατο</w>
+    <suffix> </suffix>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <w>τιμῆς</w>
+    <suffix> </suffix>
+    <w>ἀργυρίου</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>υἱῶν</w>
+    <suffix> </suffix>
+    <w>Ἑμμὼρ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Συχέμ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:17">17</verse-number>
+    <w>Καθὼς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἤγγιζεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>χρόνος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐπαγγελίας</w>
+    <suffix> </suffix>
+    <w>ἧς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὡμολόγησεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἀβραάμ</w>
+    <suffix>,  </suffix>
+    <w>ηὔξησεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λαὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπληθύνθη</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτῳ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:18">18</verse-number>
+    <w>ἄχρι</w>
+    <suffix> </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>ἀνέστη</w>
+    <suffix> </suffix>
+    <w>βασιλεὺς</w>
+    <suffix> </suffix>
+    <w>ἕτερος</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>⸃,  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ᾔδει</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Ἰωσήφ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:19">19</verse-number>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>κατασοφισάμενος</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>γένος</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἐκάκωσεν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πατέρας</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ποιεῖν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>βρέφη</w>
+    <suffix> </suffix>
+    <w>ἔκθετα</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ζῳογονεῖσθαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:20">20</verse-number>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>καιρῷ</w>
+    <suffix> </suffix>
+    <w>ἐγεννήθη</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>ἀστεῖος</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>θεῷ</w>
+    <suffix>·  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἀνετράφη</w>
+    <suffix> </suffix>
+    <w>μῆνας</w>
+    <suffix> </suffix>
+    <w>τρεῖς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>οἴκῳ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>πατρός</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:21">21</verse-number>
+    <prefix> ⸂</prefix>
+    <w>ἐκτεθέντος</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνείλατο</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix>⸃  </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>θυγάτηρ</w>
+    <suffix> </suffix>
+    <w>Φαραὼ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνεθρέψατο</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>ἑαυτῇ</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>υἱόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:22">22</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπαιδεύθη</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>πάσῃ</w>
+    <suffix> </suffix>
+    <w>σοφίᾳ</w>
+    <suffix> </suffix>
+    <w>Αἰγυπτίων</w>
+    <suffix>,  </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>δυνατὸς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>λόγοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔργοις</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:23">23</verse-number>
+    <w>Ὡς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐπληροῦτο</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>τεσσερακονταετὴς</w>
+    <suffix> </suffix>
+    <w>χρόνος</w>
+    <suffix>,  </suffix>
+    <w>ἀνέβη</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>καρδίαν</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἐπισκέψασθαι</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ἀδελφοὺς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>υἱοὺς</w>
+    <suffix> </suffix>
+    <w>Ἰσραήλ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:24">24</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἰδών</w>
+    <suffix> </suffix>
+    <w>τινα</w>
+    <suffix> </suffix>
+    <w>ἀδικούμενον</w>
+    <suffix> </suffix>
+    <w>ἠμύνατο</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>ἐκδίκησιν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>καταπονουμένῳ</w>
+    <suffix> </suffix>
+    <w>πατάξας</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτιον</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:25">25</verse-number>
+    <w>ἐνόμιζεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>συνιέναι</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀδελφοὺς</w>
+    <suffix> </suffix>
+    <w>ὅτι</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>διὰ</w>
+    <suffix> </suffix>
+    <w>χειρὸς</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>δίδωσιν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>σωτηρίαν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>⸃,  </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>συνῆκαν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:26">26</verse-number>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>τε</w>
+    <suffix> </suffix>
+    <w>ἐπιούσῃ</w>
+    <suffix> </suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix> </suffix>
+    <w>ὤφθη</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <w>μαχομένοις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>συνήλλασσεν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>εἰρήνην</w>
+    <suffix> </suffix>
+    <w>εἰπών</w>
+    <suffix>·  </suffix>
+    <w>Ἄνδρες</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφοί</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐστε</w>
+    <suffix>·  </suffix>
+    <w>ἱνατί</w>
+    <suffix> </suffix>
+    <w>ἀδικεῖτε</w>
+    <suffix> </suffix>
+    <w>ἀλλήλους</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:27">27</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἀδικῶν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>πλησίον</w>
+    <suffix> </suffix>
+    <w>ἀπώσατο</w>
+    <suffix> </suffix>
+    <w>αὐτὸν</w>
+    <suffix> </suffix>
+    <w>εἰπών</w>
+    <suffix>·  </suffix>
+    <w>Τίς</w>
+    <suffix> </suffix>
+    <w>σε</w>
+    <suffix> </suffix>
+    <w>κατέστησεν</w>
+    <suffix> </suffix>
+    <w>ἄρχοντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δικαστὴν</w>
+    <suffix> </suffix>
+    <w>ἐφ’</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμῶν</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:28">28</verse-number>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἀνελεῖν</w>
+    <suffix> </suffix>
+    <w>με</w>
+    <suffix> </suffix>
+    <w>σὺ</w>
+    <suffix> </suffix>
+    <w>θέλεις</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>τρόπον</w>
+    <suffix> </suffix>
+    <w>ἀνεῖλες</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐχθὲς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτιον</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:29">29</verse-number>
+    <w>ἔφυγεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>λόγῳ</w>
+    <suffix> </suffix>
+    <w>τούτῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>πάροικος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>γῇ</w>
+    <suffix> </suffix>
+    <w>Μαδιάμ</w>
+    <suffix>,  </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>ἐγέννησεν</w>
+    <suffix> </suffix>
+    <w>υἱοὺς</w>
+    <suffix> </suffix>
+    <w>δύο</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:30">30</verse-number>
+    <w>Καὶ</w>
+    <suffix> </suffix>
+    <w>πληρωθέντων</w>
+    <suffix> </suffix>
+    <w>ἐτῶν</w>
+    <suffix> </suffix>
+    <w>τεσσεράκοντα</w>
+    <suffix> </suffix>
+    <w>ὤφθη</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ὄρους</w>
+    <suffix> </suffix>
+    <w>Σινᾶ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἄγγελος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>φλογὶ</w>
+    <suffix> </suffix>
+    <w>πυρὸς</w>
+    <suffix> </suffix>
+    <w>βάτου</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:31">31</verse-number>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>ἰδὼν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐθαύμασεν</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὅραμα</w>
+    <suffix>.  </suffix>
+    <w>προσερχομένου</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>κατανοῆσαι</w>
+    <suffix> </suffix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>φωνὴ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>κυρίου</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:32">32</verse-number>
+    <w>Ἐγὼ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πατέρων</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>Ἀβραὰμ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰσαὰκ</w>
+    <suffix> </suffix>
+    <prefix> ⸁</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰακώβ</w>
+    <suffix>.  </suffix>
+    <w>ἔντρομος</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>γενόμενος</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐτόλμα</w>
+    <suffix> </suffix>
+    <w>κατανοῆσαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:33">33</verse-number>
+    <w>εἶπεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix>·  </suffix>
+    <w>Λῦσον</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ὑπόδημα</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ποδῶν</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>τόπος</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐφ’</w>
+    <suffix> </suffix>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>ἕστηκας</w>
+    <suffix> </suffix>
+    <w>γῆ</w>
+    <suffix> </suffix>
+    <w>ἁγία</w>
+    <suffix> </suffix>
+    <w>ἐστίν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:34">34</verse-number>
+    <w>ἰδὼν</w>
+    <suffix> </suffix>
+    <w>εἶδον</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>κάκωσιν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>λαοῦ</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>στεναγμοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτοῦ</w>
+    <suffix> </suffix>
+    <w>ἤκουσα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>κατέβην</w>
+    <suffix> </suffix>
+    <w>ἐξελέσθαι</w>
+    <suffix> </suffix>
+    <w>αὐτούς</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>δεῦρο</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀποστείλω</w>
+    <suffix> </suffix>
+    <w>σε</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:35">35</verse-number>
+    <w>Τοῦτον</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆν</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>ἠρνήσαντο</w>
+    <suffix> </suffix>
+    <w>εἰπόντες</w>
+    <suffix>·  </suffix>
+    <w>Τίς</w>
+    <suffix> </suffix>
+    <w>σε</w>
+    <suffix> </suffix>
+    <w>κατέστησεν</w>
+    <suffix> </suffix>
+    <w>ἄρχοντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δικαστήν</w>
+    <suffix>,  </suffix>
+    <w>τοῦτον</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἄρχοντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λυτρωτὴν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀπέσταλκεν</w>
+    <suffix> </suffix>
+    <w>σὺν</w>
+    <suffix>⸃  </suffix>
+    <w>χειρὶ</w>
+    <suffix> </suffix>
+    <w>ἀγγέλου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ὀφθέντος</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>βάτῳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:36">36</verse-number>
+    <w>οὗτος</w>
+    <suffix> </suffix>
+    <w>ἐξήγαγεν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>ποιήσας</w>
+    <suffix> </suffix>
+    <w>τέρατα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σημεῖα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γῇ</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτῳ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>Ἐρυθρᾷ</w>
+    <suffix> </suffix>
+    <w>Θαλάσσῃ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix> </suffix>
+    <w>ἔτη</w>
+    <suffix> </suffix>
+    <w>τεσσεράκοντα</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:37">37</verse-number>
+    <w>οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>εἴπας</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>υἱοῖς</w>
+    <suffix> </suffix>
+    <w>Ἰσραήλ</w>
+    <suffix>·  </suffix>
+    <w>Προφήτην</w>
+    <suffix> </suffix>
+    <w>ὑμῖν</w>
+    <suffix> </suffix>
+    <w>ἀναστήσει</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix>⸃  </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀδελφῶν</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>ἐμέ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:38">38</verse-number>
+    <w>οὗτός</w>
+    <suffix> </suffix>
+    <w>ἐστιν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γενόμενος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐκκλησίᾳ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀγγέλου</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>λαλοῦντος</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ὄρει</w>
+    <suffix> </suffix>
+    <w>Σινᾶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πατέρων</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>,  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἐδέξατο</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>λόγια</w>
+    <suffix> </suffix>
+    <w>ζῶντα</w>
+    <suffix> </suffix>
+    <w>δοῦναι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμῖν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:39">39</verse-number>
+    <w>ᾧ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἠθέλησαν</w>
+    <suffix> </suffix>
+    <w>ὑπήκοοι</w>
+    <suffix> </suffix>
+    <w>γενέσθαι</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <w>ἀπώσαντο</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐστράφησαν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>καρδίαις</w>
+    <suffix>⸃  </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>Αἴγυπτον</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:40">40</verse-number>
+    <w>εἰπόντες</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Ἀαρών</w>
+    <suffix>·  </suffix>
+    <w>Ποίησον</w>
+    <suffix> </suffix>
+    <w>ἡμῖν</w>
+    <suffix> </suffix>
+    <w>θεοὺς</w>
+    <suffix> </suffix>
+    <w>οἳ</w>
+    <suffix> </suffix>
+    <w>προπορεύσονται</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>·  </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>Μωϋσῆς</w>
+    <suffix> </suffix>
+    <w>οὗτος</w>
+    <suffix>,  </suffix>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἐξήγαγεν</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>γῆς</w>
+    <suffix> </suffix>
+    <w>Αἰγύπτου</w>
+    <suffix>,  </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>οἴδαμεν</w>
+    <suffix> </suffix>
+    <w>τί</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐγένετο</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:41">41</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐμοσχοποίησαν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>ἡμέραις</w>
+    <suffix> </suffix>
+    <w>ἐκείναις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνήγαγον</w>
+    <suffix> </suffix>
+    <w>θυσίαν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>εἰδώλῳ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εὐφραίνοντο</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἔργοις</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>χειρῶν</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:42">42</verse-number>
+    <w>ἔστρεψεν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παρέδωκεν</w>
+    <suffix> </suffix>
+    <w>αὐτοὺς</w>
+    <suffix> </suffix>
+    <w>λατρεύειν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>στρατιᾷ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>οὐρανοῦ</w>
+    <suffix>,  </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>γέγραπται</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>βίβλῳ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>προφητῶν</w>
+    <suffix>·  </suffix>
+  </p>
+  <p/>
+  <p>
+    <w>Μὴ</w>
+    <suffix> </suffix>
+    <w>σφάγια</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>θυσίας</w>
+    <suffix> </suffix>
+    <w>προσηνέγκατέ</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>ἔτη</w>
+    <suffix> </suffix>
+    <w>τεσσεράκοντα</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix>,  </suffix>
+    <w>οἶκος</w>
+    <suffix> </suffix>
+    <w>Ἰσραήλ</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:43">43</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀνελάβετε</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>σκηνὴν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>Μολὸχ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἄστρον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>Ῥαιφάν</w>
+    <suffix>,  </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>τύπους</w>
+    <suffix> </suffix>
+    <w>οὓς</w>
+    <suffix> </suffix>
+    <w>ἐποιήσατε</w>
+    <suffix> </suffix>
+    <w>προσκυνεῖν</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>μετοικιῶ</w>
+    <suffix> </suffix>
+    <w>ὑμᾶς</w>
+    <suffix> </suffix>
+    <w>ἐπέκεινα</w>
+    <suffix> </suffix>
+    <w>Βαβυλῶνος</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:44">44</verse-number>
+    <w>Ἡ</w>
+    <suffix> </suffix>
+    <w>σκηνὴ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>μαρτυρίου</w>
+    <suffix> </suffix>
+    <w>ἦν</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>πατράσιν</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἐρήμῳ</w>
+    <suffix>,  </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>διετάξατο</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λαλῶν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>Μωϋσῇ</w>
+    <suffix> </suffix>
+    <w>ποιῆσαι</w>
+    <suffix> </suffix>
+    <w>αὐτὴν</w>
+    <suffix> </suffix>
+    <w>κατὰ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>τύπον</w>
+    <suffix> </suffix>
+    <w>ὃν</w>
+    <suffix> </suffix>
+    <w>ἑωράκει</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:45">45</verse-number>
+    <w>ἣν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰσήγαγον</w>
+    <suffix> </suffix>
+    <w>διαδεξάμενοι</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>κατασχέσει</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἐθνῶν</w>
+    <suffix> </suffix>
+    <w>ὧν</w>
+    <suffix> </suffix>
+    <w>ἐξῶσεν</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>θεὸς</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>προσώπου</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>πατέρων</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἕως</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἡμερῶν</w>
+    <suffix> </suffix>
+    <w>Δαυίδ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:46">46</verse-number>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>εὗρεν</w>
+    <suffix> </suffix>
+    <w>χάριν</w>
+    <suffix> </suffix>
+    <w>ἐνώπιον</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ᾐτήσατο</w>
+    <suffix> </suffix>
+    <w>εὑρεῖν</w>
+    <suffix> </suffix>
+    <w>σκήνωμα</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεῷ</w>
+    <suffix> </suffix>
+    <w>Ἰακώβ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:47">47</verse-number>
+    <w>Σολομῶν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>οἰκοδόμησεν</w>
+    <suffix> </suffix>
+    <w>αὐτῷ</w>
+    <suffix> </suffix>
+    <w>οἶκον</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:48">48</verse-number>
+    <w>ἀλλ’</w>
+    <suffix> </suffix>
+    <w>οὐχ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ὕψιστος</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>χειροποιήτοις</w>
+    <suffix> </suffix>
+    <w>κατοικεῖ</w>
+    <suffix>·  </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>προφήτης</w>
+    <suffix> </suffix>
+    <w>λέγει</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:49">49</verse-number>
+    <w>Ὁ</w>
+    <suffix> </suffix>
+    <w>οὐρανός</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix> </suffix>
+    <w>θρόνος</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix>⸃  </suffix>
+    <w>γῆ</w>
+    <suffix> </suffix>
+    <w>ὑποπόδιον</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ποδῶν</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>·  </suffix>
+    <w>ποῖον</w>
+    <suffix> </suffix>
+    <w>οἶκον</w>
+    <suffix> </suffix>
+    <w>οἰκοδομήσετέ</w>
+    <suffix> </suffix>
+    <w>μοι</w>
+    <suffix>,  </suffix>
+    <w>λέγει</w>
+    <suffix> </suffix>
+    <w>κύριος</w>
+    <suffix>,  </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>τίς</w>
+    <suffix> </suffix>
+    <w>τόπος</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>καταπαύσεώς</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>;  </suffix>
+    <verse-number id="Acts 7:50">50</verse-number>
+    <w>οὐχὶ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>χείρ</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix> </suffix>
+    <w>ἐποίησεν</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix>;  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:51">51</verse-number>
+    <w>Σκληροτράχηλοι</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπερίτμητοι</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καρδίαις</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ὠσίν</w>
+    <suffix>,  </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>ἀεὶ</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>πνεύματι</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>ἁγίῳ</w>
+    <suffix> </suffix>
+    <w>ἀντιπίπτετε</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:52">52</verse-number>
+    <w>τίνα</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>προφητῶν</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐδίωξαν</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>πατέρες</w>
+    <suffix> </suffix>
+    <w>ὑμῶν</w>
+    <suffix>;  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἀπέκτειναν</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>προκαταγγείλαντας</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>ἐλεύσεως</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>δικαίου</w>
+    <suffix> </suffix>
+    <w>οὗ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>ὑμεῖς</w>
+    <suffix> </suffix>
+    <w>προδόται</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>φονεῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐγένεσθε</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:53">53</verse-number>
+    <w>οἵτινες</w>
+    <suffix> </suffix>
+    <w>ἐλάβετε</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>νόμον</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>διαταγὰς</w>
+    <suffix> </suffix>
+    <w>ἀγγέλων</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἐφυλάξατε</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Acts 7:54">54</verse-number>
+    <w>Ἀκούοντες</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix> </suffix>
+    <w>διεπρίοντο</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>καρδίαις</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔβρυχον</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>ὀδόντας</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:55">55</verse-number>
+    <w>ὑπάρχων</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>πλήρης</w>
+    <suffix> </suffix>
+    <w>πνεύματος</w>
+    <suffix> </suffix>
+    <w>ἁγίου</w>
+    <suffix> </suffix>
+    <w>ἀτενίσας</w>
+    <suffix> </suffix>
+    <w>εἰς</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>οὐρανὸν</w>
+    <suffix> </suffix>
+    <w>εἶδεν</w>
+    <suffix> </suffix>
+    <w>δόξαν</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦν</w>
+    <suffix> </suffix>
+    <w>ἑστῶτα</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>δεξιῶν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:56">56</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἶπεν</w>
+    <suffix>·  </suffix>
+    <w>Ἰδοὺ</w>
+    <suffix> </suffix>
+    <w>θεωρῶ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>οὐρανοὺς</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>διηνοιγμένους</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>υἱὸν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπου</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>δεξιῶν</w>
+    <suffix> </suffix>
+    <w>ἑστῶτα</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:57">57</verse-number>
+    <w>κράξαντες</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>φωνῇ</w>
+    <suffix> </suffix>
+    <w>μεγάλῃ</w>
+    <suffix> </suffix>
+    <w>συνέσχον</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὦτα</w>
+    <suffix> </suffix>
+    <w>αὐτῶν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ὥρμησαν</w>
+    <suffix> </suffix>
+    <w>ὁμοθυμαδὸν</w>
+    <suffix> </suffix>
+    <w>ἐπ’</w>
+    <suffix> </suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="Acts 7:58">58</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκβαλόντες</w>
+    <suffix> </suffix>
+    <w>ἔξω</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>πόλεως</w>
+    <suffix> </suffix>
+    <w>ἐλιθοβόλουν</w>
+    <suffix>.  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>οἱ</w>
+    <suffix> </suffix>
+    <w>μάρτυρες</w>
+    <suffix> </suffix>
+    <w>ἀπέθεντο</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἱμάτια</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῶν</w>
+    <suffix> </suffix>
+    <w>παρὰ</w>
+    <suffix> </suffix>
+    <w>τοὺς</w>
+    <suffix> </suffix>
+    <w>πόδας</w>
+    <suffix> </suffix>
+    <w>νεανίου</w>
+    <suffix> </suffix>
+    <w>καλουμένου</w>
+    <suffix> </suffix>
+    <w>Σαύλου</w>
+    <suffix>.  </suffix>
+    <verse-number id="Acts 7:59">59</verse-number>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐλιθοβόλουν</w>
+    <suffix> </suffix>
+    <w>τὸν</w>
+    <suffix> </suffix>
+    <w>Στέφανον</w>
+    <suffix> </suffix>
+    <w>ἐπικαλούμενον</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>λέγοντα</w>
+    <suffix>·  </suffix>
+    <w>Κύριε</w>
+    <suffix> </suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <w>δέξαι</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>πνεῦμά</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>·  </suffix>
+    <verse-number id="Acts 7:60">60</verse-number>
+    <w>θεὶς</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>γόνατα</w>
+    <suffix> </suffix>
+    <w>ἔκραξεν</w>
+    <suffix> </suffix>
+    <w>φωνῇ</w>
+    <suffix> </suffix>
+    <w>μεγάλῃ</w>
+    <suffix>·  </suffix>
+    <w>Κύριε</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>στήσῃς</w>
+    <suffix> </suffix>
+    <w>αὐτοῖς</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ταύτην</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἁμαρτίαν</w>
+    <suffix>⸃·  </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τοῦτο</w>
+    <suffix> </suffix>
+    <w>εἰπὼν</w>
+    <suffix> </suffix>
+    <w>ἐκοιμήθη</w>
+    <suffix>.  </suffix>
+  </p>
 </chapter>

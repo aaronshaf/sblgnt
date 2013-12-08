@@ -1,406 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="Titus 2:1">2:1</verse-number>
-  <w>Σὺ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>λάλει</w>
-  <suffix> </suffix>
-  <w>ἃ</w>
-  <suffix> </suffix>
-  <w>πρέπει</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ὑγιαινούσῃ</w>
-  <suffix> </suffix>
-  <w>διδασκαλίᾳ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:2">2</verse-number>
-  <w>πρεσβύτας</w>
-  <suffix> </suffix>
-  <w>νηφαλίους</w>
-  <suffix> </suffix>
-  <w>εἶναι</w>
-  <suffix>,  </suffix>
-  <w>σεμνούς</w>
-  <suffix>,  </suffix>
-  <w>σώφρονας</w>
-  <suffix>,  </suffix>
-  <w>ὑγιαίνοντας</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>πίστει</w>
-  <suffix>,  </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἀγάπῃ</w>
-  <suffix>,  </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ὑπομονῇ</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:3">3</verse-number>
-  <w>Πρεσβύτιδας</w>
-  <suffix> </suffix>
-  <w>ὡσαύτως</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>καταστήματι</w>
-  <suffix> </suffix>
-  <w>ἱεροπρεπεῖς</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>διαβόλους</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μηδὲ</w>
-  <suffix> </suffix>
-  <w>οἴνῳ</w>
-  <suffix> </suffix>
-  <w>πολλῷ</w>
-  <suffix> </suffix>
-  <w>δεδουλωμένας</w>
-  <suffix>,  </suffix>
-  <w>καλοδιδασκάλους</w>
-  <suffix>,  </suffix>
-  <verse-number id="Titus 2:4">4</verse-number>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>σωφρονίζωσι</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>νέας</w>
-  <suffix> </suffix>
-  <w>φιλάνδρους</w>
-  <suffix> </suffix>
-  <w>εἶναι</w>
-  <suffix>,  </suffix>
-  <w>φιλοτέκνους</w>
-  <suffix>,  </suffix>
-  <verse-number id="Titus 2:5">5</verse-number>
-  <w>σώφρονας</w>
-  <suffix>,  </suffix>
-  <w>ἁγνάς</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>οἰκουργούς</w>
-  <suffix>,  </suffix>
-  <w>ἀγαθάς</w>
-  <suffix>,  </suffix>
-  <w>ὑποτασσομένας</w>
-  <suffix> </suffix>
-  <w>τοῖς</w>
-  <suffix> </suffix>
-  <w>ἰδίοις</w>
-  <suffix> </suffix>
-  <w>ἀνδράσιν</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>λόγος</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>βλασφημῆται</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:6">6</verse-number>
-  <w>Τοὺς</w>
-  <suffix> </suffix>
-  <w>νεωτέρους</w>
-  <suffix> </suffix>
-  <w>ὡσαύτως</w>
-  <suffix> </suffix>
-  <w>παρακάλει</w>
-  <suffix> </suffix>
-  <w>σωφρονεῖν</w>
-  <suffix>·  </suffix>
-  <verse-number id="Titus 2:7">7</verse-number>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>σεαυτὸν</w>
-  <suffix> </suffix>
-  <w>παρεχόμενος</w>
-  <suffix> </suffix>
-  <w>τύπον</w>
-  <suffix> </suffix>
-  <w>καλῶν</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix>,  </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>διδασκαλίᾳ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>ἀφθορίαν</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>σεμνότητα</w>
-  <suffix>,  </suffix>
-  <verse-number id="Titus 2:8">8</verse-number>
-  <w>λόγον</w>
-  <suffix> </suffix>
-  <w>ὑγιῆ</w>
-  <suffix> </suffix>
-  <w>ἀκατάγνωστον</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ὁ</w>
-  <suffix> </suffix>
-  <w>ἐξ</w>
-  <suffix> </suffix>
-  <w>ἐναντίας</w>
-  <suffix> </suffix>
-  <w>ἐντραπῇ</w>
-  <suffix> </suffix>
-  <w>μηδὲν</w>
-  <suffix> </suffix>
-  <w>ἔχων</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>λέγειν</w>
-  <suffix> </suffix>
-  <w>περὶ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix>⸃  </suffix>
-  <w>φαῦλον</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:9">9</verse-number>
-  <w>Δούλους</w>
-  <suffix> </suffix>
-  <w>ἰδίοις</w>
-  <suffix> </suffix>
-  <w>δεσπόταις</w>
-  <suffix> </suffix>
-  <w>ὑποτάσσεσθαι</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix>,  </suffix>
-  <w>εὐαρέστους</w>
-  <suffix> </suffix>
-  <w>εἶναι</w>
-  <suffix>,  </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἀντιλέγοντας</w>
-  <suffix>,  </suffix>
-  <verse-number id="Titus 2:10">10</verse-number>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>νοσφιζομένους</w>
-  <suffix>,  </suffix>
-  <w>ἀλλὰ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>πᾶσαν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix>⸃  </suffix>
-  <w>ἐνδεικνυμένους</w>
-  <suffix> </suffix>
-  <w>ἀγαθήν</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>διδασκαλίαν</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>σωτῆρος</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>κοσμῶσιν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:11">11</verse-number>
-  <w>Ἐπεφάνη</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>χάρις</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>σωτήριος</w>
-  <suffix> </suffix>
-  <w>πᾶσιν</w>
-  <suffix> </suffix>
-  <w>ἀνθρώποις</w>
-  <suffix> </suffix>
-  <verse-number id="Titus 2:12">12</verse-number>
-  <w>παιδεύουσα</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>ἀρνησάμενοι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>ἀσέβειαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τὰς</w>
-  <suffix> </suffix>
-  <w>κοσμικὰς</w>
-  <suffix> </suffix>
-  <w>ἐπιθυμίας</w>
-  <suffix> </suffix>
-  <w>σωφρόνως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>δικαίως</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εὐσεβῶς</w>
-  <suffix> </suffix>
-  <w>ζήσωμεν</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>τῷ</w>
-  <suffix> </suffix>
-  <w>νῦν</w>
-  <suffix> </suffix>
-  <w>αἰῶνι</w>
-  <suffix>,  </suffix>
-  <verse-number id="Titus 2:13">13</verse-number>
-  <w>προσδεχόμενοι</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>μακαρίαν</w>
-  <suffix> </suffix>
-  <w>ἐλπίδα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπιφάνειαν</w>
-  <suffix> </suffix>
-  <w>τῆς</w>
-  <suffix> </suffix>
-  <w>δόξης</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>μεγάλου</w>
-  <suffix> </suffix>
-  <w>θεοῦ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>σωτῆρος</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>Ἰησοῦ</w>
-  <suffix> </suffix>
-  <w>Χριστοῦ</w>
-  <suffix>⸃,  </suffix>
-  <verse-number id="Titus 2:14">14</verse-number>
-  <w>ὃς</w>
-  <suffix> </suffix>
-  <w>ἔδωκεν</w>
-  <suffix> </suffix>
-  <w>ἑαυτὸν</w>
-  <suffix> </suffix>
-  <w>ὑπὲρ</w>
-  <suffix> </suffix>
-  <w>ἡμῶν</w>
-  <suffix> </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <w>λυτρώσηται</w>
-  <suffix> </suffix>
-  <w>ἡμᾶς</w>
-  <suffix> </suffix>
-  <w>ἀπὸ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ἀνομίας</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>καθαρίσῃ</w>
-  <suffix> </suffix>
-  <w>ἑαυτῷ</w>
-  <suffix> </suffix>
-  <w>λαὸν</w>
-  <suffix> </suffix>
-  <w>περιούσιον</w>
-  <suffix>,  </suffix>
-  <w>ζηλωτὴν</w>
-  <suffix> </suffix>
-  <w>καλῶν</w>
-  <suffix> </suffix>
-  <w>ἔργων</w>
-  <suffix>.  </suffix>
-  <verse-number id="Titus 2:15">15</verse-number>
-  <w>Ταῦτα</w>
-  <suffix> </suffix>
-  <w>λάλει</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>παρακάλει</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἔλεγχε</w>
-  <suffix> </suffix>
-  <w>μετὰ</w>
-  <suffix> </suffix>
-  <w>πάσης</w>
-  <suffix> </suffix>
-  <w>ἐπιταγῆς</w>
-  <suffix>·  </suffix>
-  <w>μηδείς</w>
-  <suffix> </suffix>
-  <w>σου</w>
-  <suffix> </suffix>
-  <w>περιφρονείτω</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="Titus 2:1">2:1</verse-number>
+    <w>Σὺ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>λάλει</w>
+    <suffix> </suffix>
+    <w>ἃ</w>
+    <suffix> </suffix>
+    <w>πρέπει</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ὑγιαινούσῃ</w>
+    <suffix> </suffix>
+    <w>διδασκαλίᾳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Titus 2:2">2</verse-number>
+    <w>πρεσβύτας</w>
+    <suffix> </suffix>
+    <w>νηφαλίους</w>
+    <suffix> </suffix>
+    <w>εἶναι</w>
+    <suffix>,  </suffix>
+    <w>σεμνούς</w>
+    <suffix>,  </suffix>
+    <w>σώφρονας</w>
+    <suffix>,  </suffix>
+    <w>ὑγιαίνοντας</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>πίστει</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἀγάπῃ</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ὑπομονῇ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Titus 2:3">3</verse-number>
+    <w>Πρεσβύτιδας</w>
+    <suffix> </suffix>
+    <w>ὡσαύτως</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>καταστήματι</w>
+    <suffix> </suffix>
+    <w>ἱεροπρεπεῖς</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>διαβόλους</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μηδὲ</w>
+    <suffix> </suffix>
+    <w>οἴνῳ</w>
+    <suffix> </suffix>
+    <w>πολλῷ</w>
+    <suffix> </suffix>
+    <w>δεδουλωμένας</w>
+    <suffix>,  </suffix>
+    <w>καλοδιδασκάλους</w>
+    <suffix>,  </suffix>
+    <verse-number id="Titus 2:4">4</verse-number>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>σωφρονίζωσι</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>νέας</w>
+    <suffix> </suffix>
+    <w>φιλάνδρους</w>
+    <suffix> </suffix>
+    <w>εἶναι</w>
+    <suffix>,  </suffix>
+    <w>φιλοτέκνους</w>
+    <suffix>,  </suffix>
+    <verse-number id="Titus 2:5">5</verse-number>
+    <w>σώφρονας</w>
+    <suffix>,  </suffix>
+    <w>ἁγνάς</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>οἰκουργούς</w>
+    <suffix>,  </suffix>
+    <w>ἀγαθάς</w>
+    <suffix>,  </suffix>
+    <w>ὑποτασσομένας</w>
+    <suffix> </suffix>
+    <w>τοῖς</w>
+    <suffix> </suffix>
+    <w>ἰδίοις</w>
+    <suffix> </suffix>
+    <w>ἀνδράσιν</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>λόγος</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>βλασφημῆται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Titus 2:6">6</verse-number>
+    <w>Τοὺς</w>
+    <suffix> </suffix>
+    <w>νεωτέρους</w>
+    <suffix> </suffix>
+    <w>ὡσαύτως</w>
+    <suffix> </suffix>
+    <w>παρακάλει</w>
+    <suffix> </suffix>
+    <w>σωφρονεῖν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Titus 2:7">7</verse-number>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>σεαυτὸν</w>
+    <suffix> </suffix>
+    <w>παρεχόμενος</w>
+    <suffix> </suffix>
+    <w>τύπον</w>
+    <suffix> </suffix>
+    <w>καλῶν</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>διδασκαλίᾳ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀφθορίαν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>σεμνότητα</w>
+    <suffix>,  </suffix>
+    <verse-number id="Titus 2:8">8</verse-number>
+    <w>λόγον</w>
+    <suffix> </suffix>
+    <w>ὑγιῆ</w>
+    <suffix> </suffix>
+    <w>ἀκατάγνωστον</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ὁ</w>
+    <suffix> </suffix>
+    <w>ἐξ</w>
+    <suffix> </suffix>
+    <w>ἐναντίας</w>
+    <suffix> </suffix>
+    <w>ἐντραπῇ</w>
+    <suffix> </suffix>
+    <w>μηδὲν</w>
+    <suffix> </suffix>
+    <w>ἔχων</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>λέγειν</w>
+    <suffix> </suffix>
+    <w>περὶ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix>⸃  </suffix>
+    <w>φαῦλον</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Titus 2:9">9</verse-number>
+    <w>Δούλους</w>
+    <suffix> </suffix>
+    <w>ἰδίοις</w>
+    <suffix> </suffix>
+    <w>δεσπόταις</w>
+    <suffix> </suffix>
+    <w>ὑποτάσσεσθαι</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix>,  </suffix>
+    <w>εὐαρέστους</w>
+    <suffix> </suffix>
+    <w>εἶναι</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἀντιλέγοντας</w>
+    <suffix>,  </suffix>
+    <verse-number id="Titus 2:10">10</verse-number>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>νοσφιζομένους</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>πᾶσαν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix>⸃  </suffix>
+    <w>ἐνδεικνυμένους</w>
+    <suffix> </suffix>
+    <w>ἀγαθήν</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>διδασκαλίαν</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>σωτῆρος</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>κοσμῶσιν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Titus 2:11">11</verse-number>
+    <w>Ἐπεφάνη</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>χάρις</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>σωτήριος</w>
+    <suffix> </suffix>
+    <w>πᾶσιν</w>
+    <suffix> </suffix>
+    <w>ἀνθρώποις</w>
+    <suffix> </suffix>
+    <verse-number id="Titus 2:12">12</verse-number>
+    <w>παιδεύουσα</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>ἀρνησάμενοι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>ἀσέβειαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τὰς</w>
+    <suffix> </suffix>
+    <w>κοσμικὰς</w>
+    <suffix> </suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix> </suffix>
+    <w>σωφρόνως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>δικαίως</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εὐσεβῶς</w>
+    <suffix> </suffix>
+    <w>ζήσωμεν</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>τῷ</w>
+    <suffix> </suffix>
+    <w>νῦν</w>
+    <suffix> </suffix>
+    <w>αἰῶνι</w>
+    <suffix>,  </suffix>
+    <verse-number id="Titus 2:13">13</verse-number>
+    <w>προσδεχόμενοι</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>μακαρίαν</w>
+    <suffix> </suffix>
+    <w>ἐλπίδα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπιφάνειαν</w>
+    <suffix> </suffix>
+    <w>τῆς</w>
+    <suffix> </suffix>
+    <w>δόξης</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>μεγάλου</w>
+    <suffix> </suffix>
+    <w>θεοῦ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>σωτῆρος</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ἰησοῦ</w>
+    <suffix> </suffix>
+    <w>Χριστοῦ</w>
+    <suffix>⸃,  </suffix>
+    <verse-number id="Titus 2:14">14</verse-number>
+    <w>ὃς</w>
+    <suffix> </suffix>
+    <w>ἔδωκεν</w>
+    <suffix> </suffix>
+    <w>ἑαυτὸν</w>
+    <suffix> </suffix>
+    <w>ὑπὲρ</w>
+    <suffix> </suffix>
+    <w>ἡμῶν</w>
+    <suffix> </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <w>λυτρώσηται</w>
+    <suffix> </suffix>
+    <w>ἡμᾶς</w>
+    <suffix> </suffix>
+    <w>ἀπὸ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ἀνομίας</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>καθαρίσῃ</w>
+    <suffix> </suffix>
+    <w>ἑαυτῷ</w>
+    <suffix> </suffix>
+    <w>λαὸν</w>
+    <suffix> </suffix>
+    <w>περιούσιον</w>
+    <suffix>,  </suffix>
+    <w>ζηλωτὴν</w>
+    <suffix> </suffix>
+    <w>καλῶν</w>
+    <suffix> </suffix>
+    <w>ἔργων</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="Titus 2:15">15</verse-number>
+    <w>Ταῦτα</w>
+    <suffix> </suffix>
+    <w>λάλει</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>παρακάλει</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἔλεγχε</w>
+    <suffix> </suffix>
+    <w>μετὰ</w>
+    <suffix> </suffix>
+    <w>πάσης</w>
+    <suffix> </suffix>
+    <w>ἐπιταγῆς</w>
+    <suffix>·  </suffix>
+    <w>μηδείς</w>
+    <suffix> </suffix>
+    <w>σου</w>
+    <suffix> </suffix>
+    <w>περιφρονείτω</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>

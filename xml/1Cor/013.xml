@@ -1,422 +1,433 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter>
-  <verse-number id="1 Corinthians 13:1">13:1</verse-number>
-  <w>Ἐὰν</w>
-  <suffix> </suffix>
-  <w>ταῖς</w>
-  <suffix> </suffix>
-  <w>γλώσσαις</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀνθρώπων</w>
-  <suffix> </suffix>
-  <w>λαλῶ</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>τῶν</w>
-  <suffix> </suffix>
-  <w>ἀγγέλων</w>
-  <suffix>,  </suffix>
-  <w>ἀγάπην</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχω</w>
-  <suffix>,  </suffix>
-  <w>γέγονα</w>
-  <suffix> </suffix>
-  <w>χαλκὸς</w>
-  <suffix> </suffix>
-  <w>ἠχῶν</w>
-  <suffix> </suffix>
-  <w>ἢ</w>
-  <suffix> </suffix>
-  <w>κύμβαλον</w>
-  <suffix> </suffix>
-  <w>ἀλαλάζον</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:2">2</verse-number>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix>⸃  </suffix>
-  <w>ἔχω</w>
-  <suffix> </suffix>
-  <w>προφητείαν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>εἰδῶ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>μυστήρια</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>πᾶσαν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>γνῶσιν</w>
-  <suffix>,  </suffix>
-  <prefix> ⸄</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix>⸅  </suffix>
-  <w>ἔχω</w>
-  <suffix> </suffix>
-  <w>πᾶσαν</w>
-  <suffix> </suffix>
-  <w>τὴν</w>
-  <suffix> </suffix>
-  <w>πίστιν</w>
-  <suffix> </suffix>
-  <w>ὥστε</w>
-  <suffix> </suffix>
-  <w>ὄρη</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>μεθιστάναι</w>
-  <suffix>,  </suffix>
-  <w>ἀγάπην</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχω</w>
-  <suffix>,  </suffix>
-  <w>οὐθέν</w>
-  <suffix> </suffix>
-  <w>εἰμι</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:3">3</verse-number>
-  <prefix> ⸂</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix>⸃  </suffix>
-  <w>ψωμίσω</w>
-  <suffix> </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ὑπάρχοντά</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <prefix> ⸄</prefix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐὰν</w>
-  <suffix>⸅  </suffix>
-  <w>παραδῶ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>σῶμά</w>
-  <suffix> </suffix>
-  <w>μου</w>
-  <suffix>,  </suffix>
-  <w>ἵνα</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>καυθήσομαι</w>
-  <suffix>,  </suffix>
-  <w>ἀγάπην</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μὴ</w>
-  <suffix> </suffix>
-  <w>ἔχω</w>
-  <suffix>,  </suffix>
-  <w>οὐδὲν</w>
-  <suffix> </suffix>
-  <w>ὠφελοῦμαι</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:4">4</verse-number>
-  <w>Ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>μακροθυμεῖ</w>
-  <suffix>,  </suffix>
-  <w>χρηστεύεται</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>ζηλοῖ</w>
-  <suffix> </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix>⸃,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>περπερεύεται</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>φυσιοῦται</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 13:5">5</verse-number>
-  <w>οὐκ</w>
-  <suffix> </suffix>
-  <w>ἀσχημονεῖ</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>ζητεῖ</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>ἑαυτῆς</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>παροξύνεται</w>
-  <suffix>,  </suffix>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>λογίζεται</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>κακόν</w>
-  <suffix>,  </suffix>
-  <verse-number id="1 Corinthians 13:6">6</verse-number>
-  <w>οὐ</w>
-  <suffix> </suffix>
-  <w>χαίρει</w>
-  <suffix> </suffix>
-  <w>ἐπὶ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἀδικίᾳ</w>
-  <suffix>,  </suffix>
-  <w>συγχαίρει</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τῇ</w>
-  <suffix> </suffix>
-  <w>ἀληθείᾳ</w>
-  <suffix>·  </suffix>
-  <verse-number id="1 Corinthians 13:7">7</verse-number>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>στέγει</w>
-  <suffix>,  </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>πιστεύει</w>
-  <suffix>,  </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ἐλπίζει</w>
-  <suffix>,  </suffix>
-  <w>πάντα</w>
-  <suffix> </suffix>
-  <w>ὑπομένει</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:8">8</verse-number>
-  <w>Ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix> </suffix>
-  <w>οὐδέποτε</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>πίπτει</w>
-  <suffix>.  </suffix>
-  <w>εἴτε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>προφητεῖαι</w>
-  <suffix>,  </suffix>
-  <w>καταργηθήσονται</w>
-  <suffix>·  </suffix>
-  <w>εἴτε</w>
-  <suffix> </suffix>
-  <w>γλῶσσαι</w>
-  <suffix>,  </suffix>
-  <w>παύσονται</w>
-  <suffix>·  </suffix>
-  <w>εἴτε</w>
-  <suffix> </suffix>
-  <w>γνῶσις</w>
-  <suffix>,  </suffix>
-  <w>καταργηθήσεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:9">9</verse-number>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>μέρους</w>
-  <suffix> </suffix>
-  <prefix> ⸀</prefix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>γινώσκομεν</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>μέρους</w>
-  <suffix> </suffix>
-  <w>προφητεύομεν</w>
-  <suffix>·  </suffix>
-  <verse-number id="1 Corinthians 13:10">10</verse-number>
-  <w>ὅταν</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἔλθῃ</w>
-  <suffix> </suffix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>τέλειον</w>
-  <suffix>,  </suffix>
-  <prefix> ⸀</prefix>
-  <w>τὸ</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>μέρους</w>
-  <suffix> </suffix>
-  <w>καταργηθήσεται</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:11">11</verse-number>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>ἤμην</w>
-  <suffix> </suffix>
-  <w>νήπιος</w>
-  <suffix>,  </suffix>
-  <prefix> ⸂</prefix>
-  <w>ἐλάλουν</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>νήπιος</w>
-  <suffix>,  </suffix>
-  <w>ἐφρόνουν</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>νήπιος</w>
-  <suffix>,  </suffix>
-  <w>ἐλογιζόμην</w>
-  <suffix> </suffix>
-  <w>ὡς</w>
-  <suffix> </suffix>
-  <w>νήπιος</w>
-  <suffix>⸃·  </suffix>
-  <prefix> ⸀</prefix>
-  <w>ὅτε</w>
-  <suffix> </suffix>
-  <w>γέγονα</w>
-  <suffix> </suffix>
-  <w>ἀνήρ</w>
-  <suffix>,  </suffix>
-  <w>κατήργηκα</w>
-  <suffix> </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>τοῦ</w>
-  <suffix> </suffix>
-  <w>νηπίου</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:12">12</verse-number>
-  <w>βλέπομεν</w>
-  <suffix> </suffix>
-  <w>γὰρ</w>
-  <suffix> </suffix>
-  <w>ἄρτι</w>
-  <suffix> </suffix>
-  <w>δι’</w>
-  <suffix> </suffix>
-  <w>ἐσόπτρου</w>
-  <suffix> </suffix>
-  <w>ἐν</w>
-  <suffix> </suffix>
-  <w>αἰνίγματι</w>
-  <suffix>,  </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>πρόσωπον</w>
-  <suffix> </suffix>
-  <w>πρὸς</w>
-  <suffix> </suffix>
-  <w>πρόσωπον</w>
-  <suffix>·  </suffix>
-  <w>ἄρτι</w>
-  <suffix> </suffix>
-  <w>γινώσκω</w>
-  <suffix> </suffix>
-  <w>ἐκ</w>
-  <suffix> </suffix>
-  <w>μέρους</w>
-  <suffix>,  </suffix>
-  <w>τότε</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>ἐπιγνώσομαι</w>
-  <suffix> </suffix>
-  <w>καθὼς</w>
-  <suffix> </suffix>
-  <w>καὶ</w>
-  <suffix> </suffix>
-  <w>ἐπεγνώσθην</w>
-  <suffix>.  </suffix>
-  <verse-number id="1 Corinthians 13:13">13</verse-number>
-  <w>νυνὶ</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>μένει</w>
-  <suffix> </suffix>
-  <w>πίστις</w>
-  <suffix>,  </suffix>
-  <w>ἐλπίς</w>
-  <suffix>,  </suffix>
-  <w>ἀγάπη</w>
-  <suffix>·  </suffix>
-  <w>τὰ</w>
-  <suffix> </suffix>
-  <w>τρία</w>
-  <suffix> </suffix>
-  <w>ταῦτα</w>
-  <suffix>,  </suffix>
-  <w>μείζων</w>
-  <suffix> </suffix>
-  <w>δὲ</w>
-  <suffix> </suffix>
-  <w>τούτων</w>
-  <suffix> </suffix>
-  <w>ἡ</w>
-  <suffix> </suffix>
-  <w>ἀγάπη</w>
-  <suffix>.  </suffix>
+  <p>
+    <verse-number id="1 Corinthians 13:1">13:1</verse-number>
+    <w>Ἐὰν</w>
+    <suffix> </suffix>
+    <w>ταῖς</w>
+    <suffix> </suffix>
+    <w>γλώσσαις</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀνθρώπων</w>
+    <suffix> </suffix>
+    <w>λαλῶ</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>τῶν</w>
+    <suffix> </suffix>
+    <w>ἀγγέλων</w>
+    <suffix>,  </suffix>
+    <w>ἀγάπην</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχω</w>
+    <suffix>,  </suffix>
+    <w>γέγονα</w>
+    <suffix> </suffix>
+    <w>χαλκὸς</w>
+    <suffix> </suffix>
+    <w>ἠχῶν</w>
+    <suffix> </suffix>
+    <w>ἢ</w>
+    <suffix> </suffix>
+    <w>κύμβαλον</w>
+    <suffix> </suffix>
+    <w>ἀλαλάζον</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:2">2</verse-number>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix>⸃  </suffix>
+    <w>ἔχω</w>
+    <suffix> </suffix>
+    <w>προφητείαν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>εἰδῶ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>μυστήρια</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>πᾶσαν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>γνῶσιν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸄</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix>⸅  </suffix>
+    <w>ἔχω</w>
+    <suffix> </suffix>
+    <w>πᾶσαν</w>
+    <suffix> </suffix>
+    <w>τὴν</w>
+    <suffix> </suffix>
+    <w>πίστιν</w>
+    <suffix> </suffix>
+    <w>ὥστε</w>
+    <suffix> </suffix>
+    <w>ὄρη</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>μεθιστάναι</w>
+    <suffix>,  </suffix>
+    <w>ἀγάπην</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχω</w>
+    <suffix>,  </suffix>
+    <w>οὐθέν</w>
+    <suffix> </suffix>
+    <w>εἰμι</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:3">3</verse-number>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix>⸃  </suffix>
+    <w>ψωμίσω</w>
+    <suffix> </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ὑπάρχοντά</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <prefix> ⸄</prefix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐὰν</w>
+    <suffix>⸅  </suffix>
+    <w>παραδῶ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>σῶμά</w>
+    <suffix> </suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>καυθήσομαι</w>
+    <suffix>,  </suffix>
+    <w>ἀγάπην</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μὴ</w>
+    <suffix> </suffix>
+    <w>ἔχω</w>
+    <suffix>,  </suffix>
+    <w>οὐδὲν</w>
+    <suffix> </suffix>
+    <w>ὠφελοῦμαι</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 13:4">4</verse-number>
+    <w>Ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>μακροθυμεῖ</w>
+    <suffix>,  </suffix>
+    <w>χρηστεύεται</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>ζηλοῖ</w>
+    <suffix> </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix>⸃,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>περπερεύεται</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>φυσιοῦται</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 13:5">5</verse-number>
+    <w>οὐκ</w>
+    <suffix> </suffix>
+    <w>ἀσχημονεῖ</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>ζητεῖ</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>ἑαυτῆς</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>παροξύνεται</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>λογίζεται</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>κακόν</w>
+    <suffix>,  </suffix>
+    <verse-number id="1 Corinthians 13:6">6</verse-number>
+    <w>οὐ</w>
+    <suffix> </suffix>
+    <w>χαίρει</w>
+    <suffix> </suffix>
+    <w>ἐπὶ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἀδικίᾳ</w>
+    <suffix>,  </suffix>
+    <w>συγχαίρει</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τῇ</w>
+    <suffix> </suffix>
+    <w>ἀληθείᾳ</w>
+    <suffix>·  </suffix>
+    <verse-number id="1 Corinthians 13:7">7</verse-number>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>στέγει</w>
+    <suffix>,  </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>πιστεύει</w>
+    <suffix>,  </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ἐλπίζει</w>
+    <suffix>,  </suffix>
+    <w>πάντα</w>
+    <suffix> </suffix>
+    <w>ὑπομένει</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+    <verse-number id="1 Corinthians 13:8">8</verse-number>
+    <w>Ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix> </suffix>
+    <w>οὐδέποτε</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>πίπτει</w>
+    <suffix>.  </suffix>
+    <w>εἴτε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>προφητεῖαι</w>
+    <suffix>,  </suffix>
+    <w>καταργηθήσονται</w>
+    <suffix>·  </suffix>
+    <w>εἴτε</w>
+    <suffix> </suffix>
+    <w>γλῶσσαι</w>
+    <suffix>,  </suffix>
+    <w>παύσονται</w>
+    <suffix>·  </suffix>
+    <w>εἴτε</w>
+    <suffix> </suffix>
+    <w>γνῶσις</w>
+    <suffix>,  </suffix>
+    <w>καταργηθήσεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:9">9</verse-number>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>μέρους</w>
+    <suffix> </suffix>
+    <prefix> ⸀</prefix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>γινώσκομεν</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>μέρους</w>
+    <suffix> </suffix>
+    <w>προφητεύομεν</w>
+    <suffix>·  </suffix>
+    <verse-number id="1 Corinthians 13:10">10</verse-number>
+    <w>ὅταν</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἔλθῃ</w>
+    <suffix> </suffix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>τέλειον</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>τὸ</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>μέρους</w>
+    <suffix> </suffix>
+    <w>καταργηθήσεται</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:11">11</verse-number>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>ἤμην</w>
+    <suffix> </suffix>
+    <w>νήπιος</w>
+    <suffix>,  </suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐλάλουν</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>νήπιος</w>
+    <suffix>,  </suffix>
+    <w>ἐφρόνουν</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>νήπιος</w>
+    <suffix>,  </suffix>
+    <w>ἐλογιζόμην</w>
+    <suffix> </suffix>
+    <w>ὡς</w>
+    <suffix> </suffix>
+    <w>νήπιος</w>
+    <suffix>⸃·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ὅτε</w>
+    <suffix> </suffix>
+    <w>γέγονα</w>
+    <suffix> </suffix>
+    <w>ἀνήρ</w>
+    <suffix>,  </suffix>
+    <w>κατήργηκα</w>
+    <suffix> </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>τοῦ</w>
+    <suffix> </suffix>
+    <w>νηπίου</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:12">12</verse-number>
+    <w>βλέπομεν</w>
+    <suffix> </suffix>
+    <w>γὰρ</w>
+    <suffix> </suffix>
+    <w>ἄρτι</w>
+    <suffix> </suffix>
+    <w>δι’</w>
+    <suffix> </suffix>
+    <w>ἐσόπτρου</w>
+    <suffix> </suffix>
+    <w>ἐν</w>
+    <suffix> </suffix>
+    <w>αἰνίγματι</w>
+    <suffix>,  </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>πρόσωπον</w>
+    <suffix> </suffix>
+    <w>πρὸς</w>
+    <suffix> </suffix>
+    <w>πρόσωπον</w>
+    <suffix>·  </suffix>
+    <w>ἄρτι</w>
+    <suffix> </suffix>
+    <w>γινώσκω</w>
+    <suffix> </suffix>
+    <w>ἐκ</w>
+    <suffix> </suffix>
+    <w>μέρους</w>
+    <suffix>,  </suffix>
+    <w>τότε</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>ἐπιγνώσομαι</w>
+    <suffix> </suffix>
+    <w>καθὼς</w>
+    <suffix> </suffix>
+    <w>καὶ</w>
+    <suffix> </suffix>
+    <w>ἐπεγνώσθην</w>
+    <suffix>.  </suffix>
+    <verse-number id="1 Corinthians 13:13">13</verse-number>
+    <w>νυνὶ</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>μένει</w>
+    <suffix> </suffix>
+    <w>πίστις</w>
+    <suffix>,  </suffix>
+    <w>ἐλπίς</w>
+    <suffix>,  </suffix>
+    <w>ἀγάπη</w>
+    <suffix>·  </suffix>
+    <w>τὰ</w>
+    <suffix> </suffix>
+    <w>τρία</w>
+    <suffix> </suffix>
+    <w>ταῦτα</w>
+    <suffix>,  </suffix>
+    <w>μείζων</w>
+    <suffix> </suffix>
+    <w>δὲ</w>
+    <suffix> </suffix>
+    <w>τούτων</w>
+    <suffix> </suffix>
+    <w>ἡ</w>
+    <suffix> </suffix>
+    <w>ἀγάπη</w>
+    <suffix>.  </suffix>
+  </p>
+  <p/>
+  <p>
+      </p>
 </chapter>
