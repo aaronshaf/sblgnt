@@ -289,11 +289,6 @@
     <w>γάρ</w>
     <suffix>.  </suffix>
   </p>
-  <p/>
-  <p>Other Endings of Mark</p>
-  <p/>
-  <p>Intermediate Ending</p>
-  <p/>
   <p>
     <prefix> ⟦</prefix>
     <w>Πάντα</w>
@@ -365,9 +360,6 @@
     <w>ἀμήν</w>
     <suffix>.⟧  </suffix>
   </p>
-  <p/>
-  <p>Long Ending</p>
-  <p/>
   <p>
     <verse-number id="Mark 16:9">9</verse-number>
     <prefix> ⟦</prefix>
@@ -443,7 +435,6 @@
     <w>ἠπίστησαν</w>
     <suffix>.  </suffix>
   </p>
-  <p/>
   <p>
     <verse-number id="Mark 16:12">12</verse-number>
     <w>Μετὰ</w>
@@ -492,7 +483,6 @@
     <w>ἐπίστευσαν</w>
     <suffix>.  </suffix>
   </p>
-  <p/>
   <p>
     <verse-number id="Mark 16:14">14</verse-number>
     <w>Ὕστερον</w>
@@ -657,7 +647,6 @@
     <w>ἕξουσιν</w>
     <suffix>.  </suffix>
   </p>
-  <p/>
   <p>
     <verse-number id="Mark 16:19">19</verse-number>
     <w>Ὁ</w>
@@ -734,7 +723,4 @@
     <w>σημείων</w>
     <suffix>.⟧  </suffix>
   </p>
-  <p/>
-  <p/>
-  <p/>
 </chapter>
