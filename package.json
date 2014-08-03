@@ -1,0 +1,15 @@
+{
+  "name": "sblgnt",
+  "version": "1.0.0",
+  "description": "The Greek New Testament: SBL Edition",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronshaf/sblgnt.git"
+  },
+  "author": "Society of Biblical Literature and Logos Bible Software",
+  "license": "sblgnt.com/license",
+  "bugs": {
+    "url": "https://github.com/aaronshaf/sblgnt/issues"
+  },
+  "homepage": "https://github.com/aaronshaf/sblgnt"
+}
